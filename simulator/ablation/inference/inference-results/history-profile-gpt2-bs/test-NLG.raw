@@ -1,0 +1,711 @@
+4 miles away [poi_type] gas station [poi] Jonestown [distance] 4 miles [address] 528 Anton Ct [eoaa] [soda] [distance] quick [eoda] [sodu] Pick a quick route to get there please [eodu] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [traffic_info] heavy traffic [poi] Chevron [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [poi] Chevron [eoaa] [soda] [poi] chevron [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [so
+[eoau] [soaa] [poi_type] gas station [address] 783 Arcadia Pl [poi] Chevron [eoaa] [soda] [distance] quickest [poi] chevron [greeting] thank [eoda] [sodu] Pick the quickest way and let's go there, thank you! [e
+the 16th [date] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau] [eoau] [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this
+[eoau] [soaa] [location] alhambra [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [
+[eoau] [soaa] [location] alhambra [saturday] blizzard, low of 20F, high of 30F [monday] frost, low of 20F, high of 30F [friday] snow, low of 20F, high of 30F [eoaa] [soda] [greeting] thank [eoda]
+garage is 4 miles away with heavy traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] grocery store [poi] The Clement Hotel [eoaa] [soda] [eoda] [sodu] Okay, give me the address to the location. [eodu] [
+Sigona Farmers Market [eoau] [soaa] [traffic_info] heavy traffic [distance] 2 miles [distance] 4 miles [poi] Sigona Farmers Market [poi] Whole Foods [eoaa] [soda] [poi] sigona farmers market [greeting] thank [eoda] [sodu] Thank you.
+route [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] grocery store [address] 638 Amherst St [poi] Sigona Farmers Market [eoaa] [soda] [eoda] [sodu] Perfect. Let's go there. [eodu] [so
+o [eoau] [soaa] [location] san mateo [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+day. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [
+this way [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa
+i tell you the best route available [eoau] [soaa] [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [distance] 3 miles [traffic_info] heavy traffic [poi_type] home [poi] home [eoaa] [soda] [poi] home [address] 56 cadwell street [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [distance] 3 miles [poi] Palo Alto Medical Foundation [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [soau] [eoau] [soaa] [
+caron [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] near me [po
+[eoau] [soaa] [distance] 4 miles [poi] Whole Foods [poi] Safeway [eoaa] [soda] [distance] quickest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [poi] safeway [address] 452 arcadia pl [poi] safeway [eoaa] [soda] [poi] safeway [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+caron [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] near me [po
+is 4 miles away with no traffic [eoau] [soaa] [traffic_info] no traffic [distance] 3 miles [distance] 4 miles [poi_type] grocery store [poi] Willows Market [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau
+is heavy traffic, I will set up another route and make sure to get there as quick as possible. [eoau] [soaa] [traffic_info] heavy traffic [poi_type] grocery store [poi] Willows Market [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quickest route [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] where is the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+5 miles away [eoau] [soaa] [distance] 5 miles [poi] Jonestown [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [soau] [eo
+[eoau] [soaa] [distance] 5 miles [poi_type] shopping center [address] 347 Alta Mesa Ave [poi] Town and Country [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks so much. [eodu] [soau] [eoau] [
+[eoau] [soaa] [location] brentwood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [s
+[eoau] [soaa] [location] brentwood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+wd [eoau] [soaa] [poi_type] parking garage [poi] Stanford Oval Parking [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [distance] 4 miles [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage [
+chicago [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date
+[eoau] [soaa] [poi_type] shopping center [distance] 2 miles [address] 773 Alger Dr [poi] Stanford Shopping Center [eoaa] [soda] [poi] stanford shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+street [eoau] [soaa] [poi_type] hospital [address] 899 Ames Ct [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+weather forecast [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+[eoau] [soaa] [location] corona [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [location] New York [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+4 miles away it will rain on Wednesday [eoau] [soaa] [distance] 4 miles [location] compton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+4 miles away [poi] palo alto cafe [eoaa] [soda] [distance] quickest [eoda] [sodu] Give me the address and directions via the quickest route. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [distance] 4 miles [poi] Valero [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] i have to go
+clear skies. [eoau] [soaa] [traffic_info] heavy traffic [address] 200 Alester Ave [poi] Valero [eoaa] [soda] [eoda] [sodu] Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa]
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] gas station [poi] Shell [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa
+car is also within 4 miles but there is a road block nearby [eoau] [soaa] [distance] 4 miles [traffic_info] road block nearby [poi_type] car parking [poi] friend's house [eoaa] [soda] [eoda] [sodu] That's fine. Let's go there. [e
+city [eoau] [soaa] [distance] 1 miles [traffic_info] no traffic [poi_type] home [address] 5677 southwest 4th street [poi] home [eoaa] [soda] [distance] fastest route [eoda] [sodu] Please give me the fastest route to get there. [eod
+tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda
+parking [eoau] [soaa] [distance] 3 miles [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] gas station
+[eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [eoau] [
+[eoau] [soaa] [distance] 3 miles [poi] Jing Jing [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+the 4th [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+4 miles away [poi] palo alto cafe [eoaa] [soda] [distance] fastest route [eoda] [sodu] Okay, give me the fastest route please [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+[eoau] [soaa] [distance] 5 miles [poi] Starbucks [eoaa] [soda] [distance] fastest [poi] starbucks [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] coffee place [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau]
+[eoau] [soaa] [distance] 3 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] tennis activity [eoda
+Friday [eoau] [soaa] [date] the 5th [date] wednesday [event] doctor appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+nesday is at 10am with your mother, and on the 6th is at 3pm with your aunt. [eoau] [soaa] [time] 3pm [time] 7pm [date] wednesday [date] the 6th [date] the 5th [party] mother [party] aunt [event] doctor appointment [eoaa] [soda]
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tuesday [eoau] [soaa] [location] los angeles [eoaa] [soda] [date] next week [weather_attribute] cloudy [location] Los Angeles [greeting] thank [eoda] [sodu] Los Angeles thanks [eodu] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [soau] [eoau]
+oval parking [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 171 Oak Rd [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please send me its address on screen and pick a quick route to reach there [eodu] [
+[eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [poi] midtown shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [poi_type] shopping center [agenda] find me somewhere to go shopping [eoaa] [soda] [greeting] thank [eoda] [sodu] That sounds great, thank you [eodu] [soau] [eoau] [soaa] [eoaa]
+heavy traffic [eoau] [soaa] [poi_type] grocery store [poi] grocery store [address] 113 Anton Ct [eoaa] [soda] [eoda] [sodu] That sounds great. Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa
+or 76 which is the only one i have listed. [eoau] [soaa] [poi_type] grocery store [poi] 76 [eoaa] [soda] [distance] fastest route [poi] 76 [eoda] [sodu] Okay, give me the fastest route to go there please. [eodu] [so
+for your help. [eoau] [soaa] [distance] 3 miles [traffic_info] road block nearby [address] 1313 Chester Ave [poi_type] grocery store [address] 1313 Chester Ave [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda]
+is the only day that it is open. [eoau] [soaa] [date] the 6th [date] saturday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] downtown chicago [eoaa] [soda] [weather_attribute] temperature [date] this week [location] downtown chicago [eoda] [sodu] Find out the temperature for downtown chicago this week. [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [today] monday [location] downtown chicago [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+is on the 1st at 10 am with your mother. [eoau] [soaa] [date] the 1st [party] mother [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+. [eoau] [soaa] [date] the 4th [date] the 5th [party] sister [party] father [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [location] durham [eoaa] [soda] [weather_attribute] humid [date] today and tomorrow [location] Durham [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoau] [soaa] [location] durham [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau] [
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+this week [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] humid [date] next week [location] New York [eoda] [sodu] Will it be humid in New York next week? [eodu] [soau] [eoau] [soaa] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [eoda] [sodu] is it going to be cloudy in the next 7 days [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] New York [eoda] [sodu] Will it rain in New York next week? [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [location] brentwood [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [soau] [eoau]
+street [eoau] [soaa] [poi_type] shopping center [address] 113 Anton Ct [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That sounds great. Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [distance] 1 miles [poi] Palo Alto Garage R [eoaa] [soda] [eoda] [sodu] Give me directions. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+stormy on Saturday [eoau] [soaa] [location] redwood city [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_
+isth [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eo
+the garage is 6 miles away with heavy traffic [eoau] [soaa] [distance] 6 miles [traffic_info] heavy traffic [poi_type] home [poi] home [eoaa] [soda] [distance] quickest route [eoda] [sodu] Please give me the quickest route. [eodu] [so
+ave [eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank [eoda]
+[eoau] [soaa] [poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [poi] 5671 barringer street [greeting] thank [eoda] [sodu] No that sounds great. Thank you. [eodu] [soau] [
+[eodu] [soau] There is a car collision nearby but here is the quickest route to Stanford Childrens Health. [eoau] [soaa] [traffic_info] car collision nearby [poi] Stanford Childrens Health [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau
+is the only day that it is open. [eoau] [soaa] [date] the 6th [date] saturday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tuesday [eoau] [soaa] [location] compton [eoaa] [soda] [date] next two days [weather_attribute] clear skies [location] Manhattan [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop
+[eoau] [soaa] [today] monday [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+is it going to drizzle today? [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+[eoau] [soaa] [location] mountain view [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [
+is on the 1st at 10 am with your mother. [eoau] [soaa] [date] the 1st [party] mother [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+. [eoau] [soaa] [time] 5pm [time] 5pm [date] the 4th [date] the 5th [party] mother [party] Jon [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [poi_type] hospital [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+me [eoau] [soaa] [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+for their help. [eoau] [soaa] [traffic_info] heavy traffic [distance] 2 miles [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [so
+ave tuesday, and so on the way to Stanford Oval Parking [eoau] [soaa] [poi] Stanford Oval Parking [poi] Stanford Oval Parking [eoaa] [soda] [poi] stanford oval parking [greeting] thank [eoda] [sodu] Thank you car! [eodu] [
+then i tell you the weather perfect [eoau] [soaa] [date] thursday [location] danville [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+any day this week? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [location] San Francisco [eoda] [sodu] Will it be cloudy in San Francisco this week? [eodu] [soau] [eoau
+[eoau] [soaa] [location] durham [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+or next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa]
+[eoau] [soaa] [today] monday [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+on Thursday [eoau] [soaa] [location] new york [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week
+[eoau] [soaa] [location] new york [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+tuesday [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau
+[eoau] [soaa] [location] seattle [eoaa] [soda] [date] this week [weather_attribute] humid [location] seattle [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda
+for the information. [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [e
+4 miles away with no traffic [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Boston Childrens Health [eoaa] [soda] [eoda] [sodu] Great, let's go there. [eodu] [soau] [
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Chef Chu's [eoaa] [soda] [distance] nearby [traffic_info] quick route [poi_type] chinese restaurant [address] 53 University Av [poi] Chef Chu's [eoda]
+clear route. [eoau] [soaa] [traffic_info] no traffic [poi] Chef Chu's [address] 593 Arrowhead Way [eoaa] [soda] [poi] chef chu's [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa]
+[eodu] [soau] There is a Pizza Chicago and Round Table. [eoau] [soaa] [poi] Pizza Chicago [poi] Round Table [eoaa] [soda] [distance] closer [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+[eoau] [soaa] [distance] 5 miles [poi_type] chinese restaurant [poi] The Westin [eoaa] [soda] [distance] fastest [eoda] [sodu] OK, please direct me there via the fastest available route. [eodu] [soau] [eoau] [so
+Chef Chu's 4 miles away. [eoau] [soaa] [distance] 5 miles [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Chef Chu's [eoaa] [soda] [eoda] [sodu] That sounds great. Let's go there. [eod
+car. [eoau] [soaa] [traffic_info] no traffic [poi] Teavana [eoaa] [soda] [eoda] [sodu] Then let's go there. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+stormy [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+[eoau] [soaa] [eoaa] [soda] [date] today [location] Los Angeles [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [e
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it going to rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+stormy on thursday [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date
+or the next week. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date
+attending [eoau] [soaa] [event] doctor appointment [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+and 4th monday. [eoau] [soaa] [date] wednesday [date] the 20th [date] the 5th [party] Ana [party] father [event] doctor appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+is on the 10th at 7pm. [eoau] [soaa] [time] 7pm [date] the 10th [date] the 5th [party] sister [party] brother [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [e
+is it the 13th? [eoau] [soaa] [date] tuesday [date] the 13th [date] monday [party] sister [party] Jon [event] tennis match [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa
+is on the 3rd at 10 am with your mother. [eoau] [soaa] [date] the 3rd [party] mother [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+. [eoau] [soaa] [time] 10am [time] 7pm [date] the 8th [date] the 8th [party] sister [party] father [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+weather forecast [eoau] [soaa] [date] next week [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week
+ing [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+tuesday [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Great. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [sod
+4 miles away [poi_type] pizza restaurant [distance] 4 miles [poi] Ravenswood Shopping Center [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest [poi_type] shopping center [address] 434 Arastradero Rd. [poi] Ravenswood Shopping Center [eoda] [
+[poi] Pizza Hut [distance] 3 miles [poi] Pizza Hut [eoaa] [soda] [poi] pizza hut [eoda] [sodu] Give me the address to the pizza hut. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+[eoau] [soaa] [traffic_info] no traffic [address] 842 Arrowhead Way [poi] Panda Express [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+[eoau] [soaa] [eoaa] [soda] [date] today [weather_attribute] raining [location] Inglewood [eoda] [sodu] Will it be raining in Inglewood today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+the 4th [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+[eoau] [soaa] [greeting] thank [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+meeting [eoau] [soaa] [event] meeting [agenda] meeting [eoaa] [soda] [event] meeting [eoda] [sodu] What is the agenda? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [agenda] discuss the merger [agenda] HR [event] meeting [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [e
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] next week [eoda] [sodu] is it going to snow next week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+stormy on thursday [eoau] [soaa] [location] cleveland [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+stormy [eoau] [soaa] [location] durham [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+tuesday [eoau] [soaa] [date] tuesday [date] the 5th [location] menlo park [eoaa] [soda] [date] 7 days [location] menlo park [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [so
+is on the 3rd at 10 am with your mother. [eoau] [soaa] [date] the 3rd [party] mother [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+or tuesday at 7 pm. [eoau] [soaa] [date] tuesday [date] the 5th [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [distance] 4 miles [poi_type] pizza restaurant [poi] Ravenswood Shopping Center [eoaa] [soda] [eoda] [sodu] That's great, please give me directions. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [distance] 2 miles [distance] 915 Arbol Dr [poi] Pizza Chicago [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+[eoau] [soaa] [poi] Pizza Chicago [address] 550 Alester Ave [eoaa] [soda] [poi] pizza chicago [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+[eoau] [soaa] [address] 5672 barringer street [poi] 5672 barringer street [eoaa] [soda] [poi] 5672 barringer street [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [distance] 5672 barringer street [poi] 5672 barringer street [eoaa] [soda] [poi] 5672 barringer street [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [address] 5672 barringer street [poi] 5672 barringer street [eoaa] [soda] [poi] 5672 barringer street [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+the garage is 1 mile away with heavy traffic, it is 4 miles away with moderate traffic [eoau] [soaa] [distance] 4 miles [traffic_info] moderate traffic [poi_type] home [poi] home [distance] 1 mile [address] 5671 barringer street [eoaa] [soda] [distance] quick route [
+caron street [eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] quick route [poi_type] home [poi] home [eoda] [sodu] Please show me a quick route to get
+clear skies [eoau] [soaa] [traffic_info] no traffic [distance] 3 miles [poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [
+or brentwood is the only option. [eoau] [soaa] [poi_type] home [poi] home [poi] home [eoaa] [soda] [distance] quickest [eoda] [sodu] Give me the quickest route please. [eodu] [soau] [eoau] [so
+chu [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [distance] 4 miles [poi] Palo Alto Cafe [poi] Palo Alto Cafe [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] coffee or tea place [poi] Palo Alto Cafe [eoda] [sodu] Yes, please, show
+[eoau] [soaa] [distance] 4 miles [poi_type] shopping center [address] 436 Alger Dr [poi] Palo Alto Shopping Center [eoaa] [soda] [distance] nearest 4 miles away [traffic_info] no traffic [poi_type] shopping center [address] 436 Alger Dr. [poi] Palo
+any other day? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] New York [eoda] [sodu] Will it rain in New York next week? [eodu] [soau] [eoau] [
+2 miles away [eoau] [soaa] [distance] 2 miles [poi] Starbucks [poi] Palo Alto Cafe [eoaa] [soda] [poi] Palo Alto Cafe [eoda] [sodu] I need to know about Palo Alto Cafe please. [eodu] [soau] [eoau] [so
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [location] Camarillo [eoda] [sodu] Over the next few days in camarillo will there be any rain? [eodu] [soau] [e
+road block is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] shopping center [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] shopping center [address] 657 Ames Ave [
+4 miles [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 338 Alester Ave [poi] Topanga Mall [eoaa] [soda] [distance] quickest [eoda] [sodu] Set the GPS to the quickest route to get there. [eodu] [soau
+[eoau] [soaa] [traffic_info] car collision nearby [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+tio i [eoau] [soaa] [location] grand rapids [eoaa] [soda] [weather_attribute] humid [date] tomorrow [location] Grand Rapids [eoda] [sodu] I want to know if it will be humid in Grand Rapids tomorrow [eodu] [soau] [eoau] [so
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this
+[eoau] [soaa] [location] exeter [today] monday [eoaa] [soda] [weather_attribute] humid [date] tomorrow [location] Exeter [greeting] thank [eoda] [sodu] Please check for humid weather in Exeter tomorrow. Thank you. [eodu] [soau]
+clear skies, low of 40F, high of 50F [eoau] [soaa] [today] monday [location] exeter [monday] overcast, low of 40F, high of 50F [sunday] dry, low of 40F, high of 50F [eoaa] [soda] [greeting] thank [e
+on Monday and Tuesday. [eoau] [soaa] [today] monday [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date
+or else it will rain all over the next 7 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] next week [eoda] [sodu] is it going to snow next week [eodu] [soau] [eoau] [
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa] [
+and stormy weather today and tomorrow. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow any this week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 113 Anton Ct [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+stormy weather [eoau] [soaa] [location] compton [eoaa] [soda] [weather_attribute] stormy [date] Sunday [location] Compton [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [today] monday [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+sentinel's appointment [eoau] [soaa] [date] monday [event] doctor's appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+any other days? [eoau] [soaa] [eoaa] [soda] [eoda] [sodu] That will have to do. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] tennis [eoda] [soau] [eoau
+[eoau] [soaa] [location] seattle [eoaa] [soda] [date] this week [weather_attribute] temperature [location] Seattle [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu] what's
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+wd [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoau] [soaa] [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [poi] Palo Alto Garage R [address] 580 Van Ness Ave [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+4 miles away [poi] starbucks [eoaa] [soda] [distance] fastest [poi] starbucks [eoda] [sodu] Please give me directions to the fastest available location. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+4 miles from here i have 4 miles of road block nearby it is 4 miles away and there is no traffic on our way We should be there in less than a couple minutes [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [distance] 3 miles [poi] Starbucks [eoaa] [soda] [greeting
+is it good for me to get there the quickest way? [eoau] [soaa] [poi] Stanford Oval Parking [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+[eoau] [soaa] [poi] The Clement Hotel [poi] The Westin [eoaa] [soda] [distance] quickest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+tomorrow, it will be cloudy, and there will be dew on Wednesday [eoau] [soaa] [location] boston [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you [eodu] [soau] [eoau] [soaa]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+street [eoau] [soaa] [address] 113 Anton Ct [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [sodu] Please give me the fastest route. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+so much. [eoau] [soaa] [poi] Town and Country [eoaa] [soda] [poi] town and country [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+is 4 miles away. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi] Four Seasons [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoau] [soaa] [address] 383 University Ave [poi] The Clement Hotel [greeting] thank [eoaa] [soda] [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+activity is on the 2nd at 10 am [eoau] [soaa] [date] the 2nd [event] yoga activity [time] 10 am [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and
+. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] hospital [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [soau] [eo
+time is 6pm on the 9th. [eoau] [soaa] [date] the 9th [time] 6pm [date] the 9th [party] Jon [event] doctor appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa
+4 miles away [poi] palo alto cafe [eoaa] [soda] [distance] quick [eoda] [sodu] Okay, find the quickest route to get there and send the info on my screen, please [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoau] [soaa] [distance] 7 miles [traffic_info] moderate traffic [poi] Valero [eoaa] [soda] [address] 200 Alester Ave [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+tuesday [eoau] [soaa] [address] 200 Alester Ave [poi] Valero [eoaa] [soda] [poi] valero [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [traffic_info] moderate traffic [distance] 5 miles [address] 5671 barringer street [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+is to go over the budget. [eoau] [soaa] [date] the 5th [date] the 11th [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [agenda] discuss the company picnic [agenda] go over the quarterly report [time] 4pm [time] 6pm [date] saturday [date] the 4th [party] sister [party] father [event] meeting [eoaa] [soda] [greeting] thank [eoda] [so
+or 4 pm on monday [date] monday [party] the infrastructure team [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type]
+or 3 miles away [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [eoau] [soaa] [e
+2 minutes away [eoau] [soaa] [poi_type] parking garage [distance] 1 miles [poi] Palo Alto Garage R [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [
+is to go over the budget. [eoau] [soaa] [date] the 5th [date] the 11th [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [date] monday [date] thursday [party] boss [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+weather forecast [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+[eoau] [soaa] [location] mountain view [eoaa] [soda] [weather_attribute] snow [date] next week [location] Mountain View [greeting] thank [eoda] [sodu] Thanks for the information. [eodu] [soau] [eoau] [soaa] [eo
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it going to rain sometime this week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+oval parking [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 171 Oak Rd [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please send me its address on screen and pick a quick route to reach there [eodu] [
+[eoau] [soaa] [distance] 3 miles [traffic_info] heavy traffic [poi_type] shopping center [poi] Topanga Mall [eoaa] [soda] [eoda] [sodu] Let's go to Topanga Mall please. [eodu] [soau] [eoau] [so
+[eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 171 oak rd [poi] Topanga Mall [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] shopping center [address] 171 oak rd [poi] topanga mall [
+[eoau] [soaa] [distance] 3 miles [poi] Four Seasons [eoaa] [soda] [poi] four seasons [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What time is my
+is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [distance] 4 miles [traffic_info] moderate traffic [poi] The Westin [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [address] 329 El Camino Real [poi] The Westin [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+or else it will be cloudy. [eoau] [soaa] [date] tuesday [date] the 5th [party] sister [event] dinner [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+theton tuesday [eoau] [soaa] [location] san francisco [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date]
+[eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau]
+[eoau] [soaa] [date] saturday [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+. [eoau] [soaa] [date] the 8th [date] wednesday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [so
+any other week? [eoau] [soaa] [date] the 7 days [date] saturday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] That's great, thank you [eodu] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [location] san francisco [eoaa] [soda] [weather_attribute] rain [date] next few days [location] San Francisco [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] gas
+or soon. [eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [e
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+stormy [eoau] [soaa] [location] seattle [eoaa] [soda] [weather_attribute] overcast [date] next 7 days [location] Seattle [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [
+clear skies, low of 70F, high of 90F [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [e
+is the only day that it is open. [eoau] [soaa] [date] the 6th [date] saturday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+stormy weather [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] next 7 days [eoda] [sodu] is it going to snow in the next 7 days [eodu] [soau] [eoau] [soaa] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Menlo Park [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this
+car is 4 miles away with heavy traffic [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi] palo alto cafe [eoaa] [soda] [distance] quickest route [eoda] [sodu] Please give me the quickest route. [eodu] [soau] [e
+car. [eoau] [soaa] [distance] 4 miles [poi_type] home [address] 580 van ness ave [poi] Tom [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+appointment [eoau] [soaa] [event] doctor's appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+tomorrow [eoau] [soaa] [address] 113 Anton Ct [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+ist [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] boston [eoda] [sodu] Is it gonna rain in Boston today and tomorrow? [eodu] [soau] [eoau] [soaa
+[eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [location] alhambra [saturday] humid, low of 20F, high of 30F [monday] cloudy, low of 20F, high of 30F [tuesday] overcast, low of 20F, high of 30F [friday] dry, low of 20F, high of 30F [eoaa
+is on the 3rd at 10 am with your mother. [eoau] [soaa] [date] the 3rd [party] mother [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Boston Childrens Health [eoaa] [soda] [poi] boston childrens health [eoda] [sodu] Boston Childrens Health. [eodu] [soau] [eoau] [soaa] [eoaa]
+on Tuesday [eoau] [soaa] [location] durham [today] monday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [so
+in conference room 100 [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+meadow [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+any other day? [eoau] [soaa] [today] monday [location] new york [eoaa] [soda] [weather_attribute] clear skies [date] Saturday [location] New York city [eoda] [sodu] Will there be clear skies in New York on Saturday? [eodu] [soau] [
+overcast, low of 30F, high of 50F [eoau] [soaa] [location] new york [friday] drizzle, low of 30F, high of 50F [monday] overcast, low of 30F, high of 50F [tuesday] raining, low of 30F, high of 50F [wednesday] blizzard
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Cleveland [eoaa] [soda] [eoda] [sodu] Okay, where is Cleveland? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+[eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+the redwood city [eoau] [soaa] [poi_type] hospital [poi] Redwood City [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+no traffic [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] hospital [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [soau] [
+[eoau] [soaa] [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [e
+football game is friday at 11 am [eoau] [soaa] [date] friday [time] 11 am [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+[eoau] [soaa] [date] monday [party] brother [event] football activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee or tea place [e
+mall [eoaa] [soda] [distance] fastest [poi_type] grocery store [poi] shopping center [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu] what is the weather like this week [eodu]
+[eoau] [soaa] [distance] 2 miles [poi] Philz [poi] Teavana [eoaa] [soda] [traffic_info] avoid heavy traffic [poi] Philz [eoda] [sodu] Yes, please, pick a route to avoid all heavy traffic and let's go there! [e
+[eoau] [soaa] [traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway [eoaa] [soda] [poi] safeway [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+chinese restaurant [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eo
+Round Table is located 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] grocery store [poi] Round Table [eoaa] [soda] [poi] round table [greeting] thank [eoda] [soau] [eoau
+[eoau] [soaa] [distance] 3 miles [poi] Tom's house [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] friends house [eoda] [soau] [eoau
+being reported as cloudy. [eoau] [soaa] [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date
+for the information. [eoau] [soaa] [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] today [eoda] [soau] [eo
+weather forecast [eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa] [
+place [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+it is 4 miles away with heavy traffic [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] The Westin [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [so
+any other information you need? [eoau] [soaa] [distance] 2 miles [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [eoda] [sodu] Yes please. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+all information about the new york city [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] temperature [date] this week [location] new york [eoda] [sodu] what is the temperature in new york this week [eodu] [soau] [eo
+[eoau] [soaa] [location] menlo park [eoaa] [soda] [weather_attribute] Humid [date] Next seven days [location] New York [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eo
+of this week [eoau] [soaa] [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it
+meeting [eoau] [soaa] [event] conference [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+[date] monday [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [e
+[eoau] [soaa] [party] boss [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [e
+[eoau] [soaa] [room] conference room 102 [event] meeting [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau]
+car is 4 miles away with heavy traffic [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi] palo alto cafe [eoaa] [soda] [distance] quickest route [eoda] [sodu] Please give me the quickest route. [eodu] [soau] [e
+[eoau] [soaa] [address] 864 Almanor Ln [poi] jacks house [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [e
+4 miles away [poi] starbucks [eoaa] [soda] [distance] fastest [poi] starbucks [eoda] [sodu] Please give me directions to the fastest available location. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+caron [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [
+teavana route [eoau] [soaa] [distance] 5 miles [traffic_info] moderate traffic [poi_type] grocery store [address] 145 Amherst St [poi] Teavana [eoaa] [soda] [poi] teavana [greeting] thank [eoda] [soau] [
+[eoau] [soaa] [poi] The Current Plotting Route [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [
+street [eoau] [soaa] [poi_type] shopping center [address] 113 Anton Ct [poi] Ravenswood Shopping Center [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [poi_type] parking garage [address] 481 Amaranta Ave [poi] Palo Alto Garage R [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau
+[eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [e
+meeting [eoau] [soaa] [event] meeting [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+the 11th [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+is it cloudy. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date
+garage is 4 miles away with heavy traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] grocery store [poi] The Clement Hotel [eoaa] [soda] [eoda] [sodu] Okay, give me the address to the location. [eodu] [
+[eoau] [soaa] [traffic_info] car collision nearby [poi_type] grocery store [address] 819 Alma St [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+[eoau] [soaa] [time] 7pm [time] 6pm [date] the 11th [date] the 5th [party] Jon [party] sister [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+or tuesday [eoau] [soaa] [location] san mateo [eoaa] [soda] [weather_attribute] clear skies [date] next week [location] San Mateo [eoda] [sodu] Will there be clear skies in San Mateo next week? [eodu] [soau] [eoau]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+direction [eoau] [soaa] [distance] 3 miles [poi] Stanford Childrens Health [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_
+or coupa [eoau] [soaa] [poi] coupa [eoaa] [soda] [distance] quickest [poi_type] coffee place [poi] coupa [eoda] [sodu] Tell me the current temperature of coupa [eodu] [soau] [eoau] [soaa]
+overcast, low of 60F, high of 80F [eoau] [soaa] [location] alameda [saturday] humid, low of 60F, high of 80F [wednesday] raining, low of 60F, high of 80F [monday] overcast, low of 60F, high of 80F [tuesday] warm, low of
+tai pan, and so on. [eoau] [soaa] [poi] Stanford Express Care [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [today] monday [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau]
+[eoau] [soaa] [poi] The Clement Hotel [poi] The Westin [eoaa] [soda] [distance] quickest [eoda] [sodu] Pick the quickest one please [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+the fastest route [eoau] [soaa] [distance] 8 miles [poi_type] rest stop [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [eoda] [sodu] That's good, please give me directions via the quickest route. [eodu] [soau] [
+. [eoau] [soaa] [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [e
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tuesday [eoau] [soaa] [location] los angeles [eoaa] [soda] [weather_attribute] clear skies [date] tuesday [location] Los Angeles [greeting] thank [eoda] [sodu] Los Angeles thank you [eodu] [soau] [eoau] [soaa]
+[eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+tuesday [eoau] [soaa] [location] seattle [eoaa] [soda] [date] today and tomorrow [weather_attribute] hail [location] Seattle [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [distance] 3 miles [poi] Seattle [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu] what is the weather like this week [
+weather forecast [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+[eoau] [soaa] [location] oakland [eoaa] [soda] [weather_attribute] snow [date] next week [location] oakland [greeting] thank [eoda] [sodu] Oakland, thank you [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [location] alameda [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date
+chu [eoaa] [soda] [distance] closest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date
+is 4 miles away with no traffic and 6 miles away with moderate traffic. [eoau] [soaa] [distance] 2 miles [distance] 6 miles [traffic_info] moderate traffic [traffic_info] no traffic [address] 9981 Archuleta Ave [poi] Peets Coffee [eoaa] [soda] [distance] nearest
+[eoaa] [soda] [distance] fastest route [poi] peets coffee [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [so
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [sodu] take me to the nearest shopping center [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ave [eoau] [soaa] [poi_type] shopping center [address] 113 Anton Ct [poi] Town and Country [eoaa] [soda] [eoda] [sodu] Then let's go there, I need to get there in the quickest way. [eodu] [soau] [eoau]
+[eoau] [soaa] [distance] 7 miles [traffic_info] no traffic [poi_type] rest stop [address] 329 El Camino Real [poi] The Westin [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau]
+[eoau] [soaa] [distance] 3 miles [poi] Four Seasons [eoaa] [soda] [poi] four seasons [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+City [eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [so
+[eoau] [soaa] [party] Jon [party] Jeff [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+[eoau] [soaa] [time] 1 pm [date] monday [party] Jon [party] sister [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+stormy saturday [eoaa] [soda] [greeting] thank [eoda] [sodu] I need to know this, thank you very much! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next 7 days [location] Alhambra [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date]
+tuesday [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+[eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [e
+game [eoau] [soaa] [date] the 1st [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+is to go over the budget. [eoau] [soaa] [date] the 5th [date] the 11th [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [agenda] discuss the merger [event] meeting [eoaa] [soda] [event] meeting [eoda] [sodu] Okay, that solves it. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [date] wednesday [event] meeting [room] conference room 100 [time] 3 pm [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+stormy next week [eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+chinese restaurant is 4 miles away with no traffic. Setting directions now. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Jon [eoaa] [soda] [distance] nearest (4 miles away) [traffic_info] fastest route [poi
+. [eoau] [soaa] [time] 5pm [time] 4pm [date] wednesday [date] the 5th [date] thursday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+Comfort Inn [eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home [eoda] [sodu] Please
+[poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] quick [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [eoda] [soau] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [sodu] find me the nearest shopping center [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+this route is the only one i have available [eoau] [soaa] [distance] 4 miles [poi_type] rest stop [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa]
+[eoau] [soaa] [distance] 3 miles [poi] Hotel Keen [eoaa] [soda] [poi] hotel keen [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+[eoau] [soaa] [traffic_info] no traffic [address] 578 Arbol Dr [poi] 578 Arbol Dr [eoaa] [soda] [poi] 578 Arbol Dr [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa]
+[eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [e
+it is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] home [poi] home [eoaa] [soda] [distance] quickest route [eoda] [sodu] Please give me the address and directions via the quickest route. [e
+[eoau] [soaa] [distance] 1 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Jing Jing [eoaa] [soda] [eoda] [sodu] Ok let's go there then. [eodu] [soau] [eoau] [soaa]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+weather forecast [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+inglewood city [eoau] [soaa] [location] inglewood [eoaa] [soda] [weather_attribute] humid [date] tomorrow [location] inglewood [greeting] thank [eoda] [sodu] I want to thank you car! [eodu] [soau] [eoau]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] brentwood [eoda] [sodu] Is it gonna rain in Brentwood today and tomorrow? [eodu] [soau] [eoau] [
+street [eoau] [soaa] [poi_type] shopping center [address] 113 Anton Ct [poi] Ravenswood Shopping Center [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [distance] 2 miles [poi_type] parking garage [address] 880 ames ct [poi] Webster Garage [eoaa] [soda] [distance] closest (2 miles away) [traffic_info] no traffic [poi_type] parking garage [address] 880 ames ct
+for the information. [eoau] [soaa] [distance] 2 miles [traffic_info] moderate traffic [poi_type] chinese restaurant [poi] Jing Jing [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+appointment [eoau] [soaa] [event] doctor's appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] lab appointment [eoda] [sodu] What time is my lab appointment and who will be attending it? [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+stormy, i will find out if it will be stormy in the next 7 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau]
+chu [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [soau] [eoau] [soaa] [eoaa] [s
+road [eoau] [soaa] [distance] 4 miles [distance] 5 miles [poi] Cafe Venetia [poi] Teavana [eoaa] [soda] [poi] cafe venetia [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+[eoau] [soaa] [traffic_info] no traffic [poi] Cafe Venetia [poi] Teavana [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [distance] 3 miles [poi] Tom's house [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+[eoau] [soaa] [address] 145 Amherst St [poi] Teavana [eoaa] [soda] [distance] fastest [poi] teavana [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+on Wednesday is gonna snow, it will drizzle on Wednesday [eoau] [soaa] [location] boston [today] monday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [location] alhambra [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau]
+more info [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoaa] [soda] [distance] quickest [poi_type] coffee or tea place [poi] the westin [greeting] thank [eoda] [sodu] Then let's go there, thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [
+is it the quickest way to get there? [eoau] [soaa] [poi_type] coffee or tea place [poi] Philz [eoaa] [soda] [poi] philz [eoda] [sodu] Yes that sounds perfect. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [distance] 6 miles [traffic_info] moderate traffic [poi_type] chinese restaurant [address] 394 Van Ness Ave [poi] Coupa [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Cleveland [eoaa] [soda] [eoda] [sodu] Okay great. Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+me [eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week
+4 miles away [poi_type] shopping center [distance] 4 miles [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That sounds great. Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+[eoau] [soaa] [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [traffic_info] car collision nearby [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+. [eoau] [soaa] [distance] 3 miles [address] 773 Alger Dr [poi] The Clement Hotel [eoaa] [soda] [poi] the clement hotel [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+[eoau] [soaa] [date] the 5th [event] optometrist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [date] the 2nd [date] saturday [date] the 16th [party] Marie [party] brother [event] optometrist appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+tea place [eoda] [sodu] Any other options? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] New York [eoda] [soau] [eoau] [soaa] [eoaa]
+or tea place 583 Alester Ave. [eoau] [soaa] [distance] 6 miles [distance] 5 miles [poi_type] coffee or tea place [poi] Philz [poi] 583 Alester Ave [eoaa] [soda] [poi] philz [greeting] thank [eoda]
+for the information. [eoau] [soaa] [traffic_info] no traffic [poi] Philz [poi] The Westin [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+this week [eoau] [soaa] [location] new york [eoaa] [soda] [date] this week [location] new york city [eoda] [sodu] what is the weather like in new york city this week [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [today] monday [location] new york [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+caron [eoau] [soaa] [poi] palo alto cafe [eoaa] [soda] [poi] palo alto cafe [greeting] thank [eoda] [sodu] Thank you car assistant [eodu] [soau] [eoau] [soaa] [eoaa]
+[eoau] [soaa] [traffic_info] no traffic [address] 528 anton ct [poi] pizza my heart [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [
+4 miles away with no traffic [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Jing Jing [eoaa] [soda] [eoda] [sodu] Let's go to Jing Jing. [eodu] [soau] [eo
+chef chu's [eoau] [soaa] [poi] Chef Chu's [poi] Tai Pan [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [e
+, but there is a road block nearby. [eoau] [soaa] [traffic_info] road block nearby [poi] Chef Chu's [poi] Panda Express [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] chinese restaurant [poi] Chef Chu's [address] 593 Arrowhead Way [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [
+is 4 miles away with no traffic. Setting navigation now. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [address] 113 Anton Ct [poi] The Clement Hotel [eoaa] [soda] [poi] the clement hotel [greeting] thank [e
+[eoau] [soaa] [poi_type] rest stop [poi] Hotel Keen [distance] 3 miles [address] 578 Arbol Dr [eoaa] [soda] [poi] hotel keen [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [
+hotel keen [eoau] [soaa] [traffic_info] car collision nearby [distance] 3 miles [address] 578 Arbol Dr [poi] Hotel Keen [eoaa] [soda] [poi] hotel keen [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What time is my
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+stormy next 8 days [eoau] [soaa] [location] manhattan [eoaa] [soda] [weather_attribute] windy [date] next few days [location] Manhattan [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau]
+and one more. [eoau] [soaa] [traffic_info] no traffic [poi_type] chinese restaurant [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] pizza restaurant [address] 113 Anton Ct [poi] Round Table [eoaa] [soda] [poi] round table [greeting] thank [eoda] [soau] [eoau] [soaa]
+stormy [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it supposed to rain this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+this way [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa
+car. [eoau] [soaa] [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [
+ave [eoau] [soaa] [date] saturday [event] tennis activity [time] 4pm [party] Jon [party] sister [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [e
+ingam road [eoau] [soaa] [poi_type] hospital [address] 899 Ames Ct [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau
+[eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] hospital [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [soau] [eo
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the date and time for my meeting and who will be there and what is the agenda? [eodu] [soau] [eoau] [soaa] [e
+. [eoau] [soaa] [date] the 5th [date] the 11th [party] aunt [party] Jon [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [date] the 5th [date] the 11th [party] aunt [party] Jon [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoau] [soaa] [distance] 5 miles [poi_type] gas station [poi] Willows Market [eoaa] [soda] [eoda] [sodu] Is there any other options? [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [poi_type] gas station [poi] Valero [eoaa] [soda] [address] 200 Alester Ave [eoda] [sodu] Set GPS for quickest route to Valero please. [eodu] [soau] [eoau] [soaa] [eo
+car assistant [eoau] [soaa] [poi] Valero [address] 200 Alester Ave [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+whole series [poi] stanford childrens health [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu]
+day [eoau] [soaa] [today] monday [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+it is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] home [poi] home [eoaa] [soda] [distance] quickest route [eoda] [sodu] Please give me the address and directions via the quickest route. [e
+[eoau] [soaa] [traffic_info] heavy traffic [distance] 4 miles [poi_type] home [poi] home [eoaa] [soda] [distance] quickest [poi_type] home [poi] home [eoda] [sodu] OK, please give me directions via the quickest available route.
+[eoau] [soaa] [address] 56 cadwell street [poi] astral teh tai pan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop
+4 miles away [poi] Boston Childrens Health [poi] Boston Childrens Health [distance] 3 miles [eoaa] [soda] [distance] quick [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu] what's the
+will be hot on Monday and Tuesday with 90F [eoau] [soaa] [today] monday [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tai pan [eoau] [soaa] [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [distance] within 3 miles [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [distance] 4 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center [eoaa] [soda] [distance] within 3 miles [poi] stanford shopping center [greeting] thank [eoda] [soau] [eoau] [
+meeting [eoau] [soaa] [event] conference [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+time. [eoau] [soaa] [time] 3pm [time] 6pm [time] 7pm [date] monday [date] the 6th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+for attending. [eoau] [soaa] [time] 6pm [date] sunday [date] monday [party] management [party] Ana [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+tuesday [eoau] [soaa] [date] tuesday [event] medicine [eoaa] [soda] [date] Tuesday [event] Taking medicine [eoda] [sodu] Who will be taking medicine with me on Tuesday? [eodu] [soau] [eoau] [soaa] [eoaa]
+stormy, i will find out if it will be stormy in the next 7 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau]
+city weather forecast [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [date] saturday [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+is located at 270 Altaire Walk. Setting navigation now. [eoau] [soaa] [distance] 2 miles [address] 270 Altaire Walk [poi] The Clement Hotel [eoaa] [soda] [poi] the clement hotel [greeting] thank [eoda] [soau] [eoau] [soaa]
+[eoau] [soaa] [distance] 1 miles [poi] Travelers Lodge [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+stormy [eoau] [soaa] [location] san mateo [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] parking garage [e
+city is 5 miles away. [eoau] [soaa] [distance] 5 miles [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [date] saturday [date] the 4th [party] sister [party] Jon [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+is on the 3rd at 10 am with your mother. [eoau] [soaa] [date] the 3rd [party] mother [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+[eoau] [soaa] [date] monday [date] the 5th [party] sister [party] aunt [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you. [eodu] [soau] [eoau] [soaa]
+is on the 2nd with your brother. Would you like to know the times as well? [eoau] [soaa] [date] the 2nd [date] the 2nd [party] brother [party] sister [event] lab appointment [eoaa] [soda] [event] lab appointment [eoda] [sodu] Yes please that will
+[eoau] [soaa] [date] monday [date] the 17th [date] tuesday [party] Marie [party] Alex [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+more [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [s
+or next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa]
+[eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+4 miles away [poi] starbucks [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [poi_type] coffee shop [eoaa] [soda] [distance] nearby [traffic_info] quickest route [poi_type] coffee or tea place [poi] starbucks [eoda] [sodu] Yes please and pick the quickest route to get there please [eodu] [
+[eoau] [soaa] [poi_type] tea [address] 269 Alger Dr [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+4 miles away [poi] starbucks [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [distance] 6 miles [distance] 3 miles [poi] Cafe Venetia [poi] Philz [eoaa] [soda] [poi] Philz [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type]
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] coffee or tea place [address] 269 Alger Drive [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa
+monday [eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa]
+the 4th [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+[eoau] [soaa] [location] corona [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [sodu] is it going to be
+,\ [eoau] [soaa] [location] corona [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [eoda] [soau] [eo
+is 4 miles away with no traffic. Setting navigation now. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [address] 113 Anton Ct [poi] The Clement Hotel [eoaa] [soda] [poi] the clement hotel [greeting] thank [e
+is the quickest route. [eoau] [soaa] [distance] 6 miles [traffic_info] moderate traffic [poi_type] hotel [poi] The Travelers Lodge [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] rest stop [poi] The Travelers Lodge [
+[eoau] [soaa] [address] 333 Arbol Dr [poi] The Westin [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoda] [sodu] Okay, I need to know about the one in the local area. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [soau] [eoau] [soaa] [
+[eoau] [soaa] [distance] 5 miles [traffic_info] heavy traffic [poi] P.F. Changs [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+[eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [address] 669 El Camino Real [poi] PF Changs [eoaa] [soda] [poi] PF Changs [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+stormy [date] monday [location] compton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda]
+[eoau] [soaa] [location] oakland [eoaa] [soda] [weather_attribute] humid [date] tomorrow [location] Oakland [greeting] thank [eoda] [sodu] Oakland thank you [eodu] [soau] [eoau] [soaa] [eoaa] [s
+or brentwood [eoau] [soaa] [location] oakland [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [
+car [eoau] [soaa] [poi_type] gas station [poi] Jon [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+4 miles [eoau] [soaa] [distance] 6 miles [poi] Chevron [poi] P.F. Changs [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [poi_type] gas station [poi] Chevron [eoaa] [soda] [distance] quickest [poi_type] gas station [poi] Chevron [eoda] [sodu] OK, please direct me there via the quickest route. [eodu] [soau] [eo
+[eoau] [soaa] [address] 783 Arcadia Pl [poi] Tom's house [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What time is my
+4 miles away [eoau] [soaa] [distance] 4 miles [poi_type] chinese restaurant [poi] Jon [eoaa] [soda] [distance] fastest [eoda] [sodu] OK, please give me directions via the fastest available route. [eodu] [soau] [eoau] [
+[eoau] [soaa] [distance] 3 miles [distance] 6 miles [poi] Chef Chu's [poi] Mandarin Roots [eoaa] [soda] [distance] fastest [poi] chef chu's [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi] Chef Chu's [poi] Panda Express [eoaa] [soda] [distance] fastest [eoda] [sodu] Then let's go there, pick the fastest route please! [eodu] [soau] [eoau]
+is the drive. [eoau] [soaa] [poi] Chef Chu's [poi] Jon [eoaa] [soda] [distance] quickest [poi_type] chinese restaurant [address] 593 Arrowhead Way [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Chef Chu's [eoaa] [soda] [eoda] [sodu] That sounds great. Let's go there. [eodu] [so
+the nearest 5 miles [eoau] [soaa] [distance] 5 miles [poi_type] hospital [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoau] [soaa] [distance] 7 miles [traffic_info] car collision nearby [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+4 miles away [poi] starbucks [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [distance] 4 miles [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+is to go over the budget. [eoau] [soaa] [date] the 5th [date] the 11th [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa
+for their information. [eoau] [soaa] [event] conference [event] meeting [room] conference room 102 [party] boss [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [event] meeting [eoaa] [soda] [event] meeting [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Okay, where is it? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [poi_type] chinese restaurant [poi] The Westin [address] 113 Anton Ct [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa]
+attending [eoau] [soaa] [event] doctor appointment [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoau] [soaa] [date] the 3rd [date] the 9th [party] father [party] Tom [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+is on the 1st at 10 am with your mother. [eoau] [soaa] [date] the 1st [party] mother [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa]
+[eoau] [soaa] [party] Jon [event] tennis activity [date] the 11th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [eoda
+traffic [eoau] [soaa] [poi] Stanford Childrens Health [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+is 4 miles away with heavy traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi] Boston [eoaa] [soda] [eoda] [sodu] Boston. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+orgy [eoau] [soaa] [today] monday [location] san jose [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi] San Mateo [address] 113 Anton Ct [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [
+[eoau] [soaa] [location] san mateo [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [
+all information about the new york city [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] temperature [date] this week [location] new york [eoda] [sodu] what is the temperature in new york this week [eodu] [soau] [eo
+is 4 miles away with no traffic [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi] Los Angeles Childrens Health [address] 899 Ames Ct [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eo
+[eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [
+is on the 3rd at 11 am. [eoau] [soaa] [date] the 3rd [date] the 11th [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau
+is hail, but there is no drizzle in the forecast. [eoau] [soaa] [location] camarillo [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+and clear skies, Monday and Tuesday. [eoau] [soaa] [today] monday [location] atherton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [location] atherton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [soau] [eoau]
+is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] rest stop [poi] The Clement Hotel [eoaa] [soda] [eoda] [sodu] Okay, perfect. Let's go there. [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [distance] 4 miles [poi_type] rest stop [address] 333 Arbol Dr [poi] Travelers Lodge [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] rest stop [address] 333 Arbol Dr. [poi] Travelers Lodge
+[eoau] [soaa] [address] 333 Arbol Dr [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+miles away [eoau] [soaa] [distance] 4 miles [poi] Jon [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+is 4 miles away with no traffic and so on the shortest road there is no traffic it should be quick. 4 miles away with no traffic [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [address] 864 Almanor Ln [poi] jacks house [eoaa] [soda] [greeting
+4 miles [eoau] [soaa] [distance] 4 miles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eo
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoau] [soaa] [date] the 5th [event] optometrist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+. [eoau] [soaa] [time] 9am [time] 5pm [date] the 12th [date] the 4th [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+street [eoau] [soaa] [address] 113 Anton Ct [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [sodu] Please give me the fastest route. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+no traffic [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [traffic_info] no traffic [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoau] [soaa] [poi_type] shopping center [poi] Ravenswood Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+[eoau] [soaa] [poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+grocery store is 4 miles away [eoau] [soaa] [distance] 4 miles [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] grocery store [poi] Whole Foods [eoda] [sodu] OK,
+4 miles (3 miles) [traffic_info] heavy traffic [poi_type] grocery store [address] 408 University Ave [poi] Trader Joes [eoaa] [soda] [distance] nearest [traffic_info] fastest route [poi_type] grocery store [address] 408 University Ave [poi] trader joes [greet
+[eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eo
+stormy [date] monday [location] compton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda]
+any rain? [eoau] [soaa] [location] redwood city [eoaa] [soda] [date] today [weather_attribute] rain [location] Redwood City [eoda] [sodu] I need to know this for Redwood City. [eodu] [soau] [eoau] [soaa]
+is on tuesday. [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+road block is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] hospital [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [poi] Stanford Express Care [address] 214 El Camino Real [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] hospital [eoda]
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa]
+meadow hospital is there a road block nearby but it is 3 miles away. can you still go there? [eoau] [soaa] [distance] 3 miles [traffic_info] road block nearby [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [eoda] [soau] [eoau
+we will get there quickly. [eoau] [soaa] [traffic_info] no traffic [address] 214 El Camino Real [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [soau] [eoau] [soaa
+[eoau] [soaa] [distance] 3 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Okay, give me the address to it. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_
+4 miles [poi] coffee shop [distance] 4 miles [eoaa] [soda] [distance] fastest route [eoda] [sodu] Please give me an address and directions via the fastest route. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+or 269 Alger Dr 4 miles away with no traffic [eoau] [soaa] [traffic_info] no traffic [distance] 2 miles [address] 269 Alger Dr [poi] Webster Garage [eoaa] [soda] [poi] Webster Garage [greeting] thank [eoda] [sodu] Thank you [eodu
+[eoau] [soaa] [traffic_info] road block nearby [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [
+the oakland saturday [eoau] [soaa] [location] oakland [sunday] cloudy, low of 60F, high of 70F [wednesday] hail, low of 60F, high of 70F [monday] overcast, low of 60F, high of 70F [eoaa] [soda] [greeting]
+any other quick route [eoau] [soaa] [distance] 6 miles [distance] 3 miles [poi] The Westin [address] 329 El Camino Real [eoaa] [soda] [distance] quick [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa
+of [eoau] [soaa] [poi] The Westin [address] 329 El Camino Real [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [sodu] take me to the nearest shopping center [eodu] [soau] [eoau] [soaa] [eoaa] [s
+parking [eoau] [soaa] [poi_type] grocery store [poi] shopping center [eoaa] [soda] [distance] closest [eoda] [sodu] Where is the closest one? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [distance] within 3 miles [poi_type] grocery store [address] 819 Alma St. [poi] Whole Foods [eoda] [sodu] Ok, give me the directions to the grocery store within 3 miles and pick the shortest distance please.
+[eoau] [soaa] [traffic_info] road block nearby [address] 452 Arcadia Pl [poi] Safeway [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quick route [poi_type] grocery store [address] 452 arcadia pl [poi] safeway
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it raining next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+all information about the new york city [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] temperature [date] this week [location] new york [eoda] [sodu] what is the temperature in new york this week [eodu] [soau] [eo
+tuesday [eoau] [soaa] [location] fresno [eoaa] [soda] [date] this week [weather_attribute] temperature [location] fresno [eoda] [sodu] Fresno please tell me the temperature for this week [eodu] [soau] [eoau] [soaa] [eo
+is scheduled for misty. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute]
+the last 90 days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [sodu] what is the weather like today and tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tuesday is the weather supposed to be cloudy [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+this week [eoau] [soaa] [poi] starbucks [eoaa] [soda] [distance] nearby [poi_type] coffee or tea place [poi] starbucks [eoda] [sodu] show me the locations of all of the nearby coffee or tea place [eodu] [soau] [eo
+starbucks is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] coffee or tea place [poi] Coupa [eoaa] [soda] [eoda] [sodu] Give me directions to those coffee or tea places. [eodu] [soau] [eoau] [
+car, is there anything else you need? [eoau] [soaa] [traffic_info] heavy traffic [distance] 1 mile [address] 394 Van Ness Ave [poi] Coupa [eoaa] [soda] [poi] coupa [greeting] thank [eoda] [soau] [eoau] [
+[eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+is next week. [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [
+out next week [eoau] [soaa] [location] san mateo [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] coffee place [
+[eoau] [soaa] [today] monday [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+road block is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] shopping center [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] shopping center [address] 657 Ames Ave [
+[eoau] [soaa] [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [poi] midtown shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoau] [soaa] [distance] 2 miles [traffic_info] heavy traffic [address] 338 Alester Ave [poi] We're going to 338 Alester Ave, there is heavy traffic but it's just 2 miles away [eoaa] [soda] [distance] quickest route [eoda] [soau] [eo
+[eoau] [soaa] [poi_type] shopping center [address] 338 Alester Ave [poi] Midtown Shopping Center [eoaa] [soda] [poi] midtown shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+is 4 miles away with heavy traffic. We should reach there in less than 2 minutes [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Jon's house [eoaa] [soda] [distance] quick route [eoda] [soau] [eo
+er's [eoau] [soaa] [distance] 3 miles [poi_type] chinese restaurant [address] 347 Alta Mesa Ave. [poi] Jing Jing [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [traffic_info] car collision nearby [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [eoda] [soau] [
+caron street [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [
+chevron quick way [eoau] [soaa] [distance] 4 miles [poi_type] chinese restaurant [address] 269 Alger Dr [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [so
+. [eoau] [soaa] [traffic_info] no traffic [poi] Tom's house [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda
+thursday [eoau] [soaa] [date] thursday [date] the 10th [party] sister [party] brother [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [
+for the information. [eoau] [soaa] [date] wednesday [date] the 5th [party] Jon [event] football game [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+[eoau] [soaa] [location] inglewood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sod
+[eoau] [soaa] [location] durham [eoaa] [soda] [date] this week [weather_attribute] warm [location] Durham [eoda] [sodu] Will it be warm in Durham this week? [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thanks [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [so
+stormy [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next
+[eoau] [soaa] [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [distance] shortest distance [poi_type] home [poi] home [eoda] [sodu] Please pick the shortest distance to get there, I need bathroom!! [eodu
+[eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] fastest [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank [eoda] [sod
+4 miles, there is no traffic. The address is 528 Anton Ct. [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [address] 528 Anton Ct [poi] Pizza My Heart [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau]
+[eoau] [soaa] [distance] 2 miles [poi] Pizza Chicago [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau]
+no traffic [eoau] [soaa] [address] 915 Arbol Dr [poi] Tom's house [eoaa] [soda] [distance] nearest [traffic_info] fastest route [poi_type] friends house [address] 915 Arbol Dr. [poi] Tom's house [eoda] [sodu]
+oval parking [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 171 Oak Rd [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please send me its address on screen and pick a quick route to reach there [eodu] [
+4 miles away [eoau] [soaa] [distance] 2 miles [traffic_info] road block nearby [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+[eoau] [soaa] [distance] 4 miles [address] 434 Arastradero Rd [poi] Tom's house [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quickest route [poi_type] friends house [address] 434 Arastradero Rd. [poi]
+parking [eoau] [soaa] [poi_type] grocery store [poi] shopping center [eoaa] [soda] [distance] closest [eoda] [sodu] Where is the closest one? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+road block nearby [eoau] [soaa] [distance] 4 miles [poi] Whole Foods [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [address] 819 Alma St [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+chu [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [soau] [eoau] [soaa] [eoaa] [s
+is it good for me to get there? [eoau] [soaa] [distance] 5 miles [poi] Starbucks [poi] We're 5 miles away from Starbucks [eoaa] [soda] [traffic_info] avoid all heavy traffic [eoda] [soau] [eoau] [soaa] [eoaa]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [sodu] find me the nearest coffee shop [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+chinese restaurant [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau]
+[eoau] [soaa] [poi] Coupa [eoaa] [soda] [traffic_info] heavy traffic [poi] Coupa [eoda] [sodu] Is there a heavy traffic to reach Coupa? [eodu] [soau] [eoau] [soaa] [eoaa]
+[eoaa] [soda] [distance] quickest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+there is no traffic. [eoau] [soaa] [traffic_info] no traffic [address] 394 Van Ness Ave [poi] Coupa [eoaa] [soda] [poi] coupa [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [
+[eoau] [soaa] [traffic_info] no traffic [poi_type] tea or coffee shop [poi] Palo Alto Cafe [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping
+ave [eoau] [soaa] [poi] palo alto cafe [eoaa] [soda] [distance] quickest [eoda] [sodu] Set the GPS for the quickest route to palo alto cafe please. [eodu] [soau] [eoau] [soaa] [eoaa]
+tea place with no traffic nearby [eoau] [soaa] [traffic_info] no traffic [distance] 2 miles [poi_type] tea or coffee shop [poi] Cafe Venetia [eoaa] [soda] [poi] Cafe Venetia [eoda] [sodu] Sounds good. Let's go there.
+[eoau] [soaa] [poi_type] chinese restaurant [poi] Cafe Venetia [eoaa] [soda] [distance] quickest [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+on sunday [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+tuesday [eoau] [soaa] [location] menlo park [today] monday [eoaa] [soda] [date] monday [location] menlo park [greeting] thank [eoda] [sodu] Menlo Park, thank you. [eodu] [soau] [eoau] [so
+for the help. [eoau] [soaa] [today] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+is it going to drizzle? [eoau] [soaa] [location] menlo park [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [s
+clear skies, low of 30F, high of 50F [eoau] [soaa] [today] monday [location] atherton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+overcast [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] today [eoda] [sodu] does the local forecasts say it'll be cloudy today [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [poi] oakland [eoaa] [soda] [weather_attribute] clear skies [date] next week [location] San Jose [eoda] [sodu] Will there be clear skies in San Jose next week? [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [location] san jose [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today or
+chinese restaurant is 4 miles away with heavy traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] The Westin [eoaa] [soda] [eoda] [sodu] Okay, where is the Westin? [eodu]
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] coffee or tea place [poi] Coupa [eoaa] [soda] [eoda] [sodu] Yes, I need the address please. [eodu] [soau] [eoau] [soaa] [eo
+4 miles away with no traffic [eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] coffee shop [address] 792 Bedoin Street [poi] Starbucks [eoaa] [soda] [distance] within 3 miles (3 miles away) [traffic_info] quickest route [poi
+[eoau] [soaa] [distance] 3 miles [poi] Teavana [eoaa] [soda] [distance] quick route [poi] teavana [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+otherwise [eoau] [soaa] [location] san francisco [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [location] Camarillo [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date]
+4 miles away [eoau] [soaa] [distance] 4 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+tuesday [eoau] [soaa] [location] los angeles [eoaa] [soda] [date] next few days [location] Los angeles [greeting] thank [eoda] [sodu] Los angeles thank you [eodu] [soau] [eoau] [soaa] [eoaa
+for the information. [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+meeting [eoau] [soaa] [event] conference [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+[eoau] [soaa] [date] the 13th [date] the 19th [party] executive team [party] vice president [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+stormy, i will find out if it will be stormy in the next 48 hours [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau]
+[eoau] [soaa] [agenda] discuss the merger [date] sunday [date] monday [event] meeting [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thanks once again [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [s
+weather forecast [eoau] [soaa] [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [
+is 6 miles away with moderate traffic. [eoau] [soaa] [distance] 6 miles [traffic_info] moderate traffic [poi] Boston [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [location] san jose [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [soau] [eoau]
+pain medication [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] doctor appointment [eoda] [sodu] What is the date of my next doctor appointment and who will be attending it with me? [eodu] [soau] [eoau] [soaa] [
+football activity is scheduled for the 2nd at 10 am [eoau] [soaa] [date] the 2nd [date] the 10th [party] Jon [event] football activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [party] Alex [party] Jeff [time] 6pm [time] 9am [time] 1pm [date] monday [date] the 13th [date] thursday [date] the 4th [eoaa] [soda] [greeting] thank [eoda] [soau] [eo
+road block is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] hospital [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+76 [eoau] [soaa] [traffic_info] road block nearby [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [
+[eoau] [soaa] [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+stormy [eoau] [soaa] [poi] Boston Childrens Health [eoaa] [soda] [poi] boston childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [poi_type] shopping center [poi] Town and Country [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [sodu] find the nearest chinese restaurant [eodu] [soau] [eoau] [soaa] [eoaa] [s
+car. [eoau] [soaa] [poi] Town and Country [address] 383 University Ave [eoaa] [soda] [poi] town and country [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+any other days? [eoau] [soaa] [eoaa] [soda] [eoda] [sodu] That will have to do. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] tennis [eoda] [soau] [eoau
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [date] 2 day [location] Grand Rapids [eoda] [sodu] I need to know the 2 day temperature for Grand Rapids. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+tea place [eoda] [sodu] Any other options? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] New York [eoda] [soau] [eoau] [soaa] [eoaa]
+road block nearby. [eoau] [soaa] [distance] 5 miles [traffic_info] road block nearby [poi] Coupa [eoaa] [soda] [eoda] [sodu] Okay, give me the address to Coupa and set the GPS to go there. [eodu] [soau] [eo
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+the 4th [eoau] [soaa] [date] monday [location] menlo park [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] this
+[eoau] [soaa] [location] oakland [eoaa] [soda] [weather_attribute] snow [date] today [location] Oakland [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] Manhattan [eoda] [sodu] Will it rain in Manhattan today and tomorrow? [eodu] [soau] [eoau] [soaa] [
+is 4 miles away with no traffic. The address is 899 Ames Ct. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [address] 899 Ames Ct [poi] swimming party [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [
+the 5th. [eoau] [soaa] [date] the 5th [date] the 7th [party] father [event] swimming activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [date] saturday [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+reminder [eoau] [soaa] [party] Jon [party] Alex [event] lab appointment [time] 2 pm [date] saturday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+and 4 miles away there is a road block nearby. [eoau] [soaa] [distance] 4 miles [traffic_info] road block nearby [poi_type] chinese restaurant [poi] The Clement Hotel [eoaa] [soda] [eoda] [sodu] That's okay, please give me directions. [eod
+is it 3 miles away? [eoau] [soaa] [distance] 3 miles [poi_type] chinese restaurant [poi] Jing Jing [eoaa] [soda] [distance] fastest [eoda] [sodu] Pick the fastest route to reach there please! [eodu] [soau] [eoau]
+4 miles 4 miles 6 miles 7 miles 8 miles 9 miles 10 miles 11 miles 12 miles 13 miles 14 miles 15 miles 16 miles 17 miles 18 miles 19 miles 20 miles 21 miles 2 miles 3 miles 4 miles 5 miles 6 miles 7 miles 8 miles 9 miles 10 miles 11 miles 12 miles 19 miles 20 miles 3 miles 4 miles 7 miles 9 miles 12 miles 19 miles 20 miles 4 miles 8 miles
+[eoau] [soaa] [poi] Panda Express [address] 842 Arrowhead Way [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [address] 842 Arrowhead Way [poi] Panda Express [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+is to go over the budget. [eoau] [soaa] [date] the 5th [date] the 11th [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa
+. [eoau] [soaa] [time] 2pm [time] 11am [date] the 5th [date] the 11th [party] boss [event] meeting [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+the 4th [eoau] [soaa] [date] the 4th [date] monday [party] sister [party] father [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+day [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] next week [eoda] [sodu] is it going to snow next week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+chinese restaurant is 4 miles away with no traffic. Setting directions now. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Jon [eoaa] [soda] [distance] nearest (4 miles away) [traffic_info] fastest route [poi
+. [eoau] [soaa] [time] 6pm [time] 7pm [date] the 12th [date] the 14th [date] the 19th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+the weather [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today [eoda] [sodu] what is the weather like today [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute]
+tomorrow [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] Compton [eoda] [sodu] Is it gonna rain in Compton today and tomorrow? [eodu] [soau] [eoau] [soaa
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] Manhattan [eoda] [sodu] Will it rain in Manhattan today and tomorrow? [eodu] [soau] [eoau] [soaa] [
+oakland rapids [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa]
+tuesday [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [sodu] is it going to be cloudy this week [eodu] [soau] [eoau] [soaa] [eoaa]
+overcast [eoau] [soaa] [location] grand rapids [monday] cloudy, low of 60F, high of 70F [friday] overcast, low of 60F, high of 70F [wednesday] dry, low of 60F, high of 70F [thursday] drizzle, low of 60F, high of 70F [
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thanks once again [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [s
+it is 4 miles away with heavy traffic [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] The Westin [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [so
+tuesday [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] humid [date] tomorrow [location] Manhattan [eoda] [sodu] Will it be humid in Manhattan tomorrow? [eodu] [soau] [eoau] [soaa] [eoaa]
+overcast, low of 40F, high of 60F [eoau] [soaa] [today] monday [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+the 4th [eoau] [soaa] [date] the 4th [date] monday [party] sister [party] father [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa]
+tuesday [eoau] [soaa] [location] new york [eoaa] [soda] [weather_attribute] humid [date] next few days [location] New York [eoda] [sodu] I want to know if it will be humid in New York over the next few days [eodu] [soau] [e
+or else it will be cloudy. [eoau] [soaa] [location] new york [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+not far away. [eoau] [soaa] [traffic_info] heavy traffic [poi_type] home [poi] home [eoaa] [soda] [distance] quick route [eoda] [sodu] Please pick a quick route to go there, I need bathroom!! [eodu] [soau] [e
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+byt monday [eoau] [soaa] [location] redwood city [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date]
+ing hot 3 miles away. 4 miles away. 5 miles away. 6 miles away. 7 miles away. 8 miles. 9 miles. 10 miles. 11 miles. 12 miles. 13 miles. 14 miles. 15 miles. 16 miles. 17 miles. 18 miles. 19 miles. 20 miles. [eoau] [soaa] [distance] [distance] [distance] [
+or tuesday [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+street [eoau] [soaa] [address] 113 Anton Ct [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [sodu] Please give me the fastest route. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+2 miles away [eoau] [soaa] [distance] 2 miles [distance] 1 miles [traffic_info] road block nearby [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [so
+[eoau] [soaa] [address] 434 Arastradero Rd [poi] Four Seasons [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+is on the 2nd with your brother. Would you like to know the times as well? [eoau] [soaa] [date] the 2nd [date] the 2nd [party] brother [party] sister [event] lab appointment [eoaa] [soda] [event] lab appointment [eoda] [sodu] Yes please that will
+. [eoau] [soaa] [time] 5pm [time] 4pm [date] monday [date] the 5th [date] thursday [date] the 8th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [
+this way [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [sodu] give me directions to the nearest grocery store [eodu] [soau] [eoau] [soaa] [eoaa
+home [eoau] [soaa] [traffic_info] moderate traffic [distance] 4 miles [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eo
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] [end conversation] [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [
+caron [eoau] [soaa] [distance] 3 miles [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type]
+any traffic [eoau] [soaa] [poi_type] chinese restaurant [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+[eoau] [soaa] [traffic_info] heavy traffic [distance] 2 miles [distance] 3 miles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+[eoau] [soaa] [poi_type] tea or coffee place [address] 269 Alger Dr [poi] Cafe Venetia [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+heavy traffic [eoda] [sodu] Okay, give me the address to the restaurant and the details on the map, please. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] gas station [eoda] [soau] [eoau] [soaa
+[eoau] [soaa] [distance] 5 miles [poi] Pizza Chicago [address] 915 Arbol Dr [eoaa] [soda] [distance] quick route [poi] pizza chicago [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [eoda] [sodu] is it cloudy in the next 7 days [eodu] [soau] [eoau] [soaa] [eoaa] [
+ct [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+the route to reach it [eoau] [soaa] [distance] 2 miles [poi_type] parking garage [poi] Webster Garage [eoaa] [soda] [distance] quickest [eoda] [sodu] Yes, please, pick the quickest route to go there and send it on my screen! [eodu] [so
+[eoau] [soaa] [poi] Palo Alto Garage R [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+4 miles [poi] palo alto cafe [eoaa] [soda] [distance] quickest [eoda] [sodu] Please give me the quickest route. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+or next week [eoau] [soaa] [location] grand rapids [eoaa] [soda] [weather_attribute] humid [date] next week [location] grand rapids [eoda] [sodu] I want to know if it will be humid in grand rapids during the next week [eodu] [soau] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+caron [eoaa] [soda] [distance] fastest [poi_type] grocery store [poi] shopping center [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [soau] [eoau] [soaa] [e
+road [eoau] [soaa] [distance] 6 miles [distance] 4 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Whole Foods [eoaa] [soda] [traffic_info] quickest route [eoda] [soau] [eoau] [soaa] [eoaa
+car assistant [eoau] [soaa] [poi] Safeway [address] 452 Arcadia Pl [poi] Tom's house [eoaa] [soda] [poi] safeway [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [

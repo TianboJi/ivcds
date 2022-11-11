@@ -1,0 +1,711 @@
+[distance] nearest [poi_type] grocery store
+
+[poi] chevron [greeting] thank
+[poi] chevron [greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] Friday [location] Menlo Park
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest route [greeting] thank
+[distance] quickest route [poi] home
+
+[distance] nearest [poi_type] grocery store
+
+[distance] closest [poi_type] grocery store [poi] Safeway
+[distance] nearest [poi_type] grocery store
+
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[distance] quickest
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[distance] closest (5 miles away) [traffic_info] no traffic [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage
+[distance] nearest [poi_type] grocery store
+[poi] stanford shopping center [greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] stanford express care [greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Jose
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] shortest
+
+[distance] nearest [poi_type] grocery store
+[date] wednesday [event] doctor appointment
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today and tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] midtown shopping center
+[poi] midtown shopping center [greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today and tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today and tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] hot [date] this week [location] Exeter
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest [poi] palo alto garage r [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[traffic_info] fastest route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Mountain View
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] stanford express care [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] this week [weather_attribute] foggy [location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] today [location] seattle
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+
+[distance] nearest [poi_type] grocery store
+[weather_attribute] warm [date] this week [location] Seattle
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+
+[distance] nearest [poi_type] grocery store
+[distance] local [traffic_info] no traffic [poi_type] fast food restaurant [poi] Papa Johns
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[event] meeting
+[distance] nearest [poi_type] grocery store
+[weather_attribute] hot [date] today and tomorrow [location] Mountain View
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] this week [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] pizza chicago [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic [poi_type] home [poi] home [greeting] thank
+[traffic_info] no traffic [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] Palo Alto Cafe
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Mountain View
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] snow [date] this week [location] San francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] humid [location] Exeter
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] tomorrow [location] Durham
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] wednesday [location] san francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[poi] palo alto garage r [greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] starbucks [greeting] thank
+[greeting] thank
+[poi] starbucks [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+
+[distance] quickest way
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[poi] palo alto garage r [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[traffic_info] fastest route
+[greeting] thank
+
+[distance] nearest [poi_type] grocery store
+
+[poi] the westin [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] how warm [date] two day [location] san francisco
+[distance] nearest [poi_type] grocery store
+[date] Wednesday [event] lab appointment
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] highest temperature [date] today and tomorrow [location] grand rapids
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Mountain View
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] within 5 miles [poi_type] friends house [address] 580 van ness ave [poi] Tom's house
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[weather_attribute] cloudy [date] today [location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] wednesday [location] san francisco
+[weather_attribute] warm [date] weekend [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] warm [date] Monday
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest [poi] palo alto medical foundation [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] Safeway
+[traffic_info] quickest route
+[greeting] thank
+[poi] safeway [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] today [location] New York
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] this week [location] San mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest route
+[distance] nearest [poi_type] grocery store
+[distance] within 3 miles [poi_type] coffee place
+[distance] fastest route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest route [poi] Palo Alto Garage
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] snow [date] this week [location] San francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today and tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] cloudy [date] this week [location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[distance] closest [poi_type] coffee or tea place [poi] Peets coffee
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] the westin [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[event] tennis activity
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] rain [date] next week [location] san mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[event] meeting
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+
+[distance] nearest [poi_type] grocery store
+[poi] hotel keen
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] cloudy [date] next week [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest route [poi] webster garage
+[distance] 2 miles away [traffic_info] quickest route [poi_type] parking garage [address] 880 Ames Ct. [poi] Webster Garage [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[distance] closest
+[poi] teavana
+[distance] quickest [traffic_info] traffic [poi_type] tea [poi] Teavana
+[poi] teavana [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] route with no traffic [poi] starbucks
+[poi] starbucks [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] 6 miles [traffic_info] quickest route [poi_type] pizza restaurant [address] 528 Anton Ct [poi] Pizza My Heart
+[distance] nearest [poi_type] grocery store
+[distance] closer
+
+[poi] chef chu's [greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[distance] quickest available route
+[greeting] thank
+
+[distance] nearest [poi_type] grocery store
+[location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] round table [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[poi] palo alto medical foundation [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[poi] valero [greeting] thank
+[poi] valero [greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+
+[distance] within 2 miles [poi_type] rest stop
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] avoid all heavy traffic [poi_type] coffee shop
+[poi] starbucks [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] Cafe Venetia
+[poi] Cafe Venetia
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] snow [date] today [location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] travelers lodge
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[traffic_info] avoid all heavy traffic [poi] p.f. changs [greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] rain [date] tomorrow [location] Inglewood
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[poi] chevron [greeting] thank
+[distance] quick
+
+[distance] nearest [poi_type] grocery store
+
+
+[poi] chef chu's [greeting] thank
+[poi] chef chu's [greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] stanford express care
+[distance] nearest [poi_type] grocery store
+[traffic_info] avoid all heavy traffic [poi] Cafe Venetia
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[event] meeting
+[distance] nearest [poi_type] grocery store
+[weather_attribute] lowest temperature [date] next week [location] San Francisco
+[distance] nearest [poi_type] grocery store
+[date] the 3rd [event] doctor appointment
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] this week [location] San mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[weather_attribute] clear skies [date] this week [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] within 5 miles [poi_type] rest stop [poi] Travelers Lodge
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest route
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] avoid all heavy traffic
+[poi] ravenswood shopping center [greeting] thank
+[traffic_info] no traffic
+[distance] nearest [poi_type] grocery store
+[distance] within 3 miles (2 miles) [poi_type] grocery store [address] 408 University Ave. [poi] Trader Joes
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] stanford express care [greeting] thank
+[traffic_info] no traffic [poi] Stanford Express Care
+[poi] stanford express care
+[poi] stanford express care
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] within 4 miles [poi_type] coffee shop [address] 269 Alger Dr [poi] Cafe Venetia
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[poi] the westin [greeting] thank
+[poi] the westin [greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[distance] quick route [poi] safeway [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today and tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] starbucks
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] dry [location] Redwood City
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] midtown shopping center
+[greeting] thank
+[poi] midtown shopping center [greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quick route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] this week [location] San mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] heavy trafficv [greeting] thank
+[poi] 5671 barringer street [greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] within 2 miles (5 miles) [traffic_info] shortest route [poi_type] pizza restaurant [address] 915 Arbol Dr. [poi] Pizza Chicago
+[distance] shortest distance [poi_type] pizza restaurant [poi] Pizza Chicago
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[poi] whole foods [greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] quickest route
+[traffic_info] route with no traffic
+[distance] nearest [poi_type] grocery store
+[traffic_info] fastest
+[traffic_info] no traffic [poi] coupa
+[poi] coupa [greeting] thank
+[poi] coupa [greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] cloudy [date] this week [location] danville
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] tomorrow [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] clear skies [date] today [location] Brentwood
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] heavy traffic [poi_type] coffee or tea place [poi] Starbucks
+[poi] starbucks [greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] tomorrow [event] meeting [time] 2 pm [greeting] thank
+
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] stanford express care [greeting] thank
+[distance] quick route [poi] stanford express care
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] town and country [greeting] thank
+[traffic_info] fastest
+[poi] town and country [greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Compton
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] Brentwood
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[poi] panda express
+[poi] panda express [greeting] thank
+[poi] panda express [greeting] thank
+[distance] nearest [poi_type] grocery store
+[date] the 5th [event] meeting
+[distance] nearest [poi_type] grocery store
+[location] San Mateo
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+
+[distance] nearest [poi_type] grocery store
+[weather_attribute] frost [date] today [location] Durham
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] highest temperature [date] tomorrow [location] grand rapids
+[greeting] thank
+
+[distance] nearest [poi_type] grocery store
+[weather_attribute] temperature [date] today [location] New York
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] San Francisco
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[weather_attribute] snow [date] right now [location] redwood city
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest route
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] shortest distance [poi_type] home [poi] home [greeting] thank
+
+[distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] tea [poi] Cafe Venetia
+[greeting] thank
+[poi] cafe venetia [greeting] thank
+[distance] nearest [poi_type] grocery store
+[poi] pizza chicago
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[traffic_info] no traffic
+[poi] palo alto garage r [greeting] thank
+[distance] nearest [poi_type] grocery store
+[location] New York
+[greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] within 3 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Safeway
+[poi] safeway [greeting] thank

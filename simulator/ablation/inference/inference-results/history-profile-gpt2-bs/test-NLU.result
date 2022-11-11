@@ -1,0 +1,455 @@
+[distance] 4 miles [poi] Chevron
+[poi] Chevron
+[distance] 4 miles [poi_type] gas station [address] 783 Arcadia Pl [poi] Chevron
+
+[location] alhambra [today] monday
+[location] boston
+[distance] 4 miles [distance] 2 miles [poi] Sigona Farmers Market [poi] Whole Foods
+[distance] 4 miles [traffic_info] no traffic [address] 638 Amherst St [poi] Sigona Farmers Market
+[location] fresno
+[traffic_info] no traffic [address] 56 cadwell street [poi] home
+[traffic_info] heavy traffic [distance] 3 miles [poi_type] home [poi] home
+[greeting] welcome
+[distance] 4 miles [poi] Whole Foods [poi] Safeway
+[traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway
+[traffic_info] car collision nearby [distance] 3 miles [poi] Willows Market
+[traffic_info] road block nearby
+
+[distance] 5 miles [address] 347 Alta Mesa Ave
+[distance] 6 miles [poi] Palo Alto Medical Foundation
+[distance] 5 miles [address] 347 Alta Mesa Ave
+
+[distance] 4 miles [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage
+[poi_type] shopping center [distance] 2 miles [address] 773 Alger Dr [poi] Stanford Shopping Center
+[address] 214 El Camino Real [poi] Stanford Express Care
+
+[location] corona
+[location] compton
+[distance] 4 miles [poi] Valero
+[address] 200 Alester Ave [poi] Valero
+[traffic_info] heavy traffic [poi_type] grocery store [poi] Whole Foods
+[distance] 1 miles [traffic_info] moderate traffic [address] 5677 southwest 4th street [poi] 5677 southwest 4th
+
+[traffic_info] no traffic [distance] 3 miles [poi_type] shopping center [poi] Midtown Shopping Center
+[distance] 5 miles [poi] Ana
+
+[distance] 6 miles [location] cleveland
+[distance] 5 miles [poi] Starbucks
+
+[date] the 5th [date] wednesday [event] doctor appointment
+[time] 7pm [date] wednesday [party] father [event] doctor appointment
+
+[location] los angeles
+[distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center
+[poi_type] shopping center [poi] Midtown Shopping Center
+[poi_type] grocery store [poi] Hacienda Market
+[traffic_info] road block nearby [address] 1313 Chester Ave
+
+[today] monday [location] downtown chicago
+[date] the 4th [party] sister [event] tennis activity
+
+[location] durham
+[distance] 3 miles [poi] Stanford Express Care
+[location] mountain view
+
+
+[distance] 1 miles [poi] Palo Alto Garage R
+[location] redwood city
+[poi_type] home [poi] home
+[poi_type] home [address] 5671 barringer street [poi] home
+[poi] Pizza Chicago [poi] Round Table
+
+[today] monday [location] compton
+[location] mountain view
+[time] 5pm [date] the 4th [party] mother [event] tennis activity
+[address] 91 El Camino Real [poi] Stanford Express Care
+[traffic_info] heavy traffic [address] 214 El Camino Real [poi] Stanford Express Care
+[location] danville
+[location] durham
+
+[today] monday [location] cleveland
+[location] new york
+
+[location] seattle
+[traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Chef Chu's
+[address] 593 Arrowhead Way [poi] Chef Chu's
+[traffic_info] heavy traffic [distance] 2 miles [address] 394 van ness ave
+[distance] 5 miles [poi] Chef Chu's
+[traffic_info] no traffic [address] 880 Ames Ct
+
+[location] compton
+[location] fresno
+[date] the 12th [date] the 15th [party] Marie [party] brother [event] doctor appointment
+[time] 11am [date] tuesday [date] the 5th
+[time] 10am [time] 7pm [date] the 8th [date] the 1st
+
+[location] los angeles
+[location] grand rapids
+[greeting] welcome
+[distance] 5 miles [distance] 3 miles [poi] Pizza Hut [poi] Panda Express
+[traffic_info] no traffic [address] 842 Arrowhead Way [poi] Panda Express
+
+[today] monday [location] atherton
+[wednesday] foggy, low of 40F, high of 50F [sunday] rain, low of 40F, high of 50F
+[agenda] discuss the merger [agenda] HR [time] 7pm [date] today [party] HR [event] meeting
+
+
+[location] cleveland
+[date] tuesday [date] the 5th
+[today] monday [location] durham
+[agenda] discuss the company picnic [date] friday [event] dentist appointment
+[distance] 2 miles [address] 915 Arbol Dr [poi] Pizza Chicago
+[poi] Pizza Chicago
+[address] 5672 barringer street
+[traffic_info] heavy traffic
+[address] 5672 barringer street [poi] 5672 barringer street
+[poi_type] home [poi] home
+[traffic_info] no traffic [distance] 3 miles [poi_type] home [address] 5671 barringer street [poi] home
+[poi_type] home [poi] home
+[distance] 4 miles [poi] Palo Alto Cafe
+[address] 436 Alger Dr [poi] Palo Alto Medical Foundation
+
+[location] carson
+[distance] 3 miles [poi_type] shopping center [address] 338 Alester Ave
+[traffic_info] car collision nearby [poi_type] shopping center [poi] Midtown Shopping Center
+
+[location] grand rapids
+
+[location] exeter [tuesday] stormy, low of 40F, high of 50F [sunday] raining, low of 40F, high of 50F
+[location] redwood city
+
+[location] fresno
+[location] fresno
+
+[location] compton [monday] cloudy, low of 90F, high of 100F [sunday] raining, low of 90F, high of 100F [tuesday] foggy, low of 90F, high of 100F [wednesday] raining, low of 90F, high of 100F [thursday]
+
+[location] seattle
+[distance] 3 miles [poi_type] parking garage
+[poi] Palo Alto Garage R
+[distance] 3 miles [traffic_info] road block nearby [poi] Starbucks
+
+[address] 792 Bedoin Street [poi] Starbucks
+[location] redwood city
+[poi] Town and Country
+[distance] 4 miles [traffic_info] no traffic
+[address] 383 University Ave
+[party] Alex [party] Ye [event] Yoga
+[distance] 7 miles [traffic_info] moderate traffic [poi] Valero [address] 481 Amaranta Ave
+[address] 200 Alester Ave [poi] Valero
+[traffic_info] moderate traffic
+[agenda] discuss the company picnic [time] 4pm [time] 6pm [date] the 12th [date] monday [party] HR [event] meeting
+[poi_type] parking garage [distance] 1 miles [poi] Palo Alto Garage R
+[date] monday [party] boss [event] meeting
+
+
+[distance] 3 miles [distance] 4 miles [traffic_info] heavy traffic [poi_type] shopping center [poi] Topanga Mall
+[distance] 3 miles [traffic_info] car collision nearby [address] 171 Oak Rd [poi] Topanga Mall
+
+[greeting] welcome
+[distance] 4 miles [traffic_info] moderate traffic [poi] The Westin
+[address] 329 El Camino Real [poi] The Westin
+[date] tuesday [party] sister [event] dinner
+[location] san francisco
+[date] the 8th [date] wednesday
+
+[location] san francisco
+
+[location] seattle [monday] raining, low of 70F, high of 90F [tuesday] humid, low of 70F, high of 90F [wednesday] raining, low of 70F, high of 90F
+
+[location] compton
+[traffic_info] heavy traffic [address] 580 Van Ness Ave
+
+[location] downtown chicago
+Friday's will be low of 70F, high of 80F [location] alhambra [saturday] humid, low of 20F, high of 30F [friday] cloudy, low of 20F, high of 30F [thursday] cloudy, low of 20F, high of 30F [monday] overcast,
+
+[location] durham
+[location] durham
+[today] monday [location] new york
+[location] new york [friday] rain, low of 30F, high of 50F [monday] dry, low of 30F, high of 50F [thursday] raining, low of 30F, high of 50F [wednesday] raining, low of 30F, high of 50F
+[location] cleveland
+[distance] 4 miles [address] 611 Ames Ave [poi] Palo Alto Medical Foundation
+
+[date] sunday [party] brother [event] football activity
+[distance] 2 miles [poi] Safeway
+[traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway
+[traffic_info] moderate traffic
+[traffic_info] moderate traffic [poi_type] grocery store [poi] Safeway
+
+[location] manhattan
+[distance] 4 miles [traffic_info] moderate traffic
+[location] boston
+
+[location] new york [monday] frost, low of 50F, high of 70F [wednesday] snow, low of 50F, high of 70F [tuesday] overcast, low of 50F, high of 70F
+
+[location] manhattan
+
+
+
+[address] 864 Almanor Ln [poi] jacks house
+[poi] Palo Alto Cafe
+[traffic_info] moderate traffic [distance] 5 miles [address] 145 Amherst St [poi] Teavana
+[distance] 4 miles [address] 880 Ames Ct
+[poi] Palo Alto Garage R [address] 481 Amaranta Ave
+[traffic_info] heavy traffic [distance] 4 miles
+[location] fresno
+[traffic_info] car collision nearby [poi] Whole Foods [address] 819 Alma St
+[traffic_info] no traffic [distance] 4 miles [poi] Four Seasons
+[time] 6pm [time] 7pm [date] the 11th [date] the 5th [party] brother [party] Jon
+
+
+
+[location] alameda [saturday] humid, low of 60F, high of 80F [wednesday] snow, low of 60F, high of 80F [monday] cloudy, low of 60F, high of 80F
+[location] san francisco
+[distance] 8 miles [address] 657 Ames Ave [poi] The Clement Hotel
+[traffic_info] moderate traffic
+
+[location] los angeles
+
+[location] seattle
+
+[location] alameda
+[distance] 2 miles [address] 9981 Archuleta Ave [poi] Peets Coffee
+[distance] 4 miles [traffic_info] moderate traffic [poi] Peets Coffee
+[location] durham
+[distance] 7 miles [traffic_info] no traffic [address] 329 El Camino Real [poi] The Westin
+
+[party] Jon [party] Jeff [event] tennis activity
+[time] 1 pm [date] monday [party] Jon
+
+[location] camarillo
+[location] fresno
+
+[date] wednesday [event] meeting [room] conference room 100 [time] 3 pm
+[location] inglewood
+[time] 5pm [time] 4pm [date] wednesday [date] the 5th
+[traffic_info] road block nearby [distance] 5 miles [poi_type] home [address] 5671 barringer street [poi] home
+
+[distance] 3 miles [poi] Hotel Keen
+[traffic_info] no traffic [address] 578 Arbol Dr [poi] Hotel Keen
+
+[distance] 1 miles [traffic_info] heavy traffic
+
+
+[location] grand rapids
+wience [distance] 2 miles [poi_type] parking garage [address] 880 Ames Ct [poi] Webster Garage [distance] closest Is that the closest one? If so send me the address as soon as possible.
+[traffic_info] moderate traffic [distance] 2 miles [address] 580 Van Ness Ave
+[party] aunt
+[distance] 5 miles [distance] 4 miles [poi] Cafe Venetia [poi] Teavana
+[traffic_info] moderate traffic [traffic_info] no traffic [poi] Cafe Venetia
+[traffic_info] heavy traffic
+[traffic_info] road block nearby [distance] 1 miles [address] 145 Amherst St [poi] Teavana
+[location] alhambra
+[location] exeter
+[distance] 3 miles [poi_type] coffee or tea place [poi] jacks house
+[distance] 6 miles [traffic_info] moderate traffic [address] 394 Van Ness Ave [poi] Coupa
+[location] cleveland
+[poi_type] shopping center [poi] Stanford Shopping Center
+[traffic_info] car collision nearby [poi_type] shopping center [address] 171 Oak Rd [poi] Stanford Shopping Center
+[address] 773 Alger Dr
+DAY [date] saturday [date] the 2nd [date] the 16th [party] Marie [party] brother [event] optometrist appointment [greeting] thank Thank you.
+[distance] 6 miles [distance] 583 Alester Ave [poi] Philz
+[traffic_info] no traffic [poi] Philz
+[today] monday [location] new york
+[address] 528 Anton Ct [poi] Pizza My Heart
+[poi] Chef Chu's [poi] tai pan
+[distance] 4 miles [traffic_info] road block nearby [poi] Chef Chu's
+[address] 593 Arrowhead Way [poi] Chef Chu's
+[traffic_info] car collision nearby [distance] 3 miles [poi_type] rest stop [poi] Hotel Keen
+[traffic_info] car collision nearby [distance] 3 miles [address] 578 Arbol Dr [poi] Hotel Keen
+[address] 214 El Camino Real
+[greeting] welcome
+
+[location] manhattan
+[distance] 3 miles [traffic_info] no traffic [poi_type] pizza restaurant [address] 113 Anton Ct [poi] Round Table
+[location] los angeles
+[poi_type] home [address] 56 cadwell street [poi] home
+[distance] 4 miles [traffic_info] no traffic [poi] Palo Alto Medical Foundation [address] 611 Ames Ave
+[date] the 5th [party] aunt [event] lab appointment
+[date] the 5th [party] aunt [event] lab appointment
+[distance] 5 miles [poi_type] gas station
+[poi_type] gas station [traffic_info] moderate traffic [address] 270 Altaire Walk [poi] Valero
+[poi] Valero [address] 200 Alester Ave
+[location] cleveland
+[traffic_info] heavy traffic [distance] 4 miles [poi_type] home [poi] home
+[distance] 4 miles [address] 56 cadwell street
+[today] monday [location] seattle
+[location] boston
+[distance] 4 miles [poi_type] shopping center [poi] Stanford Shopping Center
+[distance] 4 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center
+[time] 6pm [time] 3pm [time] 1pm [date] monday [date] the 6th
+[time] 6pm [date] sunday [room] conference room 102 [party] management
+[location] los angeles
+[address] 580 Van Ness Ave [poi] Travelers Lodge
+[address] 333 Arbol Dr [poi] Travelers Lodge
+
+[date] monday [date] the 13th [party] sister [party] aunt [event] dentist appointment
+[date] friday [date] the 17th [date] monday [party] sister [party] Alex [party] Marie
+
+[location] fresno
+[poi_type] coffee or tea place
+[traffic_info] no traffic [poi] Cafe Venetia [address] 269 Alger Dr
+[distance] 4 miles [traffic_info] no traffic [address] 580 Van Ness Ave
+[distance] 3 miles [distance] 6 miles [poi] Cafe Venetia [poi] Coupa
+[traffic_info] heavy traffic [poi_type] coffee or tea place [address] 269 Alger Dr [poi] Cafe Venetia
+
+
+[location] corona [monday] overcast, low of 70F, high of 90F [sunday] dry, low of 70F, high of 90F
+[distance] 6 miles [traffic_info] moderate traffic [poi] Travelers Lodge
+[address] 333 Arbol Dr
+[distance] 5 miles [poi] P.F. Changs
+
+[traffic_info] heavy traffic [distance] 6 miles [address] 669 El Camino Real [poi] P.F. Changs
+
+[distance] 6 miles [location] oakland
+[distance] 6 miles [poi] Chevron
+[poi_type] gas station [address] 783 Arcadia Pl [poi] Chevron
+[traffic_info] no traffic [address] 783 Arcadia Pl [poi] Tom's house
+[greeting] welcome
+[distance] 3 miles [distance] 6 miles [poi] Chef Chu's [poi] Mandarin Roots
+[poi] Chef Chu's
+[poi] Chef Chu's [address] 593 Arrowhead Way
+[distance] 3 miles [traffic_info] moderate traffic [distance] 4 miles [poi] Chef Chu's
+[traffic_info] car collision nearby [distance] 7 miles [poi] Stanford Express Care
+[distance] 4 miles [poi] Cafe Venetia
+[event] conference [event] meeting [room] conference room 102 [party] boss
+[event] meeting
+[location] san francisco
+[date] the 3rd [date] the 9th [party] Tom [party] father
+[party] Jon [event] tennis activity [date] the 11th
+
+[today] monday [location] san jose
+[location] san mateo
+
+[location] los angeles
+
+[location] camarillo
+[location] atherton
+[distance] 4 miles [address] 333 Arbol Dr [poi] Travelers Lodge
+[traffic_info] no traffic [address] 333 Arbol Dr
+[distance] 6 miles [traffic_info] heavy traffic [address] 864 Almanor Ln [poi] jacks house
+
+
+[time] 9am [time] 5pm [date] the 12th [date] the 4th
+[distance] 3 miles [poi_type] shopping center [poi] Stanford Shopping Center [poi] Ravenswood Shopping Center
+[poi_type] shopping center [poi] Ravenswood Shopping Center
+[poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center
+[distance] 2 miles [traffic_info] heavy traffic [address] 408 University Ave [poi] Trader Joes
+[traffic_info] heavy traffic
+
+[location] redwood city
+[poi] Stanford Express Care [address] 580 Van Ness Ave
+[traffic_info] heavy traffic [poi] Stanford Express Care
+[distance] 4 miles [traffic_info] heavy traffic [poi_type] gas station [address] 214 El Camino Real [poi] Stanford Express Care
+[traffic_info] no traffic [poi] Stanford Childrens Health
+
+[distance] 2 miles [traffic_info] moderate traffic [poi_type] coffee or tea place [address] 269 Alger Dr [poi] Cafe Venetia
+[traffic_info] road block nearby
+[distance] 6 miles [poi] The Westin
+[poi] The Westin
+[distance] 2 miles [traffic_info] heavy traffic [address] 329 El Camino Real [poi] The Clement Hotel
+[distance] 4 miles [poi] Safeway [address] 171 Oak Rd
+[traffic_info] road block nearby [address] 452 Arcadia Pl [poi] Safeway
+
+
+[location] fresno
+
+
+[traffic_info] road block nearby [poi_type] coffee or tea place [poi] Coupa
+[traffic_info] heavy traffic [address] 394 Van Ness Ave [poi] Coupa
+
+[location] redwood city
+[today] monday [location] fresno
+[poi_type] shopping center [poi] Midtown Shopping Center
+[distance] 2 miles [traffic_info] heavy traffic [address] 338 Alester Ave
+[poi_type] shopping center [address] 338 Alester Ave [poi] Midtown Shopping Center
+[poi] jills house [address] 347 Alta Mesa Ave
+[traffic_info] car collision nearby
+[distance] 4 miles [traffic_info] road block nearby [address] 269 Alger Dr [poi] Cafe Venetia
+[traffic_info] no traffic [distance] 4 miles
+[date] wednesday
+
+[today] monday [location] durham [monday] overcast, low of 70F, high of 90F Friday, low of 40F, high of 60F Saturday, low of 80F, high of 90F Sunday [tuesday] cloudy, low of 70F, high of 90F
+[poi_type] home [address] 56 cadwell street [poi] home
+[poi_type] home [poi] home
+[distance] 2 miles [distance] 3 miles [poi] Pizza Chicago [poi] Pizza Chicago
+[address] 915 Arbol Dr
+[distance] 2 miles [traffic_info] no traffic [poi_type] shopping center [address] 611 Ames Ave [poi] Midtown Shopping Center
+[distance] 4 miles [address] 434 Arastradero Rd
+[distance] 4 miles [poi] Whole Foods
+[address] 819 Alma St [poi] Whole Foods
+[distance] 5 miles [poi] Starbucks
+[distance] 4 miles [traffic_info] road block nearby [address] 792 Bedoin Street [poi] Starbucks
+[poi] Coupa
+
+[distance] 3 miles [address] 394 Van Ness Ave [poi] Coupa
+[traffic_info] moderate traffic [poi] Palo Alto Cafe
+[traffic_info] car collision nearby [distance] 2 miles [poi_type] coffee or tea place [poi] Cafe Venetia
+[poi] Cafe Venetia
+
+Tuesday will be raining, low of 30F and high of 40F. [today] monday [location] inglewood [monday] cloudy, low of 30F and high of 40F [wednesday] rain, low of 30F and high of 40F [tuesday] windy, low of 30F and high of 40
+
+[location] atherton [monday] dry, low of 30F, high of 50F [wednesday] rain, low of 30F, high of 50F [thursday] cloudy, low of 30F, high of 50F
+
+[location] san jose
+[traffic_info] heavy traffic [poi_type] coffee or tea place [poi] Coupa
+[traffic_info] car collision nearby [distance] 3 miles [poi] Starbucks [address] 792 Bedoin Street [poi] Starbucks
+
+[location] san francisco
+
+[location] los angeles [monday] snow, low of 70F, high of 90F [tuesday] windy, low of 70F, high of 90F
+[date] the 13th [event] conference [time] 9am [party] HR
+[agenda] discuss the merger [time] 2 pm [date] tuesday [event] meeting
+[greeting] welcome
+
+[location] san jose
+info [time] 6pm [time] 9am [time] 1pm [date] monday [date] the 13th [date] saturday [party] Alex [party] Jeff [party] Ana [greeting] thank
+[distance] 5 miles [poi_type] hospital [poi] Stanford Express Care
+[traffic_info] road block nearby [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care
+[address] 214 El Camino Real [poi] Stanford
+[distance] 3 miles [poi_type] shopping center [poi] Town and Country
+[distance] 3 miles [poi] Palo Alto Medical Foundation
+[poi] Town and Country [address] 383 University Ave
+
+[location] grand rapids
+[distance] 5 miles [distance] 4 miles [poi] Coupa
+
+
+
+[time] 5pm [time] 11th [date] the 5th [date] the 11th [party] father [event] swimming activity
+[party] Jon [party] Alex [event] lab appointment [time] 2 pm
+[poi_type] chinese restaurant
+[distance] 3 miles [traffic_info] heavy traffic [poi] Panda Express
+[poi] Panda Express
+[address] 842 Arrowhead Way [poi] Panda Express
+[time] 2pm [date] the 5th [party] boss [event] meeting
+
+[location] fresno
+[time] 6pm [time] 7pm [date] the 12th [date] the 14th
+
+[location] oakland
+
+[location] grand rapids [monday] windy, low of 60F, high of 70F [friday] cloudy, low of 60F, high of 70F [wednesday] raining, low of 60F, high of 70F [thursday] hot, low of 60F, high of 70F
+[greeting] welcome
+
+[wednesday] snow, low of 40F, high of 60F [monday] foggy, low of 40F, high of 60F [sunday] raining, low of 40F, high of 60F
+
+[location] new york
+[traffic_info] no traffic [poi_type] home [address] 10 ames street [poi] home
+[location] redwood city
+[distance] 4 miles [traffic_info] moderate traffic
+[distance] 7 miles [traffic_info] no traffic [traffic_info] road block nearby [poi_type] shopping center [poi] Stanford Shopping Center
+[traffic_info] moderate traffic [address] 434 Arastradero Rd
+[time] 4pm [time] 5pm [date] monday [date] the 5th
+[traffic_info] moderate traffic [poi_type] home [poi] home [address] 56 cadwell street [poi] home
+[greeting] welcome
+[poi] Cafe Venetia
+[distance] 2 miles [traffic_info] heavy traffic [poi] Stanford Express Care
+[poi] Cafe Venetia [address] 269 Alger Dr
+[distance] 5 miles [address] 915 Arbol Dr [poi] Pizza Chicago
+[poi] Pizza Chicago [friday] dry, low of 60F, high of 70F [monday] snow, low of 60F, high of 70F
+[distance] 2 miles [poi_type] parking garage [poi] Webster Garage
+[distance] 4 miles [poi] Palo Alto Garage R
+
+
+[distance] 6 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Whole Foods
+[address] 452 Arcadia Pl [poi] Safeway

@@ -1,0 +1,711 @@
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[poi] chevron [greeting] thank
+[distance] fastest
+The temperature in Boston on Friday will be low of 40F, and high of 50F [location] boston [friday] dry, low of 40F, high of 50F [monday] low of 40F, high of 50F [sunday] hot, low of 40F, high of 50F
+[greeting] thank
+8pm foggy, low of 20F, high of 30F [location] alhambra [tuesday] foggy, low of 20F, high of 30F [friday] clear skies, low of 20F, high of 30F [saturday] blizzard, low of 20F, high of 30F
+[distance] fastest
+[poi] Sigona Farmers Market [poi] Whole Foods
+
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] within 4 miles [poi_type] coffee
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[traffic_info] quickest route [poi] whole foods
+[poi] safeway [greeting] thank
+[distance] fastest
+[poi] Willow [greeting] thank
+[poi] Willows Market
+[poi] willows market [greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[location] San Mateo
+[greeting] thank
+[distance] fastest
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+[traffic_info] no traffic
+[distance] fastest possible route
+[poi] valero [greeting] thank
+[distance] fastest
+6 miles away Okay, but where is the moderate traffic? [traffic_info] moderate traffic [distance] 5 miles [address] 5677 springer street [traffic_info] heavy traffic [poi_type] my friend's house [poi] my house
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[greeting] thank
+[distance] nearby [poi_type] parking garage
+[distance] fastest
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] 5 miles away [poi_type] starbucks [address] 792 Bedoin Street [poi] Starbucks
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[poi] midtown shopping center [greeting] thank
+[poi] midtown shopping center [greeting] thank
+[distance] fastest
+[poi] boston farmers market [greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] windy [date] today or tomorrow [location] Manhattan
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[weather_attribute] clear skies [date] today and tomorrow [location] Boston
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[weather_attribute] weekly [location] inglewood
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[traffic_info] quickest route [poi_type] home [poi] home [address] 864 Almanor Ln
+[room] barringer street [address] 5671 barringer street [poi] stanford oval parking [greeting] thank
+[greeting] thank
+[distance] fastest
+[weather_attribute] temperature [date] 7 days [location] Boston
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[event] tennis activity [time] 5pm [date] the 4th [party] mother [event] tennis activity
+[distance] fastest
+[greeting] thank
+[traffic_info] heavy traffic [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express Care [greeting] thank
+[distance] fastest
+[weather_attribute] rain [date] next week
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+heavy traffic [wednesday] foggy, low of 60F, high of 70F [monday] misty, low of 60F, high of 70F [sunday] raining, low of 60F, high of 70F [tuesday] raining, low of 60F, high of 70F [greeting] thank
+[distance] fastest
+[weather_attribute] misty [date] today [location] seattle
+[greeting] thank
+[distance] fastest
+[traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Chef Chu's
+[distance] fastest route [poi] chef chu's [greeting] thank
+[distance] fastest route [poi] chef chu's [greeting] thank
+[distance] fastest
+
+
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[weather_attribute] temperature [date] this week
+[distance] fastest
+doctor appointment [time] 10am [date] the 15th [date] wednesday [date] the 20th [party] Ana [party] sister brother sister brother sister brother sister brother sister brother sister brother sister brother
+[distance] fastest
+[greeting] thank
+[distance] fastest
+
+[distance] fastest
+[distance] nearest [poi_type] coffee shop
+[greeting] thank
+[distance] fastest
+[weather_attribute] cloudy [date] next 7 days
+[greeting] thank
+[distance] fastest
+[distance] within 4 miles [poi_type] fast food restaurant [poi] Pizza Hut
+[poi] panda express [greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+windy, low of 40F, high of 50F [location] manhattan [sunday] overcast, low of 40F, high of 50F [monday] foggy, low of 40F, high of 50F [date] wednesday [location] manhattan
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] clear skies [date] today and tomorrow [location] Corona
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[weather_attribute] cloudy [date] today
+[distance] fastest
+[distance] nearest [poi_type] coffee shop
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[room] 915 Arbol Dr [poi] Pizza Chicago Okay, map a route to reach there and set the GPS. I sent all the info on your map, please drive carefully!
+[greeting] thank
+[distance] fastest
+[distance] near me [poi_type] quickest route [address] 5672 barringer street [poi] 5672 barringer street
+[poi] 5672 barringer street [greeting] thank
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic [greeting] thank
+[traffic_info] no traffic [poi_type] home [poi] home [greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[weather_attribute] overcast or cloudy [date] this week [location] Boston
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[weather_attribute] clear skies [date] today [location] Exeter
+clear skies, low of 40F, high of 50F [location] exeter [monday] stormy, low of 40F, high of 50F [sunday] foggy, low of 40F, high of 50F [tuesday] raining, low of 40F, high of 50F
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] cloudy [date] tomorrow [location] Boston
+[distance] nearest [poi_type] coffee shop
+[greeting] thank
+[distance] fastest
+[distance] nearest [poi_type] coffee or tea place [poi] starbucks
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+
+[poi] palo alto garage r [greeting] thank
+[distance] fastest
+[poi] starbucks [greeting] thank
+[greeting] thank
+[poi] starbucks [greeting] thank
+[distance] fastest
+[weather_attribute] rain [date] next week
+[distance] fastest
+[traffic_info] no traffic [poi_type] shopping center [address] 383 University Ave [poi] Town and Country [greeting] thank
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[party] any other members of the class?
+[distance] fastest
+[distance] fastest
+Road block is located 4 miles away. [traffic_info] moderate traffic [distance] 4 miles [poi] Valero [distance] nearest [traffic_info] fastest route [poi_type] gas station [poi] Valero [greeting] thank
+[poi] toms car i moderate traffic [greeting] thank
+[poi] valero [greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[poi] palo alto garage r [greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+
+[traffic_info] no traffic [poi] topanga mall [greeting] thank
+[poi] topanga mall [greeting] thank
+[greeting] thank
+[distance] fastest
+
+[poi] the westin [greeting] thank
+[distance] fastest
+[room] the 8th [event] dinner
+[distance] fastest
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+
+[distance] fastest
+[date] tomorrow
+[greeting] thank
+[distance] fastest
+[weather_attribute] overcast [date] today and tomorrow [location] Manhattan [greeting] thank
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+
+[distance] fastest
+[distance] fastest
+[greeting] thank
+there is no traffic or inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood inglewood
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[weather_attribute] cloudy [date] Saturday [location] Boston
+[weather_attribute] temperature [date] this week
+[greeting] thank
+[distance] fastest
+[distance] nearest [poi_type] coffee or tea place [poi] starbucks
+on Friday, low of 30F, high of 50F [friday] dry, low of 30F, high of 50F [monday] overcast, low of 30F, high of 50F [tuesday] dry, low of 30F, high of 50F [sunday] raining, low of 30F, high of 50F
+[distance] fastest
+[weather_attribute] rain [date] next week
+[distance] fastest
+[poi] palo alto medical foundation
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[poi] safeway [greeting] thank
+[greeting] thank
+[poi] safeway [greeting] thank
+[traffic_info] no traffic [poi_type] grocery store [address] 452 arcadia pl [poi] safeway [greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+I'm sorry i have one in new york city with a low of 40F, high of 60F It will not be cloudy in New York this week. [location] new york [monday] cloudy, low of 40F, high of 60F [sunday] raining,
+raining, low of 50F, high of 70F [monday] overcast, low of 50F, high of 70F [tuesday] windy, low of 50F, high of 70F [distance] nearest [poi_type]
+[distance] fastest
+[weather_attribute] temperature [date] this week [location] Boston
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[traffic_info] no traffic
+[distance] nearest [poi_type] chinese restaurant
+[distance] fastest
+[traffic_info] without traffic
+[poi] palo alto garage r [greeting] thank
+[distance] fastest
+[distance] fastest
+[weather_attribute] rain [date] next week
+[distance] fastest
+[traffic_info] no traffic
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] snow [date] this week [location] Boston
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[greeting] thank
+hail, low of 60F, high of 80F [wednesday] overcast, low of 60F, high of 80F [monday] overcast, low of 60F, high of 80F [tuesday] overcast, low of 60F, high of 80F
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] quickest
+[greeting] thank
+[distance] fastest
+[weather_attribute] overcast [date] today and tomorrow [location] Manhattan [greeting] thank
+[greeting] thank
+[distance] fastest
+[weather_attribute] foggy [date] sunday [location] inglewood
+[greeting] thank
+[distance] fastest
+[location] San Mateo
+[greeting] thank
+[distance] fastest
+There is no traffic on the way to the Starbucks. The address is 9981 Archuleta Ave. [traffic_info] no traffic [address] 9981 Archuleta Ave [poi] Peets Coffee [poi] peets coffee [greeting] thank
+[poi] peets coffee [greeting] thank
+[poi] peets coffee [greeting] thank
+[distance] fastest
+[greeting] thank
+, 9 miles away,to the westin. [distance] 9 miles [traffic_info] no traffic [poi] The Westin [address] 329 El Camino Real [distance] nearest
+[distance] fastest
+[event] tennis activity [date] the 13th [party] Jon
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+
+[distance] nearby [poi_type] parking garage
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] nearest [poi_type] grocery store
+traffic [traffic_info] heavy traffic [poi_type] home [address] 5671 barringer street [poi] home [distance] nearest [poi_type] grocery store
+[distance] fastest
+[poi] hotel keen
+[greeting] thank
+[greeting] thank
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[weather_attribute] cloudy [date] next week [location] New York [greeting] thank
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[poi] Philz
+[poi] Cafe Venetia
+[poi] Cafe Venetia
+[distance] nearest [poi_type] hotel
+[distance] fastest
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+[weather_attribute] cloudy [date] next week
+[distance] fastest
+[traffic_info] no traffic
+[poi] coupa [greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[traffic_info] avoid the collision
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[poi] philz [greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[poi_type] pizza my heart [address] 528 Anton Ct [poi] Pizza My Heart [greeting] thank
+[distance] fastest
+[traffic_info] heavy traffic [poi] chef Chu's
+
+[poi] chef chu's [greeting] thank
+[distance] fastest
+
+[poi] hotel keen [greeting] thank
+[greeting] thank
+[poi] hotel keen [greeting] thank
+[distance] fastest
+[weather_attribute] clear skies [date] Saturday [location] Boston
+[greeting] thank
+[distance] fastest
+[poi] round table [greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[poi] palo alto medical foundation [greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+
+[greeting] thank
+[greeting] thank
+[distance] fastest
+weather [tuesday] foggy, low of 30F, high of 40F [sunday] dew, low of 30F, high of 40F [thursday] rain, low of 30F, high of 40F [monday] dew, low of 30F, high of 40F [saturday] clear skies, low of 30F, high of 40
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[date] Saturday [event] conference [time] 6pm
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[distance] fastest
+[weather_attribute] windy [date] Sunday [location] Los Angeles [greeting] thank
+[distance] fastest
+[distance] fastest
+
+[poi] travelers lodge [greeting] thank
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[location] Boston
+[greeting] thank
+[distance] fastest
+[poi] starbucks
+[poi] cafe venetia [greeting] thank
+[poi] Cafe Venetia [agenda] no traffic
+[distance] fastest
+[poi] Cafe Venetia
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+foggy, low of 70F, high of 90F [location] corona [monday] humid, low of 70F, high of 90F [sunday] raining, low of 70F, high of 90F [tuesday] overcast, low of 70F, high of 90F
+[distance] fastest
+[traffic_info] no traffic [distance] fastest possible route [poi] the travelers lodge
+[poi] travelers lodge [greeting] thank
+[distance] fastest
+[traffic_info] moderate traffic [address] 583 Alester Ave [poi] P.F. Changs
+[greeting] thank
+[poi] PF chang [greeting] thank
+[distance] fastest
+[weather_attribute] clear skies [date] today [location] Boston
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+
+
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+
+[poi] panda express [greeting] thank
+[traffic_info] moderate traffic [poi] chef chu's [greeting] thank
+[distance] fastest
+[traffic_info] avoid the collision
+[distance] fastest
+[poi] cafe venetia
+[distance] fastest
+[greeting] thank
+[room] conference room 102 [room] conference room 100 [greeting] thank
+[distance] fastest
+[weather_attribute] windy [date] today [location] San Francisco
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+8pm, tuesday's forecast predicts it will be cloudy on Saturday and the high temperature will be in the 80Fs. [location] san jose [distance] nearest [poi_type] coffee shop
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] temperature [date] this week [location] Boston
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[weather_attribute] humid [date] this week [location] San Jose
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+
+[distance] within 4 miles [poi_type] coffee
+[distance] fastest
+[traffic_info] fastest
+
+[greeting] thank
+[distance] fastest
+
+[distance] fastest
+[poi] ravenswood shopping center [greeting] thank
+[distance] nearest [poi_type] coffee shop
+Set GPS for quickest route. [poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [poi] Ravenswood Shopping Center [greeting] thank [poi] ravenswood shopping center [greeting]
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[date] today and tomorrow
+[greeting] thank
+[distance] fastest
+[traffic_info] avoid all heavy traffic
+[traffic_info] heavy
+[traffic_info] heavy traffic [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express Care [greeting] thank
+[traffic_info] heavy [poi] stanford express care [greeting] thank
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[traffic_info] no traffic
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[poi] the westin [greeting] thank
+[poi] the westin [greeting] thank
+[distance] fastest
+
+has no traffic. [traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway [traffic_info] heavy traffic [poi_type] grocery store [address] 452 arcadia pl [poi] safeway [greeting] thank
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[date] today and tomorrow
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[traffic_info] avoid all heavy traffic [greeting] thank
+[weather_attribute] cloudy [date] next 7 days
+[distance] fastest
+[weather_attribute] cloudy [date] next week
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[poi] inglewood shopping center
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[location] Boston
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[weather_attribute] cloudy [date] next week
+[distance] fastest
+
+[distance] nearest [poi_type] hospital
+[distance] fastest
+[poi] ravenswood shopping center [greeting] thank
+[greeting] thank
+[distance] fastest
+
+[distance] nearest [poi_type] grocery store
+[distance] fastest
+[greeting] thank
+[poi] starbucks [greeting] thank
+[distance] fastest
+[greeting] thank
+
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[poi_type] coffee or tea place [poi] Cafe Venetia
+[poi] Cafe Venetia
+[distance] fastest
+
+[greeting] thank
+[distance] fastest
+[weather_attribute] foggy [date] tomorrow [location] Boston
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[poi] starbucks [greeting] thank
+[distance] nearby [poi_type] parking garage
+[distance] fastest
+[weather_attribute] cloudy [date] today
+[distance] fastest
+[distance] nearest [poi_type] coffee shop
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[poi] stanford express care [greeting] thank
+[traffic_info] heavy traffic [poi_type] hospital [poi] Stanford Express Care [poi] Stanford Express Care [greeting] thank
+[greeting] thank
+[distance] fastest
+
+[poi] town and country [greeting] thank
+[poi] town and country [greeting] thank
+[distance] fastest
+[greeting] thank
+is predicted to be cloudy and have a low of 80F and a high of 100F. [location] inglewood [monday] cloudy, low of 80F, high of 100F [tuesday] humid, low of 80F, high of 100F [friday] overcast, low of 80F, high of 100F
+[distance] fastest
+[traffic_info] no traffic
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[distance] fastest
+
+2 miles [distance] 3 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Panda Express [distance] within 4 miles (3 miles) [traffic_info] fastest possible route [poi_type] chinese restaurant [address] 8
+has moderate traffic. [poi_type] parking garage [traffic_info] moderate traffic [distance] 3 miles [address] 880 Ames Ct [poi] Panda Express [distance] nearest [poi_type] chinese restaurant
+[distance] nearest [poi_type] hotel
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[weather_attribute] cloudy [date] today
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+[greeting] thank
+[distance] fastest
+[greeting] thank
+[greeting] thank
+[distance] fastest
+is scheduled for Saturday at 2pm. [time] 2pm [date] saturday [date] the 8th [event] meeting [weather_attribute] windy [date] Saturday [location] grand rapids [igu] Is it going to be windy in grand rapids on Saturday
+y, low of 60F, high of 70F [monday] windy, low of 60F, high of 70F [friday] windy, low of 60F, high of 70F [tuesday] windy, low of 60F, high of 70F
+
+[distance] fastest
+[weather_attribute] cloudy [date] today [location] New York
+[greeting] thank
+[distance] fastest
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] fastest
+road [traffic_info] heavy traffic [poi_type] home [address] 10 ames street [poi] home [distance] nearest [poi_type] coffee or tea place
+[distance] fastest
+[distance] nearest [poi_type] grocery store
+[greeting] thank
+[distance] fastest
+[traffic_info] no traffic
+[distance] nearest [poi_type] coffee shop
+[distance] fastest
+[greeting] thank
+[distance] fastest
+7 days [traffic_info] moderate traffic [poi_type] home [address] 56 cadwell street [poi] home [distance] nearby [poi_type] parking garage
+road block nearby [traffic_info] moderate traffic [poi] home [poi_type] home [address] 56 cadwell street [greeting] welcome [weather_attribute] cloudy
+[distance] fastest
+[poi] cafe venetia [greeting] thank
+[greeting] thank
+[traffic_info] no traffic [poi_type] tea or coffee shop [address] 269 Alger Dr [poi] Cafe Venetia
+[distance] fastest
+[poi] Pizza Chicago [distance] 5 miles [address] 915 Arbol Dr [distance] within 4 miles (5 miles) [traffic_info] quickest route [poi_type] pizza restaurant [address] 915 Arbol Dr [poi] Pizza Chicago
+[greeting] thank
+[distance] fastest
+
+[poi] palo alto garage r [greeting] thank
+[distance] fastest
+[location] Boston
+[weather_attribute] cloudy [date] today and tomorrow [location] New York
+[distance] fastest
+[traffic_info] no traffic
+[weather_attribute] cloudy [date] next week

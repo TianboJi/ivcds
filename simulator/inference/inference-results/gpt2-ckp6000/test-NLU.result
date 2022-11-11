@@ -1,0 +1,455 @@
+[poi_type] gas station [poi] Chevron
+[traffic_info] heavy traffic [poi] Chevron
+[poi_type] gas station [address] 783 Arcadia Pl [poi] Chevron
+
+
+
+[distance] 2 miles [poi_type] grocery store [poi] Sigona Farmers Market I guess, I will have to go to Sigona Farmers Market. I sent its position and the route to follow on your screen
+[distance] 4 miles [distance] 1 miles [traffic_info] no traffic [address] 638 Amherst St [poi] Sigona Farmers Market
+[location] fresno [date] next 48 hours [location] Boston [greeting] thank
+place [poi_type] home [address] 56 cadwell street [poi] home [monday] dry, low of 20F, high of 30F [sunday] dry, low of 20F, high of 30F [saturday] dry, low of 20F, high of 30F [tuesday] humid
+[traffic_info] heavy traffic [distance] 3 miles
+[greeting] welcome Great, turn on the radio! [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+[distance] 4 miles [poi] Safeway [poi] Whole Foods
+[distance] 4 miles [address] 452 Arcadia Pl [poi] Whole Foods
+one is 4 miles away There is a car collision nearby but we're 3 miles away from Willows Market, it's not going to be fast [distance] 3 miles [traffic_info] car collision nearby [distance] 4 miles [poi] Willows Market [poi_type] grocery store
+[distance] 3 miles
+[traffic_info] car collision nearby
+[traffic_info] road block nearby [distance] 5 miles [address] 347 Alta Mesa Ave
+[location] boston
+[distance] 5 miles [address] 347 Alta Mesa Ave
+[location] brentwood
+[distance] 4 miles [distance] 4 miles [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage
+[distance] 2 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center
+[address] 214 El Camino Real [poi] Stanford Express Care
+
+[location] corona
+[location] compton
+[distance] 4 miles [poi] Chevron
+[address] 200 Alester Ave [poi] 200 Alester Ave [distance] gas station [poi_type] gas station [address] 200 Alester Ave [poi] gas station [distance] quick [poi] chevron [greeting] thank
+[traffic_info] heavy traffic
+[distance] 1 miles [distance] 4 miles [traffic_info] moderate traffic [poi_type] home [address] 5677 southwest 4th street [poi] home
+response is scheduled for Saturday at 3pm. [time] 3pm [time] 4pm [date] saturday [date] the 3rd [event] lab appointment [event] lab appointment [date] Saturday [event] lab appointment [event] lab appointment [time] 4:50
+[distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center
+there. [greeting] thank [distance] 3 miles [poi_type] shopping [distance] 3 miles away [traffic_info] quickest way [poi_type] shopping center [address] 383 University Ave [poi] Town and Country [greeting] thank
+
+[distance] 3 miles [location] corona
+[distance] 5 miles [poi] Starbucks
+[poi] Starbucks [distance] 5 miles [address] 792 Bedoin Street
+man [date] wednesday [date] the 5th [party] HR [party] sister [event] doctor appointment [date] Wednesday The one on Wednesday. Your doctor appointment on Wednesday is at 3 pm.
+[time] 7pm [date] wednesday [party] father
+
+[location] los angeles
+[traffic_info] no traffic [distance] 3 miles [poi_type] shopping center [address] 383 University Ave [poi] Midtown Shopping Center
+[poi_type] shopping center [poi] Midtown Shopping Center
+[poi_type] grocery store [poi] Hacienda Market
+[traffic_info] road block nearby [address] 1313 Chester Ave
+
+[today] monday [location] downtown chicago
+[date] the 4th [date] the 4th [party] sister [party] father [event] tennis activity
+monday [date] monday [location] corona I want to know the weather for Corona, please. [date] monday [date] monday [location] corona [greeting] thank
+, low of 40F, high of 60F [tuesday] raining, low of 40F, high of 60F [monday] overcast, low of 40F, high of 60F [date] today and tomorrow [date] today and tomorrow [weather_attribute] misty [location] Exeter [greeting]
+
+[location] mountain view
+president is set in the 9th. [date] the 9th [date] this week [date] this week [date] this week [location] Brentwood [greeting] thank
+
+[distance] 1 miles [poi] Palo Alto Garage R
+
+[traffic_info] road block nearby
+[poi_type] home [poi] home [address] 5671 barringer street [poi] home
+
+
+[today] monday [location] compton
+[location] mountain view
+[time] 5pm [time] 5pm [date] the 4th [date] the 3rd [party] Martha [party] father [event] tennis activity
+
+[poi_type] hospital
+[location] danville
+next week is going to be dry in spring with low of 40F, high of 60F. [location] durham [tuesday] foggy, low of 40F, high of 60F [monday] dry, low of 40F, high of 60F [wednesday] clear skies, low of 40F, high of 60
+
+[today] monday [location] corona
+
+
+[location] seattle
+
+traffic [poi_type] chinese restaurant [address] 593 Arrowhead Way [poi] Chef Chu's [traffic_info] no traffic Please pick a route with no traffic and let's go there! The current route is the only one
+[traffic_info] heavy traffic [traffic_info] no traffic [distance] nearest [poi_type] chinese restaurant [traffic_info] no traffic [greeting] thank [greeting] thank
+[distance] 5 miles [traffic_info] road block nearby
+[traffic_info] no traffic
+
+[date] weekend [date] the 8th [date] saturday [location] compton [greeting] thank
+
+[date] wednesday [date] the 15th [date] wednesday [party] Ana [party] Marie
+[date] tuesday [date] the 11th [party] father
+one? [time] 7pm [time] 10am [date] the 1st [date] the 8th [event] dentist appointment [event] dentist appointment [date] 8th [event] dentist appointment [date] Saturday [party] Martha [event] dentist appointment [time] 4
+
+[location] los angeles
+[location] grand rapids
+
+one day [distance] 3 miles [poi] Pizza Hut [poi] a Pizza Hut [distance] within 3 miles [poi_type] pizza place [poi] Pizza My Heart Ok, can you give me the directions to Pizza My Heart?
+foggy, low of 40F, high of 50F [tuesday] snow, low of 40F, high of 50F [monday] cloudy, low of 40F, high of 50F [distance] local [poi_type] fast food restaurant [distance] within 3 miles [poi_type] pizza place
+
+[today] monday [location] boston
+[sunday] monday [location] new york
+[agenda] discuss the merger [time] 7pm [date] today [party] HR [event] meeting
+
+[location] corona
+
+next week [date] this week [location] Boston I'm interested in Boston. This week in Boston will be dry, clear skies, with a blizzard, windy and rain. [location] boston
+sunday blizzard [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week
+place is 7 miles away. [distance] 7 miles [date] friday [event] dentist appointment [event] dentist appointment [date] Friday [room] 915 Arbol Dr [greeting] thank [party] sister [room] Central Hospital [agenda] tooth pulled
+[distance] 2 miles [address] 915 Arbol Dr [poi] Pizza Chicago
+[poi] Pizza Chicago
+
+[traffic_info] heavy traffic [traffic_info] no traffic
+and location. [address] 5672 barringer street [poi] 5672 barringer street [distance] nearest [poi_type] grocery store [distance] nearest [poi_type] grocery store [poi] Safeway [distance] quickest [poi] safeway
+[poi_type] home [poi] home [distance] 3 miles
+[distance] 3 miles [traffic_info] heavy traffic [poi_type] home [address] 5671 barringer street [poi] home
+[poi_type] home [poi] home [poi] home [distance] 3 miles [poi_type] home [address] 5671 barringer street [poi] home [distance] 3 miles [traffic_info] no traffic [poi_type]
+[distance] 4 miles
+[location] at 436 Alger Dr
+
+[location] carson
+[distance] 3 miles [poi_type] shopping center [address] 338 Alester Ave
+[saturday] raining, low of 40F, high of 60F [monday] snow, low of 40F, high of 60F [tuesday] clear skies, low of 40F, high of 60F [wednesday] raining, low of 40F, high of 60F [friday] dry, low of 40F, high of 60F
+
+[location] grand rapids
+
+. [location] inglewood [tuesday] stormy, low of 40F, high of 50F [monday] stormy, low of 40F, high of 50F [wednesday] stormy, low of 40F, high of 50F [friday] dry, low of 40F, high of 50F
+u There isn't any rain predicted to fall in redwood city this week [location] redwood city [weather_attribute] raining [date] this week [location] redwood city [greeting] thank
+
+, low of 40F, high of 60F [sunday] dry, low of 40F, high of 60F [tuesday] raining, low of 40F, high of 60F [monday] misty, low of 40F, high of 60F [date] tomorrow [date] tomorrow [location] Boston
+
+
+high of 100F [sunday] raining, low of 90F, high of 100F [monday] dry, low of 90F, high of 100F [tuesday] raining, low of 90F, high of 100F [saturday] overcast, low of 90F, high of 100F [date] Sunday
+
+[date] today [date] today [weather_attribute] temperature [date] today [location] Seattle [greeting] thank
+[distance] 1 mile [poi_type] parking garage
+[poi] Palo Alto Garage R
+[distance] 3 miles [traffic_info] road block nearby [poi] Starbucks
+
+[address] 792 Bedoin Street [poi] Starbucks
+[location] redwood city [date] next 7 days [date] 7 day [location] Redwood City [greeting] thank
+[location] boston
+[traffic_info] no traffic
+[traffic_info] no traffic [address] 383 University Ave
+one day [greeting] thank Okay wonderful, thank you! [weather_attribute] cloudy [date] next week [location] San Francisco [greeting] thank
+[traffic_info] moderate traffic [distance] 7 miles [address] 783 Arcadia Pl [poi] Valero
+[address] 200 Alester Ave
+[traffic_info] moderate traffic
+optometrist [agenda] discuss the company picnic [time] 4pm [time] 6pm [date] the 3rd [date] the 12th [event] conference [event] meeting [agenda] discuss the company picnic [date] the 3rd [event] meeting [agenda] discuss the company picnic
+[poi_type] parking garage [distance] 1 miles [poi] Palo Alto Garage R
+monday [party] boss [event] meeting [date] monday [date] the 13th [greeting] thank Okay, thank you [event] meeting [date] 12th [event] meeting [agenda] purpose of the meeting
+
+[location] mountain view [location] mountain view
+[distance] 3 miles [traffic_info] heavy traffic [poi_type] shopping center [address] 171 Oak Rd [poi] Topanga Mall
+[address] 171 Oak Rd [poi] Topanga Mall
+moderate traffic. [traffic_info] moderate traffic [address] 171 Oak Rd [poi] Topanga Mall [distance] nearest [poi_type] shopping mall [distance] nearest [traffic_info] heavy traffic [poi_type] shopping mall [address] 171 Oak
+[distance] nearest [poi_type] shopping mall [distance] nearest [traffic_info] heavy traffic [poi_type] shopping mall [address] 171 Oak Rd [poi] Topanga Mall [greeting] thank [greeting] thank
+[traffic_info] moderate traffic [distance] 4 miles [traffic_info] heavy traffic [poi] The Westin [address] 329 El Camino Real
+[address] 329 El Camino Real [poi] the westin
+place is also a location you should be attending, it is the 13th. [date] tuesday [date] the 13th [party] sister [event] dinner [event] dinner [date] 12th [party] sister [event] dinner
+
+one is the 8th, the one on Wednesday. [date] the 8th [date] wednesday [event] lab appointment [event] lab appointment [date] Wednesday [event] lab appointment [date] Wednesday [event] lab appointment [time] 11 am [greeting] thank
+[distance] 3 miles
+[today] monday [location] san francisco
+
+
+
+It is not humid in Compton next week. [location] compton [date] next 7 days [date] next 7 days [location] compton [greeting] thank
+[address] 580 Van Ness Ave
+
+welcome [location] downtown chicago [thursday] cloudy, low of 70F, high of 70F [monday] hail, low of 70F, high of 70F [tuesday] snow, low of 70F, high of 70F [date] today [date] today
+date. [location] alhambra [tuesday] foggy, low of 20F, high of 30F [sunday] clear skies, low of 20F, high of 30F [thursday] cloudy, low of 20F, high of 30F [date] weekly
+
+[location] durham
+[location] durham
+[location] new york
+Vanu will be overcast. [location] new york [monday] overcast, low of 30F, high of 40F [friday] dry, low of 30F, high of 40F [saturday] stormy, low of 30F, high of 40F
+[location] cleveland [weather_attribute] cloudy [date] today [weather_attribute] cloudy [date] today [location] Cleveland [greeting] thank
+[distance] 4 miles [poi] Palo Alto Medical Foundation
+[traffic_info] moderate traffic
+[date] sunday [date] the 4th [party] brother [event] football activity
+[distance] 2 miles [poi] Safeway
+and moderate traffic is noted in the route. [traffic_info] moderate traffic [traffic_info] moderate traffic [address] 452 Arcadia Pl [poi] [distance] quickest Yes, please, just pick the quickest way through it
+[traffic_info] moderate traffic
+That is the only grocery store. [traffic_info] moderate traffic [poi_type] grocery store [distance] nearest [poi_type] grocery store [distance] nearest [traffic_info] no traffic [poi_type] grocery store
+
+high is 40F. [location] manhattan [tuesday] snow, low of 40F, high of 40F [monday] clear skies, low of 40F, high of 40F [wednesday] cloudy, low of 40F, high of 40F [friday] dry, low of 40F, high of 40F
+
+[location] boston
+
+[location] new york [monday] cloudy, low of 50F, high of 70F [wednesday] overcast, low of 50F, high of 70F [friday] dry, low of 50F, high of 70F [sunday] dry, low of 50F, high of 70F
+
+
+[date] monday [party] boss [event] conference
+[event] conference [date] monday [party] boss [event] conference [greeting] thank Okay, thank you. [weather_attribute] cloudy [date] next week [location] San Jose [date] next week
+102 conference room 102 [greeting] welcome [party] boss [event] conference [event] conference [date] monday [event] conference [date] monday [event] conference [date] monday [event] conference [date] monday [event] conference [date] monday [event] conference
+[room] conference room 102 [event] meeting [party] vice president
+
+Ok, that's fine. Please direct me there. [distance] nearest [poi_type] coffee shop [distance] nearest [poi_type] coffee place [poi] Starbucks [poi] Starbucks [distance] quick [poi] starbucks [greeting] thank
+[address] 9981 Archuleta Ave
+[address] 481 Amaranta Ave [poi] Coupa
+[traffic_info] heavy traffic
+[location] corona
+[traffic_info] car collision nearby [traffic_info] car collision nearby [poi_type] grocery store [address] 819 Alma St [poi] Whole Foods
+
+[time] 6pm [date] the 11th [date] the 18th [party] Jon [event] dinner
+
+low of 90F, high of 100F, Wednesday is windy, low of 90F, high of 100F, Thursday is snow, low of 90F, high of 100F, Friday is clear skies, low of 90F, high of 100F, Saturday is overcast, low of 90F, high of 100F, Sunday is warm, low of 90F, high of
+status In this moment the temperature in Boston is 90F [location] boston [date] current [date] current [location] Boston [greeting] thank
+[sunday] dry, low of 60F, high of 80F [tuesday] dry, low of 60F, high of 80F [monday] misty, low of 60F, high of 80F [date] current [date] current [date] current [location] Boston [greeting] thank
+[location] san francisco
+[distance] 8 miles [address] 657 Ames Ave [poi] The Clement Hotel [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] Los Angeles [greeting] thank
+[traffic_info] car collision nearby [traffic_info] moderate traffic
+
+vice president's house is located at 113 Anton Ct. [location] iniglewood [date] today and tomorrow [date] today and tomorrow [weather_attribute] hot [location] Los Angeles [greeting] thank
+[location] new york
+[location] saturday
+[location] boston
+,soau] [location] alameda [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week
+[distance] 2 miles [address] 9981 Archuleta Ave [poi] Peets Coffee
+OK, but there is moderate traffic. [distance] closest [poi_type] coffee place [distance] closest [distance] closest [poi_type] coffee place [poi] Starbucks [poi] Starbucks [traffic_info] no traffic [poi] starbucks [address] 792
+
+[traffic_info] no traffic [distance] 7 miles [address] 329 El Camino Real [poi] The Westin
+[distance] 3 miles [poi_type] restaurant
+[party] Jeff [party] Jon [event] tennis activity
+[date] the 9th [date] the 9th [party] Jeff [party] father [event] tennis activity
+
+[location] camarillo
+[location] fresno [date] next week [date] this week [date] this week [location] Fresno [greeting] thank
+appointment [date] the 3rd [event] meeting [agenda] discuss the merger [party] HR [event] meeting [date] Thursday [event] Meeting [agenda] discuss the merger Please set a reminder for Thursday for this information? Setting reminder
+agenda is to discuss the merger. [date] wednesday [event] conference [date] thursday [room] conference room 100 [party] vice president [event] meeting [greeting] thank [date] Wednesday [event] meeting [time] 3pm [greeting] thank
+
+one day [date] the 5th [date] wednesday [event] swimming activity [time] 4pm [time] 5pm [date] the 5th [date] wednesday [party] father [event] swimming activity [event] swimming activity [date] wednesday [event] swimming activity [time] 4pm
+[location] boston
+[traffic_info] heavy traffic [traffic_info] heavy traffic
+[distance] 3 miles [poi] Hotel Keen
+[traffic_info] no traffic [distance] 3 miles [address] 578 Arbol Dr
+
+[distance] 1 miles [traffic_info] heavy traffic [poi] home
+
+
+[location] grand rapids [date] next week [date] next week [location] Grand Rapids [greeting] thank
+[distance] 2 miles [poi_type] parking garage [address] 880 Ames Ct [poi] Webster Garage
+[traffic_info] moderate traffic [distance] 2 miles [address] 880 Ames Ct
+[time] 2 pm [party] aunt
+[distance] 5 miles [distance] 4 miles [poi] Cafe Venetia [poi] Vice President
+moderate traffic [traffic_info] moderate traffic [poi] Teavana Yes, please, just pick the fastest route and send it on my screen, thank you! [date] next week [location] New York [greeting] thank
+[traffic_info] moderate traffic
+[address] 145 Amherst St [poi] Teavana
+[location] alhambra
+
+
+[distance] 6 miles [traffic_info] moderate traffic [address] 394 Van Ness Ave [poi] Coupa
+day. [location] corona [date] this week [date] this week [weather_attribute] highest temperature [date] this week [location] Cleveland [greeting] thank
+directions [greeting] thank Ok, thank you then. [date] today [weather_attribute] snow [date] today [location] Chicago [greeting] thank
+Oh no it's not that big of a problem, I predicted it would be, just check if there is another way to get there otherwise just set my GPS, thank you! [date] next 7 days [location] Boston [greeting] thank
+[poi_type] shopping center [address] 773 Alger Dr
+[date] the 2nd [date] saturday [date] the 2nd [party] Martha [party] Marie
+oakland clear skies, low of 60F, high of 70F [wednesday] raining, low of 60F, high of 70F [monday] snow, low of 60F, high of 70F [tuesday] clear skies, low of 60F, high of 70F [sunday] stormy, low of 60F, high of 70F
+[traffic_info] no traffic [poi] Philz [date] today [date] today [location] Brentwood [greeting] thank
+the weekend is predicted to be dry with a low of 20F and a high of 30F. [location] new york [monday] dry, low of 20F, high of 30F [tuesday] foggy, low of 20F, high of 30F [saturday] clear skies, low of 20F, high of
+[traffic_info] no traffic [address] 528 Anton Ct [poi] Pizza My Heart
+[distance] 4 miles [poi] Chef Chu's [poi] Tai Pan
+[distance] 6 miles [traffic_info] no traffic [poi] Chef Chu's
+[poi] Chef Chu's [address] 593 Arrowhead Way [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+high room [distance] 3 miles [traffic_info] car collision nearby [poi_type] rest stop [address] 753 University Ave [poi] HRF [distance] 3 miles away [traffic_info] quickest available route [poi_type] rest stop [address] 753 University Ave [poi]
+[traffic_info] car collision nearby [distance] 3 miles [address] 578 Arbol Dr [poi] Hotel Keen
+
+[greeting] welcome
+
+[location] manhattan
+[distance] 3 miles [traffic_info] no traffic [poi] Round Table
+[location] los angeles
+[location] manhattan
+[distance] 4 miles [traffic_info] no traffic [poi] Stanford Childrens Health
+[date] the 5th [party] aunt [event] lab appointment [date] the 5th [date] the 5th [party] lab appointment [party] father [event] lab appointment Okay, thank you. [event] lab appointment
+[date] the 5th [party] aunt [event] lab appointment [date] the 5th [greeting] thank Okay, thank you. [weather_attribute] temperature [date] today [location] Brentwood [greeting]
+[distance] 5 miles [poi_type] gas station
+[poi_type] gas station [address] 200 Alester Ave [poi] Valero
+[poi_type] gas station [address] 200 Alester Ave [poi] Valero [greeting] thank [distance] nearest [poi_type] gas station [greeting] thank
+[location] cleveland [date] weekly [date] weekly [location] Cleveland [greeting] thank [agenda] thank
+[traffic_info] heavy traffic [distance] 4 miles [poi_type] home [poi] home
+[address] 56 cadwell street
+, low of 90F, high of 100F [sunday] dry, low of 90F, high of 100F [monday] raining, low of 90F, high of 100F [tuesday] clear skies, low of 90F, high of 100F [saturday] cloudy, low of 90F, high of 100F
+will be 90F on Saturday and 60F on Sunday. [location] boston [sunday] cloudy, low of 70F, high of 90F [monday] cloudy, low of 70F, high of 90F [tuesday] overcast, low of 70F, high of 90F [saturday] dry, low
+[distance] 4 miles [poi_type] shopping center [poi] Stanford Shopping Center
+there is moderate traffic [traffic_info] moderate traffic [distance] 4 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center [greeting] thank Thank you car!
+welcome. [time] 6pm [time] 3pm [date] the 3rd [date] the 11th [date] the 8th [event] conference [event] conference [date] the 8th [event] conference [date] the 8th [party] sister [room]
+[time] 6pm [time] 3pm [date] sunday [date] monday [date] the 9th [party] management [event] conference
+[location] los angeles
+[poi] Travelers Lodge
+
+
+one is with Martha and one with Jeff. [date] monday [date] Martha [party] Jeff [party] Martha [event] dentist appointment [time] 9am [date] monday [party] aunt [party] sister [event] dentist appointment [time] 9am [date] the 9th [party] Martha
+[party] sister [party] Alex [party] Marie [date] the 19th [date] the 12th [date] monday [date] the 17th [date] the 12th
+
+
+
+, there is no traffic, I've already set the GPS! [traffic_info] no traffic [poi] Cafe Venetia [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] quick route [poi_type] coffee or
+[distance] 4 miles [traffic_info] no traffic
+[distance] 3 miles [distance] 6 miles [poi] Cafe Venetia [poi] Coupa [poi] Starbucks
+[traffic_info] heavy traffic [address] 269 Alger Dr
+[traffic_info] heavy traffic
+[distance] 3 miles
+not wanting to be repetitive car, but there is a blizzard predicted in the next 7 days. [location] corona [monday] foggy, low of 70F, high of 90F [sunday] clear skies, low of 70F, high of 90F [tuesday] windy, low of 70F, high
+[traffic_info] moderate traffic [distance] 6 miles [address] 915 Arbol Dr [poi] Travelers Lodge
+temperature is low of 40F, high of 60F [address] 333 Arbol Dr [monday] dry, low of 40F, high of 60F [friday] dry, low of 40F, high of 60F [wednesday] raining, low of 40F, high of 60F [monday] misty, low
+[distance] 5 miles [poi] P.F. Changs
+[traffic_info] heavy traffic
+[traffic_info] heavy traffic [distance] 669 El Camino Real [poi] P.F. Changs
+
+[location] oakland
+station [poi] Chevron [distance] 6 miles [address] 783 Arcadia Pl [greeting] thank Thanks! [weather_attribute] temperature [date] this week [date] this week [weather_attribute] temperature [date]
+[poi_type] gas station [poi] Chevron
+[address] 783 Arcadia Pl
+[greeting] welcome
+[distance] 3 miles [distance] 6 miles [poi] Chef Chu's [poi] Mandarin Roots
+
+[poi] Chef Chu's [address] 593 Arrowhead Way [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Francisco [greeting] thank
+. There is moderate traffic on our way but I sent the best possible route on your screen. [distance] nearest [poi_type] restaurant [distance] nearest [poi_type] restaurant [poi] Tai Pan [distance] quick [greeting] thank
+[traffic_info] car collision nearby [distance] 7 miles
+[distance] 4 miles [poi] Cafe Venetia
+day is also the 10th. [party] boss [event] conference [date] the 10th [date] the 8th [party] HR [event] meeting [room] conference room 102 [greeting] thank Okay, thank you.
+[room] conference room 102 [event] meeting [event] conference [date] the 10th [party] boss [event] meeting
+[location] san francisco [sunday] snow, low of the week, high of the next week
+[date] the 3rd [date] the 9th [party] Tom [party] father [date] the 9th
+[date] thursday [party] Jon [party] Marie [time] 3 pm [time] 11 am [date] the 3rd [date] monday [party] Martha
+status [date] this week [date] this week [location] this week [location] this week [location] this week [location] this week [location] this week [location] this week [location] this week What is the weather like this week in this week
+[location] san jose
+[location] san mateo
+
+[location] los angeles
+
+[location] camarillo [date] this week [date] this week [date] this week [location] this week [location] this week [location] this week [location] this week [location] this week [location] this week [location] this week [location] this week
+[location] inglewood
+[traffic_info] car collision nearby [distance] 4 miles [address] 333 Arbol Dr [poi] Travelers Lodge
+and there is a road block nearby. [traffic_info] road block nearby [address] 333 Arbol Dr [distance] nearby [poi_type] rest stop [distance] nearby [traffic_info] fastest route [poi_type] rest stop [address] 333 Ar
+[address] 864 Almanor Ln [poi] jacks house
+
+
+[time] 9am [time] 5pm [date] the 12th [date] the 4th [date] sunday [event] optometrist appointment
+[distance] 3 miles [poi_type] shopping center [poi] Stanford Shopping Center [poi] Ravenswood Shopping Center
+[poi_type] shopping center [poi] Ravenswood Shopping Center [poi] Stanford Shopping Center [poi] ravenswood shopping center [greeting] thank [distance] 3 miles [poi_type] shopping [traffic_info] no traffic
+. [poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [distance] 3 miles [poi_type] shopping [traffic_info] no traffic [distance] 3 miles away [traffic_info] no
+[traffic_info] heavy traffic [distance] 2 miles [address] 408 University Ave [traffic_info] heavy traffic
+[traffic_info] heavy traffic
+
+[location] redwood city [weather_attribute] rain [date] today [weather_attribute] rain [date] today [location] Redwood City [greeting] thank
+
+
+[address] 214 El Camino Real [poi] Stanford Childrens Health
+[traffic_info] no traffic [poi] Stanford Childrens Health [traffic_info] heavy [poi] stanford childrens health [greeting] thank Yes, please, just pick a route to avoid all heavy traffic, thank you!
+[traffic_info] no heavy traffic [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express Care [greeting] thank
+[distance] 2 miles [address] 269 Alger Dr [poi] Starbucks
+[traffic_info] road block nearby
+[distance] 6 miles [poi] The Westin [poi_type] hotel
+[poi] The Westin
+[address] 329 El Camino Real
+block [poi] safeway [distance] 4 miles [poi_type] grocery store [address] 915 Arastradero Rd [poi] Safeway [distance] within 3 miles [poi_type] grocery store [address] 915 Arastradero Rd [poi] Safeway
+man [traffic_info] road block nearby [address] 452 Arcadia Pl [poi] the grocery store [distance] quick route Please pick a quick route to go there I sent the info on your screen, please drive carefully!
+
+
+week [location] corona [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week [date] this week
+
+Yes, it will be windy, with a low of 30F and a high of 40F. [date] today and tomorrow [date] today and tomorrow [weather_attribute] windy [date] today and tomorrow [location] Seattle [greeting] thank
+manor Ln [poi] Coupa [address] 394 Van Ness Ave [traffic_info] fastest route OK, please direct me there via the fastest route. [distance] nearest [poi_type] coffee shop [address]
+[traffic_info] heavy traffic [address] 394 Van Ness Ave [poi] Coupa
+
+It will be dry in Seattle on Monday. [today] monday [location] seattle [date] weekly [date] weekly [location] Seattle [greeting] thank
+Tuesday. [today] monday [location] fresno [date] next week [date] this week [weather_attribute] highest temperature [date] this week [location] Brentwood [greeting] thank
+[distance] 3 miles [distance] 2 miles [poi_type] shopping center [address] 3Barringer Street [poi] Starbucks
+[traffic_info] no traffic [distance] 2 miles [distance] 3 miles [traffic_info] heavy traffic [address] 338 Alester Ave [poi] Hacienda Market
+. [poi_type] shopping center [address] 338 Alester Ave [poi] Midtown Shopping Center [distance] nearest [poi_type] shopping mall [greeting] thank [greeting] thank
+[address] 347 Alta Mesa Ave [poi] HR
+[traffic_info] car collision nearby
+[distance] 4 miles [address] 269 Alger Dr [poi] Cafe Venetia
+[traffic_info] no traffic
+[date] the 13th [date] wednesday
+weather In Boston, it will be 30-40F on Monday, 90-100F on Tuesday, 30-50F on Wednesday, 70-80F on Thursday, 80-90F on Friday, 20-40F on Saturday,,and 20-40F on Sunday. [today] m
+highest temperature, low of 80F, high of 100F Friday. [sunday] dry, low of 70F, high of 90F Saturday. [date] week [date] week [date] week [location] Boston [greeting] thank
+[address] 56 cadwell street [poi] home
+[poi_type] home [poi] home
+
+[address] 915 Arbol Dr
+[distance] 2 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center
+[distance] nearest [poi_type] shopping mall [distance] nearest [poi_type] shopping mall [poi] Ravenswood Shopping Center [distance] 2 miles [distance] nearest (2 miles away) [traffic_info] quickest available route [poi_type] shopping center [address] 434 Ar
+Ok, let's go there. [distance] nearest [poi_type] grocery store [distance] nearest [poi_type] grocery store [poi] whole foods [distance] 3 miles away [traffic_info] quickest to get to [poi_type] grocery store [poi]
+[poi] Whole Foods [traffic_info] no traffic [address] 819 Alma St [poi] Whole Foods
+[distance] 5 miles [poi] Starbucks
+[address] 792 Bedoin Street [poi] Starbucks
+oak high [greeting] thank Yes, thank you car, let's go! [weather_attribute] cloudy [date] next week [location] San Jose [date] next week [greeting] thank
+[poi] Coupa [traffic_info] moderate traffic [poi] Coupa [distance] nearest [poi_type] coffee shop [traffic_info] heavy [poi] coupa [greeting] thank
+[address] 394 Van Ness Ave
+[traffic_info] moderate traffic [traffic_info] no traffic [poi] Palo Alto Cafe
+[traffic_info] no traffic [distance] 2 miles [traffic_info] car collision nearby [poi] Cafe Venetia
+[traffic_info] no traffic
+[location] boston
+[today] monday [location] boston
+
+20th. [location] atherton [tuesday] overcast, low of 30F, high of 50F [monday] misty, low of 30F, high of 50F [wednesday] blizzard, low of 30F, high of 50F [friday] dry, low of 30F, high of 50
+[location] boston
+
+[traffic_info] heavy traffic
+[traffic_info] no traffic [distance] 3 miles [traffic_info] heavy traffic [address] 792 Bedoin Street
+, setting your GPS, and we should be there shortly. [distance] closest [poi_type] coffee place [distance] closest [poi_type] coffee place [poi] Coupa [greeting] thank
+[location] san francisco
+
+[location] los angeles [tuesday] foggy, low of 70F, high of 90F [monday] cloudy, low of 70F, high of 90F
+day [date] the 13th [event] conference [greeting] thank Okay, thank you. [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+
+
+boston [date] next week [location] Boston I'm in Boston but i have to get there this week. [date] next week [date] this week [location] Boston [greeting] thank
+[location] san jose [date] next week [date] this week [date] next week [location] san jose [greeting] thank
+time, time, and date are all times listed. [time] 6pm [time] 1pm [date] saturday [date] the 13th [date] thursday [party] Alex [party] Jeff [time] 5pm [time] 1pm [time] 5pm [time] 1 pm [date] the 13th
+one day [poi_type] hospital [distance] 5 miles [poi] Stanford Express Care [poi_type] hospital [address] 899 Ames Ct [greeting] thank Thanks! [distance] nearest
+[traffic_info] road block nearby [poi_type] hospital [distance] 5 miles [poi] Stanford Express Care
+[address] 214 El Camino Real [poi] Stanford Express Care
+[distance] 3 miles [poi_type] shopping center [poi] Town and Country [distance] fastest [traffic_info] avoid heavy traffic [poi_type] shopping center [address] 383 University Ave [poi] Town and Country Ok, please give
+[distance] 3 miles [poi_type] shopping center [poi] Town and Country
+[poi] Town and Country [greeting] thank Thanks so much. [weather_attribute] snow [date] today [location] Manhattan [greeting] thank
+
+[location] grand rapids
+[distance] 5 miles [address] 394 Van Ness Ave [poi] Coupa
+[traffic_info] no traffic
+
+
+activity is the 10th [date] the 5th [party] father [event] swimming activity [event] swimming activity [date] the 5th [party] father [event] swimming activity [date] the 5th [party] father [party] father [event] swimming activity
+[party] Alex [party] Jon [event] lab appointment [time] 2 pm [time] 7 pm [party] Jon [party] HR [event] lab appointment
+[poi_type] chinese restaurant
+[traffic_info] no traffic [distance] 3 miles [distance] 4 miles
+[poi] Panda Express
+[poi] Panda Express
+
+
+man [saturday] dry, low of 90F, high of 100F [monday] cloudy, low of 90F, high of 100F [tuesday] overcast, low of 90F, high of 100F [friday] dry, low of 90F, high of 100F [wednesday] raining, low of 90F, high of 100F
+[time] 6pm [time] 7pm [date] the 12th [date] the 14th [date] the 19th [party] mother [party] father [event] swimming activity
+
+not wanting to be humid:), what's the address? The forecast is set for Corona, with a low of 40F and a high of 60F. [location] corona [tuesday] foggy, low of 40F, high of 60F [monday] dry, low of 40
+[location] grand rapids
+[sunday] foggy, low of 60F, high of 70F [tuesday] raining, low of 60F, high of 70F [friday] dry, low of 60F, high of 70F [wednesday] raining, low of 60F, high of 70F [monday] misty, low of 60F, high of 70F
+[greeting] welcome Great, thanks again [weather_attribute] cloudy [date] next week [location] Compton [greeting] thank
+[location] new york
+[saturday] raining, low of 40F, high of 60F [monday] foggy, low of 40F, high of 60F [tuesday] overcast, low of 40F, high of 60F [wednesday] foggy, low of 40F, high of 60F [sunday] clear skies, low of 40F, high of 60F
+
+[location] new york [date] today [date] today [location] new york [greeting] thank
+[traffic_info] heavy traffic [poi_type] home [address] 10 ames street [poi] home
+[location] redwood city [date] today [date] today [location] redwood city [greeting] thank
+Tomorrow is gonna be cloudy in redwood city There is a low of 80F and a high of 100F in the forecast for today. [location] redwood city [monday] cloudy, low of 80F, high of 100F [saturday] dry, low of
+
+
+one day [date] monday [time] 4pm [time] 5pm [date] the 5th [date] sunday [date] monday [event] yoga activity [event] yoga [date] Monday [time] 4pm [time] 5pm [date] the 5th [date] sunday [date]
+[traffic_info] moderate traffic [poi_type] home [address] 56 cadwell street [poi] home
+[greeting] welcome
+[poi] Cafe Venetia
+not afraid of all heavy traffic [traffic_info] heavy traffic [distance] 2 miles [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] heavy traffic [poi_type] coffee place [address] 269 Alger Drive [poi]
+[traffic_info] heavy traffic [address] 269 Alger Dr [poi] Cafe Venetia
+[distance] 5 miles [address] 915 Arbol Dr [poi] Pizza Chicago
+[poi] Pizza Chicago [distance] nearest [poi_type] pizza restaurant [distance] shortest distance [distance] within 2 miles [poi_type] pizza restaurant [address] 915 Arbol Dr. [poi] Pizza Chicago [greeting] thank
+[distance] 2 miles [poi_type] parking garage
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] Los Angeles [greeting] thank
+[date] saturday [date] the 7th [location] new york
+[location] corona
+[distance] 6 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Starbucks
+[traffic_info] moderate traffic [address] 452 Arcadia Pl

@@ -1,0 +1,711 @@
+[poi_type] gas stations
+[distance] quickest [traffic_info] avoid all heavy traffic [poi] chevron
+[poi] chevron [greeting] thank
+[distance] quickest [traffic_info] avoid all heavy traffic [poi] chevron [greeting] thank
+[weather_attribute] temperature [date] Friday
+[weather_attribute] temperature [date] Friday
+[weather_attribute] temperature [date] Friday
+[weather_attribute] temperature [date] Friday
+[poi_type] grocery store
+[traffic_info] avoid Heavy traffic
+[greeting] thank
+[date] next 48 hours [location] fresno
+[greeting] thank
+[poi_type] home [poi] home
+[distance] quickest
+[distance] quickest
+[poi_type] home [poi] home
+[distance] closest [poi_type] grocery store
+[poi] safeway
+[distance] quickest route
+[distance] closest [poi_type] grocery store
+
+
+[greeting] thank
+[poi] friends house
+[distance] quickest
+[distance] quickest
+[greeting] thank
+[date] next two days
+[greeting] thank
+[event] dinner
+[distance] closest [poi_type] parking garage
+
+[distance] nearest [poi_type] shopping center
+[greeting] thank
+[poi_type] hospital
+[poi] stanford express care [greeting] thank
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week
+[greeting] thank
+[weather_attribute] warm [date] Wednesday [location] Compton
+[greeting] thank
+[poi_type] gas
+
+[traffic_info] avoid any heavy traffic
+[greeting] thank
+[poi_type] friend's house [poi] friend's house
+[traffic_info] moderate traffic [poi_type] home [address] 5677 southwest 4th street [poi] home
+[greeting] thank
+[poi_type] shopping
+
+[greeting] thank
+[weather_attribute] snow [date] today
+[weather_attribute] snow [date] today
+[greeting] thank
+[distance] local [poi_type] cafe
+[poi] starbucks
+[distance] fastest route [greeting] thank
+[party] unknown [event] doctor appointment
+[party] unknown [event] doctor appointment
+[party] unknown [event] doctor appointment
+[date] today and tomorrow
+[location] Los Angeles
+[greeting] thank
+[distance] nearest [poi_type] shopping mall
+[poi] midtown shopping center
+[distance] nearest [poi_type] shopping mall
+[traffic_info] quickest route [poi_type] grocery store
+[distance] 1 mile away [traffic_info] quickest route [poi_type] grocery store [poi] Hacienda Market
+[greeting] thank
+[date] next 7 days
+[location] Downtown Chicago
+[greeting] thank
+[event] tennis activity
+[greeting] thank
+[date] today and tomorrow
+[date] today and tomorrow
+[greeting] thank
+[date] today and tomorrow
+[location] mountain view
+[greeting] thank
+[date] this week
+[location] Brentwood
+[greeting] thank
+[distance] nearby [poi_type] parking garage
+
+[weather_attribute] drizzle [date] this weekend [location] Redwood City
+[greeting] thank
+[distance] fastest [poi_type] home
+[distance] fastest route [poi] 5671 barringer street [greeting] thank
+[distance] fastest route [poi] 5671 barringer street [greeting] thank
+[distance] fastest [poi_type] home
+[date] next 7 days
+[location] Compton
+[date] next 7 days
+[weather_attribute] highest temperature [date] friday [location] mountain view
+[greeting] thank
+[event] tennis activity
+[event] tennis activity
+[distance] near [poi_type] hospital
+[address] 214 El Camino Real [poi] Stanford Express Care
+[greeting] thank
+[weather_attribute] clear skies [date] thursday [location] danville
+[greeting] thank
+[weather_attribute] snow [date] week
+[greeting] thank
+[date] this week
+[date] this week
+[greeting] thank
+[weather_attribute] dry [date] Wednesday [location] New York
+[greeting] thank
+[location] Seattle
+[location] Seattle
+[greeting] thank
+[traffic_info] no traffic [poi_type] chinese restaurant
+
+[traffic_info] no traffic
+[greeting] thank
+[distance] within 5 miles [poi_type] Chinese restaurant
+
+
+[date] weekend
+[weather_attribute] lowest temperature [date] this week [location] Danville
+[greeting] thank
+[weather_attribute] humid [date] next week [location] Fresno
+[weather_attribute] humid [date] next week [location] Fresno
+[event] doctor appointment
+[greeting] thank
+[event] Tennis match
+[event] Tennis match [time] 11am
+[event] dentist appointment
+[greeting] thank
+[weather_attribute] rain [date] next week
+[weather_attribute] rain [date] next week
+[weather_attribute] rain [date] next week
+[weather_attribute] warm [date] Saturday [location] Grand Rapids
+[weather_attribute] warm [date] Saturday [location] Grand Rapids
+
+[distance] local [poi_type] fast food
+[distance] local [poi_type] fast food [poi] restaurant
+[greeting] thank
+[date] this week
+[date] this week [weather_attribute] foggy [location] New York
+[date] this week
+[weather_attribute] temperature [date] wednesday [location] manhattan
+[greeting] thank
+[event] all events and meetings.
+[event] all events and meetings.
+[date] today and tomorrow
+[weather_attribute] foggy [date] today and tomorrow [location] Fresno
+[date] today and tomorrow
+[weather_attribute] drizzle [date] tomorrow [location] Cleveland
+[greeting] thank
+[date] this week [location] durham
+[date] this week [location] durham
+[date] this week [location] durham
+[event] dentist appointment
+[greeting] thank
+[distance] within 4 miles [traffic_info] fastest route [poi_type] pizza restaurant
+[distance] fastest
+[distance] within 4 miles [traffic_info] fastest route [poi_type] pizza restaurant
+[traffic_info] no traffic [poi] 5672 barringer street
+[traffic_info] no traffic [poi] 5672 barringer street [greeting] thank
+[greeting] thank
+[greeting] thank
+[traffic_info] no traffic [poi_type] home [address] address
+[traffic_info] no traffic [poi_type] home [address] address
+[traffic_info] no traffic [poi_type] home [address] address
+[traffic_info] no traffic [poi_type] home
+[poi] tea
+[poi] palo alto cafe
+[greeting] thank
+[weather_attribute] overcast or cloudy [date] this week
+[weather_attribute] overcast or cloudy [date] this week
+[greeting] thank
+[poi] shopping center
+[distance] 3 miles [poi_type] shopping center [address] 338 Alester Ave
+[poi] midtown shopping center [greeting] thank
+
+[location] Grand Rapids
+[greeting] thank
+[date] right now
+[weather_attribute] Humid [location] Exeter
+[date] right now
+[weather_attribute] raining [date] this week
+[greeting] thank
+[date] tomorrow
+[weather_attribute] hail [date] tomorrow [location] Fresno
+[date] tomorrow
+[date] tomorrow
+[location] the city
+[date] Sunday [location] Compton
+[greeting] thank
+[room] doctor's office [agenda] doctor's appointment [event] doctor's appointment
+[weather_attribute] temperature [date] today and tomorrow
+[weather_attribute] temperature [date] today and tomorrow
+[weather_attribute] temperature [date] today and tomorrow
+[distance] 2 miles [poi_type] parking garage
+
+[poi] palo alto garage r [greeting] thank
+[poi] Starbucks
+[distance] quickest one available
+[greeting] thank
+[poi] starbucks [greeting] thank
+[weather_attribute] foggy [date] Tuesday [location] Redwood City
+[weather_attribute] foggy [date] Tuesday [location] Redwood City
+[poi_type] mall
+[traffic_info] fastest
+
+[poi] town and country [greeting] thank
+[event] yoga
+[greeting] thank
+[event] Doctors appointment
+[distance] nearest one [poi_type] gas station
+
+[distance] fastest route
+[greeting] thank
+[event] meeting
+[greeting] thank
+[date] Monday [party] infrastructure team [event] meeting [agenda] go over budget [time] 7 pm
+[distance] closest to my destination [poi_type] parking garage
+
+[event] meeting
+[greeting] thank
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week
+[distance] nearest [poi_type] shopping mall
+
+[distance] nearest (3 miles away) [poi_type] shopping center [address] 171 Oak Rd [poi] Topanga Mall [greeting] thank
+[distance] nearest [poi_type] shopping mall
+[distance] nearest [poi_type] shopping mall
+[traffic_info] heavy [poi] rest stop
+
+
+[event] dinner
+[greeting] thank
+[weather_attribute] warm [date] two day [location] san francisco
+[greeting] thank
+[event] lab appointment
+[event] lab appointment
+[weather_attribute] rain [date] 7 days
+[location] San Francisco
+[greeting] thank
+[date] today and tomorrow
+[date] today and tomorrow
+[date] today and tomorrow
+[date] next 7 days
+[weather_attribute] humid [location] Compton
+[greeting] thank
+[poi_type] friend
+[greeting] thank
+[event] doctor's appointment
+[date] today
+[weather_attribute] forecast [date] today [location] downtown chicago
+[greeting] thank
+[weather_attribute] temperature [date] Thursday
+[greeting] thank
+[event] dentist appointment
+
+[location] Durham
+[weather_attribute] blizzard [location] Durham
+
+[location] new york
+[date] Friday
+[location] new york
+[weather_attribute] cloudy [date] today
+[greeting] thank
+[distance] closest [poi_type] hospital
+[traffic_info] route with no traffic
+[greeting] thank
+[event] football
+[event] football
+[distance] nearest [poi_type] grocery store
+[poi] safeway
+[traffic_info] No traffic [poi] safeway [greeting] thank
+[traffic_info] No traffic
+[poi] safeway
+[distance] nearest [poi_type] grocery store
+[weather_attribute] hailing [date] currently [location] Manhattan
+[weather_attribute] hailing [date] currently [location] Manhattan [greeting] thank
+[weather_attribute] cloudy [date] this week
+[weather_attribute] cloudy [date] this week [location] Boston
+[greeting] thank
+[location] new york city
+[location] new york city
+[location] new york city
+[weather_attribute] temperature [date] this week
+[weather_attribute] temperature [date] this week
+[greeting] thank
+[event] conference
+[greeting] thank
+[greeting] thank
+[event] conference
+[poi_type] friend
+[greeting] thank
+[poi] Starbucks
+[distance] locally [poi_type] coffee
+[traffic_info] fastest route
+[greeting] thank
+[poi_type] parking garage
+[distance] quickest route
+[greeting] thank
+[event] appointment
+[weather_attribute] clear skies [date] wednesday [location] fresno
+[greeting] thank
+[poi_type] grocery store
+[traffic_info] quickest route
+[greeting] thank
+[event] dinner
+[event] dinner
+[date] this week
+[weather_attribute] snow [date] this week [location] san mateo
+[greeting] thank
+[weather_attribute] temperature [date] current
+[location] Alameda
+[weather_attribute] temperature [date] current
+[weather_attribute] Clear [date] Friday
+[weather_attribute] Clear [date] Friday [location] San Francisco
+[distance] near me [poi_type] hotel
+
+[greeting] thank
+[date] today and tomorrow
+[location] Los Angeles
+[greeting] thank
+[weather_attribute] hail [date] right now [location] Seattle
+[weather_attribute] hail [date] right now [location] Seattle
+[greeting] thank
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week
+[distance] closest [poi_type] tea house
+[greeting] thank
+[greeting] thank
+[distance] closest [poi_type] tea house
+[traffic_info] fastest route [poi_type] rest stop
+[distance] 7 miles away [traffic_info] fastest route [poi_type] rest stop [address] 329 El Camino Real [poi] The Westin [greeting] thank
+[traffic_info] fastest route [poi_type] rest stop
+[event] Tennis
+[greeting] thank
+[event] Tennis
+[weather_attribute] foggy [date] Friday [location] Camarillo
+[weather_attribute] foggy [date] Friday [location] Camarillo
+
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] this week [location] Fresno
+[event] football game
+
+[event] meeting
+[event] meeting
+[event] meeting
+[weather_attribute] cloudy [date] next week
+[greeting] thank
+[event] swimming activity
+[event] swimming activity
+[poi] Home
+
+
+[distance] nearest [poi_type] hotel
+[poi] hotel keen
+[distance] quickest route possible
+[greeting] thank
+[distance] quick route [poi_type] home [poi] home
+[distance] quickest possible route
+[greeting] thank
+[weather_attribute] cloudy [date] next week
+[weather_attribute] cloudy [date] next week
+[weather_attribute] cloudy [date] next week
+[poi_type] parking garage
+[greeting] thank
+[greeting] thank
+[event] doctor's appointment
+[event] doctor's appointment
+[date] friday [event] meeting
+[poi_type] tea
+[distance] quickest
+[poi] Teavana
+[distance] quickest [traffic_info] traffic [poi_type] tea [poi] Teavana
+[traffic_info] no traffic [poi] Teavana
+[weather_attribute] blizzard [date] Tuesday [location] Alhambra
+[weather_attribute] blizzard [date] Tuesday [location] Alhambra
+[weather_attribute] foggy [date] next week [location] Exeter
+[weather_attribute] foggy [date] next week [location] Exeter
+[poi] starbucks
+[distance] quick route [address] address
+[poi] starbucks
+[weather_attribute] highest temperature [date] this week [location] Cleveland
+[greeting] thank
+[traffic_info] no traffic [poi_type] shopping center
+
+[traffic_info] least traffic
+[greeting] thank
+[event] optometrist appointment
+[event] optometrist appointment
+[poi_type] coffee
+
+[greeting] thank
+[date] this week [location] new york city
+[date] this week [location] new york city
+[distance] quickest route [poi_type] pizza resturant
+
+[poi_type] Chinese restaurants
+[distance] fastest [poi] chef chu's [greeting] thank
+[poi] chef chu's [greeting] thank
+[poi] chef chu's [greeting] thank
+[poi_type] rest stop
+[distance] quickest [poi_type] rest stop [address] 578 Arbol Dr [poi] Hotel Keen
+[greeting] thank
+[greeting] thank
+[poi_type] rest stop
+[weather_attribute] stormy [date] next 7 days [location] Manhattan
+[weather_attribute] stormy [date] next 7 days [location] Manhattan
+
+[distance] nearest [traffic_info] no traffic [poi_type] pizza restaurant
+[distance] nearest [traffic_info] no traffic [poi_type] pizza restaurant
+[weather_attribute] warm [date] this week [location] Los Angeles
+[weather_attribute] warm [date] this week [location] Los Angeles
+[poi_type] home
+[greeting] thank
+[event] dinner
+[distance] around me [traffic_info] avoids heavy traffic [poi_type] hospital
+[poi] palo alto medical foundation [greeting] thank
+[event] lab appointment
+[greeting] thank
+[greeting] thank
+[distance] nearest [poi_type] gas station
+
+[poi] valero [greeting] thank
+[greeting] thank
+[date] Thursday [location] Cleveland
+[greeting] thank
+[distance] quickest route [poi_type] home [poi] home
+[greeting] thank
+[distance] quickest route [poi_type] home [poi] home
+[weather_attribute] hot [date] this week
+[weather_attribute] hot [date] this week [location] Boston
+[greeting] thank
+[distance] nearby [poi_type] shopping center
+
+[greeting] thank
+[event] conference
+[event] conference
+[event] conference
+[event] taking medicine
+[date] friday [event] meeting
+[weather_attribute] windy [date] sunday [location] los Angeles
+[greeting] thank
+[event] lab appointment
+[distance] within 2 miles [poi_type] rest stop
+
+[distance] shortest distance
+[greeting] thank
+[event] tennis
+[event] dentist appointment
+[greeting] thank
+[event] yoga activity
+[event] yoga activity
+[weather_attribute] cloudy [date] now [location] Fresno
+[location] Fresno
+[greeting] thank
+[traffic_info] nearest [poi] Starbucks
+[distance] nearest [poi_type] coffee shop [address] 269 Alger Dr [poi] cafe venetia
+[distance] nearest [poi_type] coffee shop [address] 269 Alger Dr [poi] cafe venetia [greeting] thank
+[greeting] thank
+[distance] nearest [poi] Starbucks
+[distance] quickest [poi] Cafe Venetia
+[poi] Cafe Venetia
+[distance] nearest [poi] Starbucks
+[weather_attribute] snow [date] today
+[weather_attribute] snow [date] today [location] Corona
+[weather_attribute] snow [date] today
+[poi_type] rest stop
+
+[greeting] thank
+[distance] local area [poi_type] Chinese restaurant
+[traffic_info] avoid all heavy traffic [poi] p.f. changs
+[poi] p.f. changs [greeting] thank
+[traffic_info] avoid all heavy traffic [poi] p.f. changs [greeting] thank
+[weather_attribute] rain [date] now
+[weather_attribute] rain
+[weather_attribute] rain
+[poi_type] gas station
+
+
+[distance] quick
+
+[distance] nearby [poi_type] Chinese restaurants
+
+
+[poi] chef chu's [greeting] thank
+[poi] chef chu's [greeting] thank
+[distance] nearest [traffic_info] get to quick [poi_type] hospital
+[poi] stanford express care
+[distance] nearest [poi] Starbucks
+[distance] fastest route
+[event] meeting
+[greeting] thank
+[greeting] thank
+[date] current [location] san francisco
+[greeting] thank
+[event] doctor appointment
+[date] the 9th
+[event] tennis activity
+[greeting] thank
+[date] this week
+[date] this week [weather_attribute] temperature
+[date] this week [weather_attribute] temperature
+[date] next weekend
+[date] next weekend [location] San Mateo
+[weather_attribute] temperature [date] this week
+[weather_attribute] temperature [date] this week
+[greeting] thank
+[event] next conference
+[date] this week
+[weather_attribute] stormy [location] Camarillo
+[greeting] thank
+[weather_attribute] windy [date] two days [location] Atherton
+[weather_attribute] windy [date] next two days [location] Atherton
+[distance] nearby [poi_type] rest stop
+[poi] travelers lodge
+[greeting] thank
+[poi_type] friend's house
+[distance] nearest [poi_type] friends house [distance] quickest route possible [greeting] thank
+[greeting] thank
+[poi_type] friend's house
+[event] optometrist appointment
+[event] optometrist appointment
+[poi_type] mall
+[traffic_info] no traffic [poi] Ravenswood Shopping Center
+[greeting] thank
+[traffic_info] no traffic
+[distance] within 3 miles [poi_type] grocery store
+[distance] within 3 miles (2 miles) [traffic_info] least traffic [poi_type] grocery store [poi] trader joes [greeting] thank
+[greeting] thank
+[weather_attribute] rain
+[location] Redwood City
+[greeting] thank
+[distance] nearby [poi_type] hospital
+[traffic_info] heavy traffic [poi] Stanford Express Care
+[traffic_info] heavy traffic [poi] Stanford Express Care
+[poi] stanford express care
+[poi] stanford express care
+[distance] nearby [poi_type] hospital
+[distance] within 4 miles [poi_type] coffee shop
+[distance] within 4 miles [poi_type] coffee shop
+[greeting] thank
+[distance] near [poi_type] hotel
+
+[greeting] thank
+[distance] quick
+[poi_type] groceries
+
+[greeting] thank
+[poi_type] groceries
+
+[weather_attribute] temperature [date] this week
+[weather_attribute] temperature [date] this week
+[greeting] thank
+[date] today and tomorrow
+[date] today and tomorrow
+[date] today and tomorrow
+[distance] nearest [poi] starbucks
+[distance] fastest
+[greeting] thank
+[date] next few days
+[date] next few days [weather_attribute] Dry [location] Redwood City
+[greeting] thank
+[weather_attribute] highest temperature [date] this week [location] fresno
+[greeting] thank
+[poi_type] shopping center
+[poi] midtown shopping center
+[poi_type] shopping center
+[poi] midtown shopping center [greeting] thank
+[poi_type] friends house
+[traffic_info] fastest route
+[greeting] thank
+[poi_type] tea house
+[traffic_info] quickest way
+[greeting] thank
+[date] Wednesday [event] Football game [time] 10 am
+[date] Wednesday [event] Football game [time] 10 am
+[weather_attribute] temperature
+[location] Durham
+[greeting] thank
+
+
+[poi] home [greeting] thank
+[distance] shortest possible distance [poi_type] pizza restaurant
+
+[distance] shortest possible distance [poi_type] pizza restaurant [poi] Pizza Chicago
+[distance] nearest [poi_type] shopping mall
+
+[greeting] thank
+[poi_type] groceries
+[traffic_info] quickest route
+
+[poi_type] tea
+
+
+[poi_type] hot tea
+[traffic_info] No traffic
+[traffic_info] No traffic [poi] palo alto cafe
+[traffic_info] no traffic
+[poi] palo alto cafe [greeting] thank
+[distance] nearest [poi_type] barista
+[traffic_info] route with no traffic [poi_type] coffee shop
+[greeting] thank
+[weather_attribute] cloudy
+[weather_attribute] cloudy [date] Monday [location] Manhattan
+[greeting] thank
+[date] tomorrow
+[date] Tomorrow [weather_attribute] Hot [location] Atherton
+[date] tomorrow
+[weather_attribute] clear skies [date] today
+[weather_attribute] clear skies [date] today
+[greeting] thank
+[distance] closest [poi_type] coffee or tea place
+[distance] shortest
+[distance] shortest distance
+[greeting] thank
+[weather_attribute] windy [date] tomorrow [location] san francisco
+[weather_attribute] windy [date] tomorrow [location] san francisco
+[date] tomorrow
+[location] Los Angeles
+[date] tomorrow
+[event] conference
+[greeting] thank
+[date] tomorrow [event] meeting
+[event] Meeting [agenda] discuss the merger
+[greeting] thank
+[weather_attribute] snow [date] this week
+[weather_attribute] snow [date] week [location] San Jose
+[greeting] thank
+[event] eye doctor appointment
+[event] football activity
+[event] football activity
+[distance] nearby [poi_type] hospital
+[distance] nearby [traffic_info] traffic conditions [poi_type] hospital [poi] Stanford Express Care
+[distance] quick
+[greeting] thank
+[distance] closest [poi_type] shopping mall
+[distance] fastest
+
+[distance] fastest
+[weather_attribute] temperature [date] today and tomorrow
+[weather_attribute] temperature [date] today and tomorrow
+[weather_attribute] temperature [date] today and tomorrow
+[poi_type] coffee
+
+[greeting] thank
+[weather_attribute] snow [date] today
+[weather_attribute] snow [date] today
+[weather_attribute] snow [date] today
+[event] swimming party
+[greeting] thank
+[event] lab appointment
+[event] lab appointment
+[poi_type] chinese restaurant
+[distance] nearby
+[distance] fastest [address] 842 Arrowhead Way [poi] panda express
+[address] 842 Arrowhead Way [poi] panda express
+[poi] panda express [greeting] thank
+[event] meeting
+[greeting] thank
+[weather_attribute] rain [date] today
+[weather_attribute] rain [date] today
+[weather_attribute] rain [date] today
+[event] swimming activity
+[event] swimming activity
+[weather_attribute] forecast [date] today
+[weather_attribute] humid [date] today [location] Oakland
+[weather_attribute] forecast [date] today
+[location] grand rapids
+[date] friday
+[greeting] thank
+
+[location] new york city
+[date] today [location] New York City
+[location] new york city
+[weather_attribute] rain [date] today
+[weather_attribute] rain [date] today
+[greeting] thank
+[traffic_info] avoiding all heavy traffic [poi] home
+[greeting] thank
+[weather_attribute] snowing [date] right now
+[weather_attribute] snow [date] right now [location] redwood city
+[greeting] thank
+[poi_type] mall
+[distance] 1 mile away [poi_type] shopping center [poi] Ravenswood Shopping Center
+[greeting] thank
+[event] yoga activity
+[event] yoga activity
+[poi_type] home
+[poi_type] home [address] 56 cadwell street [poi] home [greeting] thank
+
+[distance] nearest [poi_type] tea
+[traffic_info] any traffic
+
+[poi] cafe venetia [greeting] thank
+[distance] shortest distance [poi_type] pizza restaurant
+[distance] shortest distance [poi_type] pizza restaurant [address] 915 Arbol Dr [poi] Pizza Chicago
+[greeting] thank
+[poi_type] parking lot
+[distance] quick
+[poi] palo alto garage r [greeting] thank
+[date] 7 days
+[weather_attribute] windy [location] Cleveland
+[greeting] thank
+[distance] nearest [poi] grocery store
+[traffic_info] least amount of traffic
+[greeting] thank

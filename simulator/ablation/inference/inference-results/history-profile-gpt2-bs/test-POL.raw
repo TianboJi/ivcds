@@ -1,0 +1,711 @@
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] Chevron [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] pizza [eoda] [soau] [
+[eoau] [soaa] [poi] Chevron [eoaa] [soda] [poi] chevron [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [so
+and 4 miles away from the nearest road block nearby. [eoau] [soaa] [distance] 3 miles [distance] 4 miles [traffic_info] road block nearby [poi_type] gas station [address] 783 arcadia pl [poi] Chevron [eoaa] [soda] [poi] chevron [greeting
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [eoda] [sodu] what's the temperature going to be like this week [eodu] [soau] [eoau] [soaa] [eoaa]
+[eoau] [soaa] [location] alhambra [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+overcast, low of 20F, high of 30F [eoau] [soaa] [location] alhambra [saturday] blizzard, low of 20F, high of 30F [monday] frost, low of 20F, high of 30F [friday] snow, low of 20F, high of 30F [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [distance] 4 miles [poi] Sigona Farmers Market [poi] Whole Foods [eoaa] [soda] [distance] fastest route [traffic_info] no traffic [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+4 miles away with no traffic. [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [poi] Sigona Farmers Market [address] 638 Amherst St [eoaa] [soda] [eoda] [sodu] Perfect. Let's go there. [eodu] [soau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+will be cloudy on Monday and then raining on Tuesday. [eoau] [soaa] [today] monday [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+it is 4 miles away with no traffic. [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [distance] nearest (4 miles away) [traffic_info] no traffic [poi_
+it is 4 miles away. [eoau] [soaa] [distance] 4 miles [traffic_info] heavy traffic [poi_type] home [poi] home [eoaa] [soda] [distance] quickest route [eoda] [sodu] Give me the quickest route. [eodu] [soau] [e
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the location, date, and agenda of my next meeting? [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi] Whole Foods [poi] Safeway [eoaa] [soda] [distance] quickest [poi_type] grocery store [eoda] [sodu] Let's go to the one with the quickest route. [eodu] [soau] [eoau
+[eoau] [soaa] [poi] Safeway [address] 452 Arcadia Pl [poi] safeway [eoaa] [soda] [distance] nearby (5 miles away) [traffic_info] no traffic [poi_type] grocery store [address] 452 arcadia pl [poi] safeway [eoda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [traffic_info] car collision nearby [distance] 3 miles [poi] Willows Market [eoaa] [soda] [eoda] [sodu] Any other options? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eodu] [soau] There is a Pizza Chicago and Round Table. [eoau] [soaa] [poi] Pizza Chicago [poi] Round Table [eoaa] [soda] [distance] closer [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+is 4 miles away [eoau] [soaa] [distance] 4 miles [poi] Willows Market [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [address] 347 Alta Mesa Ave [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [so
+[eodu] [soau] There is a Panda Express 1 mile away. Would you like the address to it? [eoau] [soaa] [poi] Panda Express [eoaa] [soda] [poi] panda express [eoda] [sodu] Yes please give me the details of this location [eodu]
+[eoau] [soaa] [distance] 5 miles [address] 347 Alta Mesa Ave [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] brentwood [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+1 mile away [eoau] [soaa] [distance] 4 miles [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] shopping center [distance] 2 miles [address] 773 Alger Dr [poi] Stanford Shopping Center [eoaa] [soda] [poi] stanford shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+eoaa [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+stormy weather. [eoau] [soaa] [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi] Valero [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau]
+[eoau] [soaa] [address] 200 Alester Ave [poi] Valero [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+[eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [sodu] Ok thanks for the information. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+5677 southwest 4th street [eoau] [soaa] [distance] 1 miles [traffic_info] moderate traffic [poi_type] home [address] 5677 southwest 4th street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu]
+it is 4 miles away [eoau] [soaa] [distance] 4 miles [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [traffic_info] heavy [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [sodu] That's good, please give me directions. [eodu] [soau] [eoau] [
+[eoau] [soaa] [distance] 3 miles [poi] Hotel Keen [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] today [location] Cleveland [eoda] [sodu] Cleveland, please. What is today's forecast? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather
+[eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [poi] Starbucks [eoaa] [soda] [distance] fastest [poi] starbucks [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [poi] Starbucks [address] 792 Bedoin Street [eoaa] [soda] [poi] starbucks [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [date] the 5th [event] doctor appointment [eoda] [sodu] The one on the 5th. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau
+stormy [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the location, agenda, and time of my
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] next week [location] Boston [eoda] [sodu] Boston next week. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [e
+forecast [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [poi] midtown shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [e
+is it 4 miles away? [eoau] [soaa] [distance] 4 miles [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+garage [eoau] [soaa] [poi_type] grocery store [poi] Hacienda Market [eoaa] [soda] [traffic_info] quickest route [eoda] [sodu] OK, please give me directions via the quickest route. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [address] 1313 Chester Ave [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [location] new york [eoda] [sodu] I need to know the temperature in new york this week. [eodu] [soau] [eoau] [soaa] [eoaa]
+stormy on Sunday [eoau] [soaa] [today] monday [location] downtown chicago [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+doctor appointment is scheduled for 5pm on the 5th. [eoau] [soaa] [date] the 5th [date] the 4th [party] sister [event] tennis activity [time] 5pm [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] humid [date] today [location] New York [eoda] [sodu] I want to know if it will be humid in New York today. [eodu] [soau] [eoau] [soaa] [eoaa] [
+day [eoau] [soaa] [location] durham [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] today [weather_attribute] humid [location] new york [eoda] [sodu] I want to know if it will be humid in new york today [eodu] [soau] [eoau] [soaa] [eoaa]
+tomorrow. [eoau] [soaa] [location] mountain view [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ton [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it going to rain sometime this week [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 1 miles [poi] Palo Alto Garage R [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] pizza [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+i mean this is going to be hot [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+inglewood city [eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [eoaa] [soda] [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank [eoda] [sod
+ave [eoau] [soaa] [poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu] That's it, thank you car! [eodu] [soau] [eoau] [soaa
+inglewood [eoau] [soaa] [address] 113 Anton Ct [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+eoaa [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow any this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] mountain view [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+next day [eoau] [soaa] [party] mother [event] tennis activity [time] 5pm [date] the 4th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] hospital [eoda
+[eoau] [soaa] [traffic_info] heavy traffic [distance] 4 miles [address] 214 El Camino Real [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+drizzle is predicted on friday [eoau] [soaa] [location] danville [today] monday [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [location] durham [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu
+stormy on Sunday [eoau] [soaa] [today] monday [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] new york [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [today] monday [eoaa] [soda] [date] today [eoda] [sodu] what is the weather like today [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week
+day. [eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Chef Chu's [eoaa] [soda] [distance] nearby [traffic_info] quick route [poi_type] chinese restaurant [poi] Chef Chu's [eoda] [sodu] Then
+rapids are at 5pm. [eoau] [soaa] [time] 5pm [time] 5pm [date] monday [date] the 5th [poi] Chef Chu's [eoaa] [soda] [poi] chef chu's [greeting] thank [eoda] [soau] [eoau]
+[eoau] [soaa] [traffic_info] heavy traffic [distance] 2 miles [address] 830 Almanor Ln [poi] tai pan [eoaa] [soda] [traffic_info] avoid all heavy traffic please [eoda] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+Philz is 6 miles away. [eoau] [soaa] [distance] 6 miles [distance] 5 miles [poi] Chef Chu's [poi] Philz [eoaa] [soda] [distance] quickest route [poi_type] pizza restaurant [poi] Philz [eoda] [sodu] Yes, please give
+8 miles away. [eoau] [soaa] [distance] 8 miles [traffic_info] no traffic [poi] Teavana [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] humid [date] today [location] New York [eoda] [sodu] I want to know if it will be humid in New York today. [eodu] [soau] [eoau] [soaa] [eoaa] [
+day [eoau] [soaa] [location] compton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tuesday. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+4th day [eoau] [soaa] [date] wednesday [date] the 20th [date] the 5th [party] Ana [party] father [event] doctor appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+miles [eoau] [soaa] [time] 11am [date] tuesday [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+. [eoau] [soaa] [time] 10am [time] 7pm [date] the 8th [date] the 8th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+ursday [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+esouth [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eo
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Great. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sod
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+Pizza Hut [poi] Pizza My Heart [distance] 3 miles [distance] 5 miles [poi_type] chinese restaurant [poi] Pizza My Heart [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [poi] Pizza My Heart [eoda] [sodu] Give me directions to the nearest ch
+Panda Express [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [soau] [eoau] [soaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu
+tuesday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee or tea place [eoda] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+clear skies, low of 40F, high of 50F [eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [soau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+purpose of the meeting is to discuss the merger. [eoau] [soaa] [agenda] discuss the merger [agenda] HR [event] meeting [time] 7pm [date] today [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] frost [date] today [location] Durham [eoda] [sodu] Will it frost in Durham today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute]
+saturday [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+stormy day [eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+overcast [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tuesday. [eoau] [soaa] [date] friday [event] dentist appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay great, thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [distance] 915 Arbol Dr [poi] Pizza Chicago [address] 915 Arbol Dr [eoaa] [soda] [distance] quick route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+[eoau] [soaa] [poi] Pizza Chicago [eoaa] [soda] [poi] pizza chicago [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 5672 barringer street [poi] 5672 barringer street [eoaa] [soda] [distance] nearest [poi_type] pizza restaurant [address] 5672 barringer street [poi] pizza restaurant [greeting] thank [eoda] [soau] [eoau]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [address] 5672 barringer street [poi] 5672 barringer street [eoaa] [soda] [poi] 5672 barringer street [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+inglewood city [eoau] [soaa] [poi_type] home [poi] home [address] 5671 barringer street [eoaa] [soda] [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank [eoda] [sod
+it is 4 miles away with no traffic [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] home [address
+I have a route to reach but there is heavy traffic. Please be aware that there is a car collision nearby [eoau] [soaa] [traffic_info] car collision nearby [poi_type] home [poi] home [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi] Palo Alto Cafe [eoaa] [soda] [poi] palo alto cafe [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [poi] Palo Alto Medical Foundation [address] 436 Alger Dr [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu
+eoaa [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [location] Camarillo [eoda] [soau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [poi_type] shopping center [address] 338 Alester Ave [poi] Topanga Mall [eoaa] [soda] [distance] quickest [eoda] [sodu] Yes, please, show me the quickest route to go there! [eodu] [soau
+[eoau] [soaa] [traffic_info] car collision nearby [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] hotel
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] humid [date] today [location] San Jose [eoda] [sodu] San Jose, will it be humid today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather
+on thursday [eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+windy, low of 40F, high of 50F [sodu] Okay, that's helpful for me to know. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [eoda] [sodu] what's the temperature going to
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+tomorrow [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [
+[eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+overcast, low of 90F, high of 100F [eoau] [soaa] [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] this week [weather_attribute] temperature [location] San Jose [eoda] [sodu] San Jose, whats the temperature this week? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+ay [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[poi] palo alto garage r [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [traffic_info] road block nearby [poi] Starbucks [eoaa] [soda] [poi] starbucks [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+ing [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the location, date, and agenda of my next meeting. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] The Starbucks [address] 792 Bedoin Street [eoaa] [soda] [poi] starbucks [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+6 miles away [eoau] [soaa] [distance] 6 miles [poi] Town and Country [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [
+[eoau] [soaa] [traffic_info] no traffic [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] grocery store
+will be there in no time. [eoau] [soaa] [address] 383 University Ave [poi] The Clement Hotel [greeting] thank [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] yoga [eoda] [sodu] When is my next yoga lesson? Who will be coming with me? [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 7 miles [traffic_info] moderate traffic [poi] Valero [eoaa] [soda] [address] 200 Alester Ave [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [poi] Valero [address] 200 Alester Ave [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [so
+chinese restaurant [eoau] [soaa] [traffic_info] moderate traffic [poi_type] chinese restaurant [poi] Four Seasons [eoaa] [soda] [poi] four seasons [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is the time for the meeting. [eoau] [soaa] [agenda] discuss the company picnic [agenda] go over the quarterly report [time] 4pm [time] 6pm [date] saturday [date] the 6th [party] HR [party] Tom [event] meeting [eoaa] [soda] [greeting]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] parking garage [distance] 1 miles [poi] Palo Alto Garage R [eoaa] [soda] [eoda] [sodu] Yes please. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+2 miles away [eoau] [soaa] [date] monday [date] the 5th [party] boss [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] Boston [eoda] [sodu] Boston. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it going to rain this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [traffic_info] heavy traffic [poi_type] shopping center [poi] Topanga Mall [eoaa] [soda] [eoda] [sodu] Well let's go there then. [eodu] [soau] [eoau] [soaa]
+inglewood rd [eoau] [soaa] [distance] 4 miles [poi] Topanga Mall [address] 171 Oak Rd [eoaa] [soda] [traffic_info] quick route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+street [eoau] [soaa] [address] 583 Alester Ave [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next 7 days [eoda] [soau]
+place [eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[distance] 4 miles [traffic_info] moderate traffic [poi] The Westin [eoaa] [soda] [distance] nearest [traffic_info] fastest route [poi_type] rest stop [poi] The Westin [eoda] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 329 El Camino Real [poi] The Westin [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [date] the 16th [party] sister [event] dinner [eoda] [sodu] That will be all. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] parking garage [eoda] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tomorrow [eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+any other day? [eoau] [soaa] [date] the 8th [date] wednesday [eoaa] [soda] [greeting] thank [eoda] [sodu] That will do just fine, thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Mateo [eoda] [sodu] I need to know about San Mateo. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] pizza place [eoda
+[eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] this week [weather_attribute] foggy [location] New York [eoda] [sodu] I'm in New York and I need to know if it will be foggy this week. [eodu] [soau] [eoau] [soaa
+overcast, low of 70F, high of 90F [eoau] [soaa] [location] seattle [today] monday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+stormy. [eoau] [soaa] [location] compton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [address] 580 Van Ness Ave [poi] Tom's house [eoaa] [soda] [distance] shortest distance [eoda] [sodu] Set my GPS for the shortest distance to Tom's house. [eodu] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] Inglewood [eoda] [sodu] Inglewood [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [s
+today's forecast does not predict rain with a high of 70F [eoau] [soaa] [location] downtown chicago [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] today and
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+overcast, low of 20F, high of 30F [eoau] [soaa] [location] alhambra [friday] clear skies, low of 20F, high of 30F [thursday] snow, low of 20F, high of 30F [saturday] warm, low of 20F, high of 30F [tuesday] overcast,
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [eoaa] [soda] [date] today [weather_attribute] frost [location] Boston [eoda] [sodu] I'm in Boston, will it frost today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoaa] [soda] [weather_attribute] humid [date] today [location] Durham [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [eoda] [sodu] what's the temperature going to be like this week [
+stormy days [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow any this week [eodu] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+day [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [sodu] will it be cloudy next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+overcast, low of 30F, high of 50F [eoau] [soaa] [location] new york [friday] dry, low of 30F, high of 50F [monday] foggy, low of 30F, high of 50F [wednesday] raining, low of 30F, high of 50F [thursday] cloudy, low
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is 4 miles away with no traffic. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [distance] 4 miles [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [
+road [eoau] [soaa] [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is the only day that you will be able to see it. [eoau] [soaa] [date] sunday [date] monday [party] brother [event] football activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [poi] Philz [poi] Starbucks [eoaa] [soda] [poi] starbucks [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [e
+[eoau] [soaa] [address] 452 Arcadia Pl [poi] Safeway [eoaa] [soda] [distance] nearby [traffic_info] quick route [poi_type] grocery store [address] 452 arcadia pl [poi] safeway [greeting] thank [eoda] [sodu
+[eoau] [soaa] [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [sodu] That's ok, thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] doctor's
+[eoau] [soaa] [traffic_info] moderate traffic [poi_type] grocery store [poi] Safeway [eoaa] [soda] [address] 452 Arcadia Pl [poi] safeway [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+street [eoau] [soaa] [address] 383 University Ave [poi] The Clement Hotel [eoaa] [soda] [distance] shortest distance [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ay [eoau] [soaa] [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it supposed to rain this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+tuesday [eoau] [soaa] [location] boston [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [date] sunday [eoaa] [soda] [date] 2 days [weather_attribute] frost [location] inglewood [eoda] [sodu] Find out if there will be frost in inglewood on sunday [eodu] [soau] [eoau] [soaa
+overcast, low of 50F, high of 70F [eoau] [soaa] [location] new york [monday] cloudy, low of 50F, high of 70F [wednesday] overcast, low of 50F, high of 70F [friday] dry, low of 50F, high of 70F [thursday] clear skies,
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [location] grand rapids [eoda] [sodu] grand rapids [eodu] [soau] [eoau] [soaa] [eoaa] [
+eoaa [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow any this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+purpose of the conference [eoau] [soaa] [date] monday [date] the 13th [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee
+purpose [event] conference [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] doctor's appointment [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+me [eoau] [soaa] [room] conference room 102 [greeting] welcome [eoaa] [soda] [eoda] [sodu] Okay, great. Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+. [eoau] [soaa] [address] 864 Almanor Ln [poi] jacks house [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [poi] Starbucks [eoaa] [soda] [distance] nearby [traffic_info] fastest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+tuesday [distance] 5 miles [traffic_info] moderate traffic [poi_type] coffee or tea place [address] 145 Amherst St [poi] Teavana [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] shopping center [address] 171 Oak Rd [poi] Topanga Mall [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quickest route [poi_type] shopping center [address] 171 oak rd [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[poi] Palo Alto Garage R [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [sodu] Thank you car assistant [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [soau] [eoau] [soaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is the only day that there will be clear skies on wednesday [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+and 638 Amherst St. [eoau] [soaa] [traffic_info] car collision nearby [traffic_info] 1 mile [address] 819 Alma St [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda] [soau] [eoau
+road block is heavy traffic. We should be there soon. [eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [time] 6pm [time] 7pm [date] the 11th [date] the 5th [party] Jon [party] sister [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] humid [date] today [location] San Jose [eoda] [sodu] San Jose, will it be humid today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+by the way [eoau] [soaa] [eoaa] [soda] [location] Alhambra [eoda] [sodu] Alhambra. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [e
+overcast, low of 60F, high of 80F [eoau] [soaa] [location] alameda [saturday] humid, low of 60F, high of 80F [wednesday] raining, low of 60F, high of 80F [monday] overcast, low of 60F, high of 80F [tuesday] warm, low of
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+stormy weather today and tomorrow [eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tai pan [distance] 8 miles [poi] The Clement Hotel [address] 657 Ames Ave [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] rest stop [address] 657 Ames Ave. [poi] The Clement Hotel [eoda] [soau] [eoau] [
+road [eoau] [soaa] [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] this week [weather_attribute] foggy [location] New York [eoda] [sodu] I'm in New York and I need to know if it will be foggy this week. [eodu] [soau] [eoau] [soaa
+eoaa [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [eoaa] [soda] [date] today [weather_attribute] frost [location] Boston [eoda] [sodu] I'm in Boston, will it frost today? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+[eoau] [soaa] [location] seattle [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu
+[eoau] [soaa] [location] alameda [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+1 miles away, and 1 miles away from 9981 Archuleta Ave. [eoau] [soaa] [distance] 2 miles [distance] 1 miles [address] 9981 Archuleta Ave [address] 9981 Archuleta Ave [poi] Peets Coffee [eoaa] [soda] [distance] fastest route [eoda
+road is 4 miles away. [eoau] [soaa] [distance] 4 miles [distance] 3 miles [traffic_info] moderate traffic [poi_type] coffee or tea place [address] 394 van ness ave [poi] peets coffee [eoaa] [soda] [distance] nearest (4 miles away) [tra
+4 miles away. [eoau] [soaa] [distance] 4 miles [eoaa] [soda] [distance] quickest [poi_type] chinese restaurant [poi] Panda Express [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is located 4 miles away with no traffic. Setting directions now to 5671 barringer street [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi] The Westin [address] 5671 barringer street [eoaa] [soda] [poi] the westin [greeting] thank [eoda
+street [eoau] [soaa] [address] 583 Alester Ave [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next 7 days [eoda] [soau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+being requested. [eoau] [soaa] [party] Jon [party] Jeff [event] tennis activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [e
+[eoau] [soaa] [time] 1 pm [date] monday [party] Jon [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+or 4 miles [eoaa] [soda] [weather_attribute] humid [date] today [location] New York [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [eoda] [sodu] what's the temperature going to be
+[eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+on sunday it will snow [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [agenda] discuss the merger [event] meeting [eoaa] [soda] [event] meeting [eoda] [sodu] Okay, that solves it. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+drive [eoaa] [soda] [event] meeting [time] 3 pm [date] wednesday [event] meeting [eoda] [sodu] Okay, will anyone else be attending? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+st [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [poi_type] home [address] 5671 barringer street [poi] home [eoaa] [soda] [distance] fastest [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank [eoda] [sod
+4 miles [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [sodu] find me the nearest shopping center [eodu] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [poi] Hotel Keen [eoaa] [soda] [traffic_info] quickest route [poi] hotel keen [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+[eoau] [soaa] [traffic_info] no traffic [address] 578 Arbol Dr [poi] 578 Arbol Dr [eoaa] [soda] [poi] 578 Arbol Dr [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa]
+inglewood [eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it supposed to rain next week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 1 miles [traffic_info] heavy traffic [poi] Travelers Lodge [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+Chef Chu's [eoau] [soaa] [distance] 3 miles [poi] Chef Chu's [eoaa] [soda] [distance] fastest [poi_type] chinese restaurant [poi] Chef Chu's [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [eo
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+880 Ames Ct. [eoau] [soaa] [distance] 2 miles [poi_type] parking garage [address] 880 ames ct [poi] Webster Garage [eoaa] [soda] [distance] shortest distance [poi_type] parking garage [address] 880 ames ct [poi] webster garage
+[eoau] [soaa] [distance] 2 miles [traffic_info] moderate traffic [poi_type] chinese restaurant [poi] Jing Jing [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+car. [eoau] [soaa] [distance] 2 miles [poi_type] doctor's appointment [address] 2 pm [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks! [eodu] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[distance] 4 miles [poi] Cafe Venetia [poi] Teavana [eoaa] [soda] [distance] quickest route [eoda] [sodu] Pick the quickest route to reach there please. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+Teavana [eoau] [soaa] [traffic_info] no traffic [poi] Cafe Venetia [poi] Teavana [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa]
+CARRIED! [eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [soau] [eoau] [
+is 4 miles away with no traffic. [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [address] 145 Amherst St [poi] Teavana [eoaa] [soda] [poi] teavana [greeting] thank [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] alhambra [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [location] Exeter [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] There is a Philz coffee 4 miles away. [eoau] [soaa] [distance] 4 miles [poi] Philz [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+4 miles away, there is moderate traffic but you're just 6 miles away from where you need to go. Which one do you prefer? [eoau] [soaa] [distance] 4 miles [traffic_info] moderate traffic [traffic_info] no traffic [address] 394 Van Ness Ave [poi] Coupa [eoaa] [soda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [traffic_info] car collision nearby [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+[eoau] [soaa] [address] 773 Alger Dr [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] parking garage [eoda] [soau] [eoau] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+on Sunday. [eoau] [soaa] [date] the 2nd [date] saturday [date] the 16th [party] Marie [party] brother [event] optometrist appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 6 miles [distance] 5 miles [poi] Philz [poi] 583 Alester Ave [eoaa] [soda] [distance] quickest route [poi_type] coffee or tea place [poi] Philz [eoda] [sodu] Yes, please, pick the
+route [eoau] [soaa] [traffic_info] no traffic [poi] Philz [eoaa] [soda] [poi] philz [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [poi_type] coffee or tea
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [traffic_info] no traffic [address] 528 anton ct [poi] pizza my heart [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+and local restaurant [eoau] [soaa] [poi] Chef Chu's [poi] Tai Pan [eoaa] [soda] [distance] fastest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+would be to go over the budget. [eoau] [soaa] [distance] 3 miles [poi] Chef Chu's [eoaa] [soda] [eoda] [sodu] That sounds good. Let's go there. [eodu] [soau] [eoau] [soaa] [eoaa] [
+rapids are at 5pm. [eoau] [soaa] [time] 5pm [time] 5pm [date] monday [date] the 5th [poi] Chef Chu's [eoaa] [soda] [poi] chef chu's [greeting] thank [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+hotel [eoau] [soaa] [distance] 3 miles [traffic_info] car collision nearby [poi_type] rest stop [poi] Hotel Keen [eoaa] [soda] [eoda] [sodu] Ok sounds good. Let's go there then. [eodu] [soau] [eoau]
+hotel keen [eoau] [soaa] [traffic_info] car collision nearby [distance] 3 miles [address] 578 Arbol Dr [poi] Hotel Keen [eoaa] [soda] [poi] hotel keen [greeting] thank [eoda] [soau] [eoau] [soaa] [eo
+[soaa] [distance] 4 miles [poi] Philz [eoaa] [soda] [poi] philz [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau
+place [eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu
+eoaa [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] today and tomorrow [location] Manhattan [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+any other options? [eoau] [soaa] [traffic_info] no traffic [distance] 3 miles [poi_type] pizza restaurant [address] 113 Anton Ct [poi] Round Table [eoaa] [soda] [eoda] [sodu] No need. [eodu] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ursday it is gonna be foggy on thursday [eoau] [soaa] [location] los angeles [today] monday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+it is 4 miles away. [eoau] [soaa] [distance] 4 miles [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [traffic_info] no traffic [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+is 4 miles away but there is no traffic on the way. Setting navigation now. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi_type] hospital [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+appointment [eoau] [soaa] [date] the 5th [date] the 8th [party] aunt [party] Jon [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+appointment [eoau] [soaa] [date] the 5th [date] the 8th [party] aunt [party] Jon [event] lab appointment [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+inglewood [eoau] [soaa] [distance] 5 miles [poi_type] gas station [poi] Chevron [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [poi_type] gas station [poi] Valero [eoaa] [soda] [address] 200 Alester Ave [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [e
+[eoau] [soaa] [poi] Valero [address] 200 Alester Ave [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ursday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+it is 4 miles away but there is heavy traffic on our way, I sent the best available route on your screen [eoau] [soaa] [traffic_info] heavy traffic [distance] 4 miles [poi_type] home [poi] home [eoaa] [soda] [greeting] thank [eoda] [sodu
+[eoau] [soaa] [address] 56 cadwell street [poi] astral teh lab [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ton [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+eoaa [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [poi_type] shopping center [distance] 4 miles [address] 773 Alger Dr [poi] Stanford Shopping Center [eoaa] [soda] [distance] within 3 miles [poi_type] shopping center [address] 773 Alger Dr [poi] stanford shopping center [greeting]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+. [eoau] [soaa] [time] 3pm [time] 6pm [time] 7pm [date] monday [date] the 6th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+is the only day that the meeting is scheduled. [eoau] [soaa] [time] 6pm [date] sunday [date] monday [party] management [party] Ana [event] meeting [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ursday [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 1 miles [poi] Travelers Lodge [eoaa] [soda] [eoda] [sodu] What is the address? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [address] 333 Arbol Dr [poi] Travelers Lodge [eoaa] [soda] [distance] fastest [eoda] [sodu] Set the GPS for the fastest route to a destination. [eodu] [soau] [eoau] [soaa] [eoaa] [
+road block is heavy traffic, so drive carefully. [eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+appointment [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] doctor appointment [eoda] [soau] [eoau] [soaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+next day [eoau] [soaa] [date] monday [date] the 17th [date] tuesday [party] Alex [party] Marie [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [sodu] San Francisco [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu
+tomorrow. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] coffee or tea place [eoaa] [soda] [distance] nearby [traffic_info] quickest route [poi_type] coffee or tea place [address] 5671 barringer street [poi] coffee or tea place [eoda] [sodu] Yes please and pick the
+[eoau] [soaa] [poi] Cafe Venetia [address] 269 Alger Dr [eoaa] [soda] [poi] cafe venetia [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+route. [eoau] [soaa] [distance] 4 miles [traffic_info] no traffic [poi] Four Seasons [eoaa] [soda] [poi] four seasons [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+or Coupa that is 4 miles away? [eoau] [soaa] [distance] 4 miles [distance] 3 miles [poi] Cafe Venetia [poi] Philz [eoaa] [soda] [poi] Philz [eoda] [soau] [eoau] [soaa] [eoaa] [
+Cafe [eoaa] [soda] [distance] quickest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+Chef Chu's [eoau] [soaa] [distance] 3 miles [poi] Chef Chu's [eoaa] [soda] [distance] fastest [poi_type] chinese restaurant [poi] Chef Chu's [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+overcast, low of 70F, high of 90F [eoau] [soaa] [location] corona [monday] overcast, low of 70F, high of 90F [sunday] snow, low of 70F, high of 90F [eoaa] [soda] [greeting] thank [eoda] [soau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 6 miles [traffic_info] moderate traffic [poi] The Travelers Lodge [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] rest stop [poi] Travelers Lodge [eoda] [sodu] Give me the address and
+[eoau] [soaa] [address] 333 Arbol Dr [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [poi] P.F. Changs [eoaa] [soda] [distance] fastest route [poi] p.f. changs [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [poi] Palo Alto Medical Foundation [eoaa] [soda] [poi] palo alto medical foundation [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop
+[eoau] [soaa] [address] 669 El Camino Real [poi] PF Changs [eoaa] [soda] [poi] PF Changs [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] hot [date] this week [location] San Jose [eoda] [sodu] San Jose, please. Will it be hot this week? [eodu] [soau] [eoau] [soaa] [eoaa] [s
+u [eoau] [soaa] [location] oakland [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you car! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[poi] Chevron [distance] 6 miles [address] 783 Arcadia Pl [poi] Chevron [eoaa] [soda] [poi] chevron [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date]
+[eoau] [soaa] [poi_type] gas station [poi] Chevron [eoaa] [soda] [distance] quickest [poi_type] gas station [poi] Chevron [eoda] [sodu] OK, please direct me there via the quickest route. [eodu] [soau] [eo
+[eoau] [soaa] [address] 783 Arcadia Pl [poi] Tom's house [eoaa] [soda] [distance] quickest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+place [eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [sodu] What is the
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [distance] 6 miles [poi] Chef Chu's [poi] Mandarin Roots [eoaa] [soda] [distance] fastest [traffic_info] no traffic [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+would you like to go there? [eoau] [soaa] [poi] Chef Chu's [eoaa] [soda] [eoda] [sodu] Yes please. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+rapids are located 2 miles away. [eoau] [soaa] [distance] 2 miles [distance] 593 Arrowhead Way [poi] Chef Chu's [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+, 4 miles away with no traffic [eoau] [soaa] [distance] 3 miles [traffic_info] moderate traffic [traffic_info] no traffic [poi] Chef Chu's [poi] Chef Chu's [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [so
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ay [eoau] [soaa] [distance] 7 miles [traffic_info] car collision nearby [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi] Cafe Venetia [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoaa] [soda] [event] conference [time] 10 am [party] boss [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event] meeting [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+going to 100 conference room 100 [eoau] [soaa] [event] meeting [room] 100 conference room [greeting] welcome [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you [eodu] [soau] [eoau] [soaa] [eoaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tai pan. [eoau] [soaa] [poi] san francisco [today] monday [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+thursday [date] the 3rd [date] the 9th [party] father [party] Tom [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [poi_
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+being set for 11 am. [eoau] [soaa] [party] Jon [event] tennis activity [date] the 11th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] hot [date] this week [location] San Jose [eoda] [sodu] San Jose, please. Will it be hot this week? [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tuesday [eoau] [soaa] [today] monday [location] san jose [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+on saturday [eoau] [soaa] [location] san mateo [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [soau] [eoau] [soaa
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+tio 2 miles away [eoau] [soaa] [distance] 2 miles [date] saturday [location] menlo park [eoaa] [soda] [date] Saturday [event] Menlo Park [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+eoaa [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow any this week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+activity [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [sodu] find me the nearest coffee shop [eodu] [soau] [eoau] [soaa] [eoaa] [s
+on ugreeting [eoau] [soaa] [location] camarillo [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+eoaa [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+Travelers Lodge [eoau] [soaa] [distance] 4 miles [address] 333 Arbol Dr [poi] The Travelers Lodge [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] rest stop [address] 333 Arbol Dr. [poi] The Travelers Lodge [eoda
+[eoau] [soaa] [address] 333 Arbol Dr [poi] Tom's house [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+if anyone is coming along. [eoau] [soaa] [address] 864 Almanor Ln [poi] jacks house [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu]
+Chef Chu's [eoau] [soaa] [distance] 3 miles [poi] Chef Chu's [eoaa] [soda] [distance] fastest [poi_type] chinese restaurant [poi] Chef Chu's [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+. [eoau] [soaa] [time] 9am [time] 5pm [date] the 12th [date] the 4th [date] the 5th [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+4 miles [eoau] [soaa] [distance] 3 miles [poi_type] shopping center [poi] Stanford Shopping Center [poi] Ravenswood Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+[eoau] [soaa] [poi_type] shopping center [poi] Ravenswood Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+nov. 434 Arastradero Rd. [eoau] [soaa] [poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [traffic_info] heavy traffic [poi_type] grocery store [address] 408 University Ave [poi] Trader Joes [eoaa] [soda] [distance] nearest [traffic_info] fastest route [poi_type] grocery store [address] 408 University Ave [po
+[eoau] [soaa] [traffic_info] heavy traffic [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] New York [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] this week [eoda] [sodu] what is the weather going to be like this week [eodu] [so
+meadow [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau] [soaa] [eoaa] [soda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] Stanford Express Care [address] 214 El Camino Real [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] hospital [eoda]
+[eoau] [soaa] [traffic_info] heavy traffic [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [eoda] [sodu] Yes, I guess that will have to do. [eodu] [soau] [eoau] [soaa] [
+[eoau] [soaa] [traffic_info] heavy traffic [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [poi] stanford express care [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+is 2 miles away with no traffic. [eoau] [soaa] [distance] 2 miles [traffic_info] no traffic [poi] Stanford Childrens Health [eoaa] [soda] [eoda] [sodu] Yes sounds good. [eodu] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+3 miles 4 miles 6 miles 8 miles 8 miles 10 miles 12 miles 13 miles 14 miles 15 miles 16 miles 17 miles 18 miles 19 miles 20 miles Where can I give you the weather forecast for? [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next few days [location] Exeter [eoda] [
+road. [eoau] [soaa] [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [soaa]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 6 miles [distance] 3 miles [poi] The Westin [address] 329 El Camino Real [eoaa] [soda] [distance] quickest [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [poi] The Westin [address] 329 El Camino Real [eoaa] [soda] [poi] the westin [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [address] 329 El Camino Real [poi] The Clement Hotel [eoaa] [soda] [poi] the clement hotel [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[poi] Philz [eoaa] [soda] [distance] quick route [poi] philz [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa
+[eoau] [soaa] [traffic_info] road block nearby [address] 452 arcadia pl [poi] safeway [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quick route [poi_type] grocery store [address] 452 arcadia pl [poi] safeway
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [date] this week [weather_attribute] temperature [location] San Jose [eoda] [sodu] San Jose, whats the temperature this week? [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+day is predicted to be cloudy. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] Alhambra [eoda] [sodu] Alhambra. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] will it rain next week [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+4 miles away. [eoau] [soaa] [distance] 4 miles [poi] Coupa [eoaa] [soda] [eoda] [sodu] Is there another coffee or tea place within 4 miles? If not, please give me directions to one that is within 4 miles. [eodu] [soau] [eo
+ing is a 1 mile drive, but be aware there is a road block nearby. You will find it at 113 Anton Ct [eoau] [soaa] [traffic_info] road block nearby [address] 113 Anton Ct [poi] Coupa [eoaa] [soda] [distance] quickest route [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [sodu] will it be cloudy this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+ows weather [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+any day will have the highest temperature of 90F [eoau] [soaa] [today] monday [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [distance] fastest route [eoda] [sodu] Yes, please, send it on my screen and pick the fastest route for me [eodu] [soau] [eoau] [so
+[eoau] [soaa] [distance] 2 miles [traffic_info] heavy traffic [address] 338 Alester Ave [poi] We're going to 338 Alester Ave, there is heavy traffic but it's just 2 miles away [eoaa] [soda] [distance] quickest route [eoda] [soau] [eo
+[eoau] [soaa] [poi_type] shopping center [address] 338 Alester Ave [poi] Midtown Shopping Center [eoaa] [soda] [poi] midtown shopping center [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] jills house [address] 347 Alta Mesa Ave [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eoau] [soaa] [traffic_info] car accident nearby [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee [eoda] [soau] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 4 miles [poi_type] coffee or tea place [address] 269 Alger Dr [poi] Cafe Venetia [eoaa] [soda] [distance] nearest [traffic_info] quick route [poi_type] coffee or tea place [address] 269 Alger Dr [poi] Cafe
+4 miles away [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [poi] Four Seasons [eoaa] [soda] [poi] four seasons [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+any other day? [eoau] [soaa] [date] wednesday [event] football game [eoaa] [soda] [greeting] thank [eoda] [sodu] That will do just fine, thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [eoaa] [soda] [date] this week [location] San Francisco [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] this week [eoda] [sodu] is it supposed to rain
+overcast, low of 70F, high of 90F Friday, low of 40F, high of 60F Saturday, low of 80F, high of 90F Sunday [eoau] [soaa] [today] monday [location] durham [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+ames street [eoau] [soaa] [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [distance] shortest distance [poi_type] home [poi] home [eoda] [sodu] Please pick the shortest distance to reach there! [eodu]
+is there a road block nearby,so I sent on your screen a slightly longer road that will allow you to reach faster if you follow the directions. [eoau] [soaa] [traffic_info] road block nearby [poi_type] home [poi] home [eoaa] [soda] [greeting] thank [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [poi] Pizza Chicago [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau]
+[eoau] [soaa] [address] 915 Arbol Dr [poi] Tom's house [eoaa] [soda] [distance] fastest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+[eoau] [soaa] [distance] 4 miles [address] 434 Arastradero Rd [poi] 434 Arastradero Rd [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] pizza restaurant [address] 434 Arastradero Rd. [poi] Pizza
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [distance] 4 miles [poi] Whole Foods [address] 819 Alma St [eoaa] [soda] [address] 819 Alma St [eoda] [sodu] Give me the address. [eodu] [soau] [eoau] [soaa] [eoaa
+[eoau] [soaa] [address] 819 Alma St [poi] Whole Foods [eoaa] [soda] [poi] whole foods [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee shop [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda]
+and 4 miles away there is a road block nearby [eoau] [soaa] [distance] 3 miles [traffic_info] road block nearby [address] 792 Bedoin Street [poi] Starbucks [eoaa] [soda] [poi] starbucks [greeting] thank [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] Coupa [eoaa] [soda] [traffic_info] heavy traffic [poi] coupa [greeting] thank [eoda] [sodu] Then let's go there through a route that avoids all heavy traffic and let's go there through a quick route, thank you! [
+[eoaa] [soda] [distance] quickest route [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [event
+it is 4 miles away with no traffic. [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [address] 394 Van Ness Ave [poi] Coupa [eoaa] [soda] [poi] coupa [greeting] thank [eoda] [sodu] Thank you car, let
+[eoau] [soaa] [traffic_info] no traffic [poi] Palo Alto Cafe [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+and Westin. [eoau] [soaa] [distance] 2 miles [traffic_info] car collision nearby [poi_type] coffee or tea place [poi] Cafe Venetia [poi] The nearer cafe is Cafe Venetia, it's 2 miles away and there is a car collision nearby [eoaa] [soda] [
+[eoau] [soaa] [poi_type] chinese restaurant [poi] Cafe Venetia [eoaa] [soda] [distance] quickest [poi_type] chinese restaurant [poi] Cafe Venetia [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] Menlo Park [greeting] thank [eoda] [sodu] Menlo Park, thank you! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+dew, low of 30F, high of 40F [eoau] [soaa] [today] monday [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] Menlo Park [greeting] thank [eoda] [sodu] Menlo Park, thank you! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+overcast, low of 30F, high of 50F [eoau] [soaa] [location] atherton [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] hot [date] this week [location] San Jose [eoda] [sodu] San Jose, will it be hot this week? [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+is tomorrow's forecast. [eoau] [soaa] [location] san jose [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+any other coffee place? [eoau] [soaa] [traffic_info] heavy traffic [poi_type] coffee or tea place [poi] Coupa [eoaa] [soda] [eoda] [sodu] Yes, I guess that will have to do. [eodu] [soau] [eoau]
+is 4 miles away with no traffic, and 6 miles away with no traffic [eoau] [soaa] [distance] 4 miles [distance] 3 miles [traffic_info] no traffic [traffic_info] no traffic [address] 792 Bedoin Street [poi] Starbucks [eoaa] [soda] [poi] starbucks [g
+[eoau] [soaa] [distance] 3 miles [address] 593 Arrowhead Way [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks so much. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+es [eoau] [soaa] [location] san francisco [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date] this week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+street [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] Will it rain in Boston next week? [eodu] [soau] [eoau] [soaa] [e
+overcast, low of 70F, high of 90F [eoau] [soaa] [location] los angeles [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping mall
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+purpose of the conference. [eoau] [soaa] [date] the 13th [date] the 19th [event] conference [party] HR [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+drive [eoau] [soaa] [agenda] discuss the merger [date] monday [event] meeting [eoaa] [soda] [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [soda]
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Great. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sod
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] humid [date] today [location] Boston [eoda] [sodu] I want to know if it will be humid in Boston today. [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+is it hail? [eoau] [soaa] [location] san jose [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [party] Alex [party] Jeff [time] 6pm [time] 9am [time] 1pm [date] monday [date] the 13th [date] thursday [date] the 4th [eoaa] [soda] [greeting] thank [eoda] [soau] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [traffic_info] no traffic [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type
+[eoau] [soaa] [traffic_info] road block nearby [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date
+[eoau] [soaa] [address] 214 El Camino Real [poi] Stanford Oval Parking [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] shopping center [eoda
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 3 miles [poi_type] shopping center [poi] Town and Country [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda]
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] chinese restaurant [eoda] [sodu] find the nearest chinese restaurant [eodu] [soau] [eoau] [soaa] [eoaa] [s
+car. [eoau] [soaa] [poi] Town and Country [poi_type] shopping center [address] 383 University Ave [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+city [eoau] [soaa] [eoaa] [soda] [date] 2 day [location] redwood city [eoda] [sodu] Redwood City please. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] temperature [date]
+[eoau] [soaa] [location] grand rapids [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+4 miles [poi] Coupa [distance] 5 miles [eoaa] [soda] [distance] quick [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau] [eoau] [soaa
+[eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] coffee or tea place [poi] starbucks [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next week [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week [eoda] [sodu] is it going to snow this week [eodu] [soau] [eoau] [soaa] [eoaa] [soda
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] Manhattan [eoda] [sodu] Will it rain in Manhattan today and tomorrow? [eodu] [soau] [eoau] [soaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+activity is on the 8th. [eoau] [soaa] [date] the 8th [date] the 5th [party] father [party] Alex [event] swimming activity [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [s
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+appointment. [eoau] [soaa] [party] Jon [party] Alex [event] lab appointment [time] 2 pm [date] saturday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+meadow [eoaa] [soda] [distance] shortest distance [eoda] [sodu] Pick the shortest distance to reach there please! [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store [eoda] [soau
+Panda Express [eoau] [soaa] [distance] 3 miles [traffic_info] heavy traffic [distance] 4 miles [poi] Panda Express [poi] P.F. Changs [eoaa] [soda] [distance] nearest [traffic_info] fastest route [poi_type] chinese restaurant [poi] p
+[eoau] [soaa] [poi] Panda Express [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [s
+on Monday. [eoau] [soaa] [address] 842 Arrowhead Way [poi] Panda Express [eoaa] [soda] [poi] panda express [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [po
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+2pm [eoau] [soaa] [date] the 5th [date] the 7th [event] meeting [party] boss [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you. [eodu] [soau] [eoau] [soaa] [e
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [location] Boston [eoda] [sodu] I want to know about Boston. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute
+tomorrow. [eoau] [soaa] [location] fresno [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] snow [date] this week
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [time] 6pm [time] 7pm [date] the 12th [date] the 14th [date] monday [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+by appointment [eoau] [soaa] [eoaa] [soda] [date] next few days [location] Boston [eoda] [sodu] Boston for the next few days. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [
+[eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] today and tomorrow [location] Manhattan [eoda] [sodu] Will it rain in Manhattan today and tomorrow? [eodu] [soau] [eoau] [soaa] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+on sunday [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [sodu] is it going to be cloudy this week [eodu] [soau] [eoau] [soaa] [eoaa
+hot, low of 60F, high of 70F [eoau] [soaa] [location] grand rapids [monday] windy, low of 60F, high of 70F [friday] hot, low of 60F, high of 70F [tuesday] windy, low of 60F, high of 70F [sunday] stormy
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] Great. [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sod
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] current [location] Inglewood [eoda] [sodu] Inglewood [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week
+overcast, low of 40F, high of 60F [eoau] [soaa] [today] monday [location] manhattan [eoaa] [soda] [greeting] thank [eoda] [sodu] Okay, thank you [eodu] [soau] [eoau] [soaa] [eo
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [weather_attribute] hot [date] this week [location] San Jose [eoda] [sodu] San Jose, please. Will it be hot this week? [eodu] [soau] [eoau] [soaa] [eoaa] [s
+day [eoau] [soaa] [location] new york [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] this week [eoda] [soau] [eoau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+it is 4 miles away with no traffic There is no traffic on our way and you should be able to reach there in few minutes [eoau] [soaa] [traffic_info] no traffic [distance] 4 miles [poi_type] home [address] 10 ames street [poi] home [eoaa] [soda] [distance] nearest
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+it is cloudy [eoau] [soaa] [location] redwood city [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [e
+me [eodu] [soau] There is moderate traffic on our way but we're just 4 miles away, we should be able to reach there in about 5 minutes [eoau] [soaa] [distance] 4 miles [traffic_info] moderate traffic [eoaa] [soda] [greeting] thank [eoda] [soau
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [traffic_info] no traffic [distance] 7 miles [poi_type] shopping center [poi] Stanford Shopping Center [eoaa] [soda] [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_
+[eoau] [soaa] [address] 434 Arastradero Rd [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quickest route [poi_type] grocery store [address] 434 Arastradero Rd. [poi] Whole Foods [greeting] thank [eoda]
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+thursday. [eoau] [soaa] [time] 5pm [time] 4pm [date] monday [date] the 5th [date] thursday [date] the 6th [eoaa] [soda] [greeting] thank [eoda] [sodu] Thanks. [eodu] [soau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+manor house [eoau] [soaa] [traffic_info] moderate traffic [distance] 4 miles [poi_type] home [address] 56 cadwell street [poi] home [eoaa] [soda] [distance] nearest (3 miles away) [traffic_info] quickest route [poi_type] home [address]
+[eoau] [soaa] [greeting] welcome [eoaa] [soda] [eoda] [sodu] [end conversation] [eodu] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [poi] Cafe Venetia [eoaa] [soda] [distance] quickest [poi_type] coffee or tea place [poi] Cafe Venetia [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [date] today and tomorrow
+[eoau] [soaa] [distance] 2 miles [traffic_info] heavy traffic [poi_type] grocery store [poi] Whole Foods [eoaa] [soda] [eoda] [sodu] Okay great, let's go there then. [eodu] [soau] [eoau] [soaa
+[eoau] [soaa] [poi_type] coffee or tea place [address] 269 Alger Dr [poi] Cafe Venetia [eoaa] [soda] [traffic_info] no traffic [poi] cafe venetia [greeting] thank [eoda] [sodu] Pick a route with no traffic please
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 5 miles [address] 915 Arbol Dr [poi] Pizza Chicago [eoaa] [soda] [distance] quick route [poi] pizza chicago [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda
+[eoau] [soaa] [poi] Pizza Chicago [eoaa] [soda] [distance] quick route [poi] pizza chicago [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] cloudy [date] next 7 days
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [distance] 2 miles [poi_type] parking garage [poi] Webster Garage [eoaa] [soda] [distance] closest [eoda] [sodu] Get the address to it. [eodu] [soau] [eoau] [soaa] [eoaa] [
+[eoau] [soaa] [poi] Palo Alto Garage R [eoaa] [soda] [poi] palo alto garage r [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type] grocery store
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+[eoau] [soaa] [eoaa] [soda] [location] San Francisco [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [sodu] is it raining next week [eodu] [
+[eoau] [soaa] [location] cleveland [eoaa] [soda] [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [weather_attribute] rain [date] next week [eoda] [soau] [eoau] [
+place [eoau] [soaa] [poi] Stanford Childrens Health [eoaa] [soda] [poi] stanford childrens health [greeting] thank [eoda] [sodu] Thank you. [eodu] [soau] [eoau] [soaa] [eoaa] [s
+. [eoau] [soaa] [distance] 6 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Whole Foods [eoaa] [soda] [distance] nearest [traffic_info] quickest route [poi_type] grocery store [address] 452 arcadia pl [poi] whole foods
+[eoau] [soaa] [address] 452 Arcadia Pl [poi] Safeway [eoaa] [soda] [poi] safeway [greeting] thank [eoda] [soau] [eoau] [soaa] [eoaa] [soda] [distance] nearest [poi_type]

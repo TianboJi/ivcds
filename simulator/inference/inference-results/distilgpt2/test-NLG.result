@@ -1,0 +1,711 @@
+OK, please give me the address and directions via the quickest route.
+other choices [poi] chevron [greeting] thank [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Jose
+? [poi] chevron [greeting] thank [greeting] thank Okay great, thank you car! [weather_attribute] temperature [date] today [weather_attribute] temperature
+well. [poi] chevron [greeting] thank [greeting] thank [poi_type] gas station [distance] quickest [poi] shell [greeting] thank
+[location] alhambra [greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco
+[location] manhattan [greeting] thank Thank you. [weather_attribute] temperature [date] today [location] Manhattan [greeting] thank
+alhambra [greeting] thank [location] alhambra [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today
+manhattan [location] alhambra [friday] blizzard, low of 20F, high of 30F [sunday] clear skies, low of 20F, high of 30F [monday] cloudy, low of 20F, high of 30F [date] Friday
+[traffic_info] avoid heavy traffic [poi_type] grocery store [poi] sigona farmers market [greeting] thank Please give me directions via a route that avoids all heavy traffic if possible. Thank you. [distance]
+but you should be able to go there anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway
+raven but he set the GPS to go back and there is heavy traffic. [traffic_info] heavy traffic [distance] 4 miles [traffic_info] no traffic [poi] ravens market [greeting] thank Okay, thank you.
+[greeting] thank Thanks. [weather_attribute] snow [date] next 48 hours [location] San Jose [greeting] thank
+false and the weather on tuesday of next week [location] fresno [greeting] thank Okay, thank you [weather_attribute] rain [date] next 48 hours [location] San Jose
+[poi_type] home [poi] home [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+mentio set my heart. [poi_type] home [poi] home [address] 56 cadwell street [greeting] thank Thanks. [weather_attribute] temperature [date]
+man [greeting] thank [traffic_info] heavy traffic [poi_type] home [poi] home [greeting] thank Thanks. [poi_type] friends house
+well carlgreeting [greeting] monday [greeting] thank Great, thanks. [weather_attribute] snow [date] this week [location] Grand Rapids
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+[poi] Whole Foods [poi_type] grocery store [poi] whole foods [distance] closest [poi_type] grocery store [poi] whole foods [greeting] thank Let's go at Whole Foods, thank you
+tioff [traffic_info] no traffic [address] 452 Arcadia Pl [poi] Whole Foods [greeting] thank Okay great, thank you [weather_attribute] temperature
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] next week [location] San Jose [greeting] thank
+show me the closest grocery store
+fasted out on your choice [distance] closest [poi_type] grocery store [distance] closest [poi_type] grocery store [poi] Willows market [greeting] thank
+well make a quick route to the next op. [greeting] monday [distance] closest [poi_type] grocery store [distance] closest [poi_type] grocery store [poi] Willows market [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+and he's not seeing any traffic. [distance] 5 miles [traffic_info] no traffic [address] 347 Alta Mesa Ave [greeting] thank Thanks. [distance] nearest
+I didn't get that. [greeting] monday [greeting] thank [distance] around here [poi_type] friends house [poi] jacks house [greeting] thank
+well. [distance] 5 miles [greeting] thank [distance] around here [poi_type] friends house [greeting] thank
+[location] brentwood [greeting] thank [weather_attribute] temperature [date] next two days [location] Brentwood [greeting] thank
+[location] brentwood [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] parking garage [distance] fastest route [greeting] thank
+set the GPS. [poi_type] parking garage [distance] 4 miles [poi] Civic Center Garage [greeting] thank Thanks. [distance] nearest [poi_type] parking
+[greeting] thank Thanks. [distance] nearest [poi_type] shopping mall [distance] fastest route [greeting] thank
+tiov [distance] 2 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center [traffic_info] no traffic Set GPS for a route with no traffic if possible.
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+hevay snow [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Thursday. [location] corona [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] Corona [greeting] thank
+. [greeting] no snow [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[location] compton [greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose
+[location] compton [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+on Tuesday. [distance] 4 miles [traffic_info] heavy traffic [poi] Valero [greeting] thank Thanks. [distance] nearest [poi_type] grocery store
+t hev's going to the fastest route [distance] 4 miles [traffic_info] heavy traffic [poi_type] gas station [distance] fastest route [poi_type] gas station [address] 200 Alester Ave
+car collision [traffic_info] heavy traffic [address] 200 place [poi] stanford oval [greeting] thank [greeting] thank Thanks so much.
+or else's house is the same. [poi_type] home [poi] home [poi] home [traffic_info] avoid all heavy traffic OK, please give me the address and directions via a route that avoids all heavy traffic.
+anything else? [traffic_info] moderate traffic [distance] 4 miles [traffic_info] no traffic [poi_type] home [address] 5677 springer street [poi] home [distance] closest [poi_type] home [address] 5677 springer
+man [traffic_info] heavy traffic [poi_type] home [address] 56 cadwell street [poi] home [greeting] thank [poi_type] friends house [poi] friends house [greeting]
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+Thanks so much.
+and I sent the directions. [traffic_info] no traffic [address] 338 Alester Ave [poi] Midtown Shopping Center [greeting] thank [distance] nearest [poi_type] shopping mall [greeting]
+[location] cleveland [greeting] thank Thanks. [weather_attribute] snow [date] today [location] Cleveland [greeting] thank
+on Monday. [today] monday [location] cleveland [greeting] thank Thanks. [weather_attribute] snow [date] today [location] Cleveland [greeting] thank
+. [greeting] monday [greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] Cleveland [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+, but there is a road block nearby on the 8th: do you want me to go there? [traffic_info] road block nearby [distance] local [poi_type] coffee or tea place [poi] starbucks Yes please.
+well and you're just 4 miles away: I sent the whole route on your screen [distance] 4 miles [traffic_info] no traffic [poi] Starbucks [greeting] thank Okay, thank you car!
+[date] wednesday [party] doctor [party] false [event] doctor appointment [event] doctor appointment [greeting] thank [event] doctor appointment
+appointment [date] wednesday [date] the 5th [date] the 5th [party] doctor [party] HR [event] doctor appointment [greeting] thank Okay great, thank you.
+when is my doctor's appointment
+[location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] today and tomorrow [location] San Jose [greeting] thank
+on Monday? [today] monday [location] los angeles [greeting] thank Okay, thank you [weather_attribute] rain [date] today and tomorrow [location] Fresno
+tuesday [location] los angeles [tuesday] hot, low of 40F, high of 60F [sunday] raining, low of 40F, high of 60F [wednesday] raining, low of 40F, high of 60F [monday] hot, low of 40F, high of 60F
+[greeting] thank Thanks. [distance] nearest [poi_type] shopping mall [distance] fastest route [greeting] thank
+take me to the nearest shopping mall
+find me the nearest shopping mall
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [traffic_info] fastest route [poi] whole foods [greeting] thank
+directions to the nearest grocery store
+well. [traffic_info] road block nearby [address] 1313 Chester Ave [distance] nearest [poi_type] grocery store [distance] quickest route [greeting] thank
+[location] downtown chicago [greeting] thank Thanks. [weather_attribute] snow [date] next 7 days [location] Grand Rapids [greeting] thank
+on Tuesday? [today] monday [location] downtown chicago [greeting] thank Thanks. [weather_attribute] snow [date] next 7 days [location] Grand Rapids
+[today] monday [location] downtown chicago [greeting] thank Thanks. [weather_attribute] snow [date] next 7 days [location] Chicago [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+father [date] the 4th [date] the 4th [party] sister [event] tennis activity [greeting] thank Thanks. [event] tennis [greeting] thank
+if there will be drizzle today and tomorrow? [location] durham [greeting] thank Thank you. [weather_attribute] snow [date] today and tomorrow [location] Durham
+? [location] durham [greeting] thank Okay, thank you [weather_attribute] rain [date] today and tomorrow [location] Durham [greeting] thank
+man [location] durham [greeting] thank Thanks. [weather_attribute] snow [date] today and tomorrow [location] Grand Rapids [greeting] thank
+[location] mountain view [greeting] thank Thanks. [weather_attribute] snow [date] today and tomorrow [location] Grand Rapids [greeting] thank
+? [location] mountain view [greeting] thank Thank you. [weather_attribute] snow [date] today and tomorrow [location] Grand Rapids [greeting] thank
+view [location] mountain view [greeting] thank Thanks. [weather_attribute] snow [date] today and tomorrow [location] Grand Rapids [greeting] thank
+[location] brentwood [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Saturday. [location] brentwood [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+car collision [location] brentwood [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+What is the address?
+[greeting] thank Thank you. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+car collision [location] redwood city [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+[poi_type] home [poi] home [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[poi_type] home [poi] home [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+take me home
+. [greeting] monday [poi_type] friends house [greeting] thank [poi_type] friends house
+[location] compton [greeting] thank Thanks. [weather_attribute] rain [date] next 7 days [location] Compton [greeting] thank
+on Saturday. [location] compton [greeting] thank Okay, thank you [weather_attribute] temperature [date] next 7 days [location] Compton [greeting] thank
+tuesday [location] compton [today] monday [greeting] thank Okay, thank you [weather_attribute] temperature [date] next 7 days [location] Compton [greeting]
+[greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] Manhattan [greeting] thank
+man [location] mountain view [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+What time is my next tennis activity and who will be attending?
+[poi_type] hospital [greeting] thank Okay, thank you [distance] nearest [poi_type] hospital [distance] quickest [greeting] thank
+Is there a hospital near?
+well and the route set in the direction we're going now [traffic_info] heavy traffic [address] 214 El Camino Real [greeting] thank [greeting] thank Thanks so much.
+[greeting] thank Thanks. [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+[location] danville [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+[location] durham [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Durham [greeting] thank
+can you next week. [location] durham [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Durham [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Monday and Sunday. [today] monday [location] cleveland [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose
+[today] monday [location] cleveland [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+[location] new york [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[location] new york [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] snow [date] this week [location] Seattle [greeting] thank
+on Monday and on Sunday. [today] monday [location] seattle [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Seattle
+tuesday and the weather forecast for seattle [location] seattle [today] monday [greeting] thank Okay, thank you. [weather_attribute] snow [date] this week
+[greeting] thank Great, thanks. [distance] nearest [poi_type] chinese restaurant [distance] fastest [poi] mandarin roots [greeting] thank
+Okay great. How is the traffic there?
+and the whole day. [traffic_info] heavy traffic [date] sunday [date] monday [greeting] thank [distance] nearest [poi_type] chinese restaurant [distance] fastest [greeting] thank
+navigate to nearest chinese food place
+Is there an alternate mall with no traffic on the route?
+but I sent on your screen another route that should allow you to reach there in few minutes [distance] 5 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Chef Chu's [greeting] thank
+and I sent on your GPS. [traffic_info] no traffic [greeting] thank Okay great, thank you car! [weather_attribute] temperature [date] today [location] San Jose
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+? [location] compton [greeting] thank Yes, thank you car! [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+man [location] compton [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] next week [weather_attribute] temperature [date] next week [location] San Jose [greeting] thank
+find out if it will be humid on tuesday. [location] fresno [tuesday] foggy, low of 20F, high of 30F [sunday] clear skies, low of 20F, high of 30F [thursday] cloudy, low of 20F, high of 30F
+appointment [greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+what is the weather today and tomorrow
+[date] tuesday [date] the 19th [party] father [event] tennis match [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San
+tuesday [date] tuesday [time] 11am [date] monday [event] tennis match [greeting] thank Thanks. [weather_attribute] rain [date] next week
+tooth pulled out You are scheduled to have it set to your GPS. [greeting] thank Thanks. [weather_attribute] snow [date] this week
+on the 8th [time] 7pm [date] the 8th [date] the 19th [date] sunday [greeting] thank Okay, thank you [event] dentist appointment
+[location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] Los Angeles [greeting] thank
+on Monday. [today] monday [location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting]
+[location] no traffic [traffic_info] no traffic [greeting] thank [greeting] thank Okay thank you [weather_attribute] rain [date] next week [location] San
+[location] grand rapids [greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose
+[location] grand rapids [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+. [greeting] monday [greeting] thank Okay great. Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+OK, please direct me there via a route with no traffic.
+Okay, where is the traffic there?
+tai pan [traffic_info] no traffic [poi] Panda Express [distance] nearest [poi_type] place to eat [distance] closest place [poi_type] chinese restaurant [traffic_info] avoid all heavy traffic [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+this week. [location] inglewood [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+tuesday [today] monday [location] seattle [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[location] manhattan [greeting] thank Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+and low of 40F, high of 50F [location] manhattan [wednesday] foggy, low of 40F, high of 50F [monday] overcast, low of 40F, high of 50F [tuesday] overcast, low of 40F, high of 50F [friday] cloudy, low of
+tuesday's and the one on the 16th. [date] the 16th [date] the 16th [event] meeting [greeting] thank Thanks. [weather_attribute] rain
+man [greeting] thank [agenda] discuss the merger [event] meeting [greeting] thank Thanks. [event] meeting [greeting] thank
+if you want to know if it will be overcast today or tomorrow. [location] compton [greeting] thank Thanks. [weather_attribute] overcast or cloudy [date] today or tomorrow
+I would like to know if it will be humid in the next 7 days, thanks.
+man. [location] fresno [greeting] thank Okay thank you [weather_attribute] rain [date] today and tomorrow [location] Fresno [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+and he will be there tomorrow. [greeting] no problem [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting]
+[location] durham [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+week [location] durham [greeting] thank Thank you. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+inglewood [location] durham [greeting] thank [date] this week [date] this week [location] durham [greeting] thank
+tooth pulled out You are scheduled to have it set to your GPS. [greeting] thank Thanks. [weather_attribute] snow [date] this week
+What is the date and time for my dentist appointment?
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] next week [location] San Jose [greeting] thank
+is the fastest available. [distance] 2 miles [traffic_info] no traffic [address] 915 Arbol Dr [poi] Pizza Chicago [greeting] thank [distance] within 4 miles [poi_type] pizza restaurant
+Where can I get pizza?
+[traffic_info] no traffic [address] 5672 barringer street [poi] Starbucks [greeting] thank Thanks. [distance] nearest [poi_type] coffee shop
+find the nearest coffee shop
+well and let's go there. [traffic_info] heavy traffic [poi] tai pan [greeting] thank [greeting] thank Thank you car! [event] meeting
+well car. [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+set to go back home. [traffic_info] no traffic [poi_type] home [poi] home [greeting] thank Thanks. [distance] nearest
+more specifically noted that there is a car collision nearby, I will find it fasted the fastest way [traffic_info] car collision nearby [poi_type] home [poi] home [greeting] thank Thanks so much.
+Find my friend's current address please.
+car collision noted that there is a car collision nearby. [traffic_info] car collision nearby [poi_type] home [poi] home [greeting] thank [poi_type] friends house [poi] friends house
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+Set GPS for fastest route with no traffic.
+well. [traffic_info] no traffic [address] 436 Alger Dr [greeting] thank Thanks. [weather_attribute] temperature [date] today [location] San Francisco
+[location] carson [greeting] thank Thanks. [weather_attribute] cloudy [date] this week [location] San Jose [greeting] thank
+? [location] at any time this week [greeting] thank Okay, thank you [weather_attribute] overcast or cloudy [date] this week [location] San Mateo
+man [location] carson [greeting] thank Okay, thank you. [weather_attribute] overcast or cloudy [date] this week [location] Fresno [greeting] thank
+tiovay shopping center [greeting] thank Great, thank you [distance] nearest [poi_type] shopping mall [distance] fastest [greeting] thank
+heavy traffic info [traffic_info] moderate traffic [poi_type] shopping center [address] 338 Alester Ave [poi] opanga Mall [greeting] thank Yes, thank you. [distance] nearest
+find me the nearest shopping mall
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+on Saturday. [location] grand rapids [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+. [location] grand rapids [greeting] thank Okay, thank you [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+[location] exeter [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[location] exeter [greeting] thank Thanks. [weather_attribute] temperature [date] right now [location] San Francisco [greeting] thank
+manu set the GPS to go back in the direction we should be today [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [weather_attribute] temperature
+[location] redwood city [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+man [location] redwood city [greeting] thank Okay, thank you [weather_attribute] rain [date] this week [location] oakland [greeting] thank
+[location] compton [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+. [location] no traffic [greeting] thank Okay, thank you [weather_attribute] temperature [date] tomorrow [location] San Jose [greeting] thank
+. [greeting] monday [greeting] thank Okay great. Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+and no traffic block nearby. [greeting] thank [greeting] thank Okay great. Thanks. [weather_attribute] rain [date] next week [location] San Jose
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+on Sunday. [today] monday [location] compton [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] San Jose
+man, low of 90F, high of 100F ik pan, low of 90F, high of 100F ik pan, low of 90F, high of 100F ik pan, low of 90F, high of 100F ik pan, low of 90F, high of 100F ik pan, low of 90F, high of 100F ik pan,
+[party] doctor [party] false [party] doctor [greeting] thank Okay great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date]
+[location] seattle [greeting] thank Thanks. [weather_attribute] temperature [date] today and tomorrow [location] Seattle [greeting] thank
+? [location] seattle [greeting] thank Okay, thank you [weather_attribute] temperature [date] today and tomorrow [location] Seattle [greeting] thank
+tuesday [friday] misty, low of 60F, high of 70F [wednesday] overcast, low of 60F, high of 70F [monday] overcast, low of 60F, high of 70F [tuesday] overcast, low of 60F, high of 70F
+tai pan [greeting] thank Thanks. [distance] nearest [poi_type] parking garage [distance] fastest route [greeting] thank
+and I sent the directions on your screen. [distance] 1 mile [traffic_info] road block nearby [greeting] thank Okay, thank you [distance] nearest [poi_type]
+well. [poi] Palo Alto Garage R [greeting] thank [distance] within 2 miles [poi_type] parking garage [greeting] thank
+Please pick a route with no traffic and let's go there, thank you!
+more directions [traffic_info] road block nearby [poi] Starbucks [poi] Philz [greeting] thank Okay great, thank you car! [weather_attribute] temperature
+going to the nearest starbucks [poi] starbucks [traffic_info] no traffic [address] 792 Bedoin Street [poi] Starbucks [distance] nearest [poi_type] coffee shop [poi] starbucks [greeting] thank
+well. [greeting] monday [poi_type] coffee place [distance] quickest [poi] starbucks [greeting] thank
+[location] redwood city [weather_attribute] foggy [date] Tuesday [location] Redwood City [greeting] thank [weather_attribute]
+car collision [location] redwood city [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+and the vice president on the fastest route [traffic_info] fastest route [poi] town and country [address] 383 University Ave [poi] Town and Country [greeting] thank Thanks.
+? [traffic_info] no traffic [address] 113 different traffic [address] 113 different traffic [poi] Town and Country [greeting] thank [distance] nearest [poi_type] mall [greeting] thank
+well and the other day it's hot. [location] manhattan [greeting] thank Ok thanks. [weather_attribute] snow [date] this week [location] Grand Rapids
+[greeting] thank Great, thank you [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+take me to the nearest chinese restaurant
+What time is my doctor's appointment and who is attending?
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+but there is another one that's a little farther and there is a little longer. [distance] 7 miles [traffic_info] moderate traffic [poi_type] gas station [address] 783 Arcadia Pl [poi] Valero [distance] fastest [poi] chev
+but I sent another one on the 1848. [distance] 7 miles [traffic_info] moderate traffic [address] 200 Alester Ave [poi] Valero [greeting] thank [distance] nearest [poi_type]
+well and let's go there. [distance] 7 miles [traffic_info] moderate traffic [address] 200 Alester Ave [poi] Valero [greeting] thank [greeting] thank Thanks so much.
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+what is the agenda of the meeting
+[today] monday [party] infrastructure team [party] boss [party] infrastructure team [greeting] thank [event] meeting [greeting] thank
+Where is the closest parking garage?
+Where is the closest parking garage?
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+tuesday [party] false [date] monday [event] meeting [greeting] thank Okay thank you [event] meeting [greeting] thank
+hevay snow [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Tuesday. [location] manhattan [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+. [greeting] thank Okay great. Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank Okay, thank you [distance] nearest [poi_type] shopping mall [distance] fastest [greeting] thank
+tai pan [greeting] thank [distance] 3 miles [poi] tai pan [distance] nearest [poi_type] shopping mall give me directions to the nearest shopping mall
+find me the nearest shopping mall
+great. [greeting] monday [greeting] thank [distance] nearest [poi_type] mall [distance] fastest [greeting] thank
+. [greeting] monday [greeting] monday [greeting] thank Okay, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great
+[greeting] thank Thanks. [distance] nearest [poi_type] hotel [distance] nearest [traffic_info] quick route [poi_type] rest stop [poi] the clement hotel [greeting]
+Okay, where is it located?
+well. [traffic_info] moderate traffic [address] 329 El Camino Real [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route [poi_type] coffee or tea place [poi] starbucks
+[greeting] thank Great, thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+other people on Sunday. [party] sister [party] tuesday [date] sunday [event] dinner [greeting] thank Thanks. [event] doctor's appointment [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+manhattan [location] san francisco [greeting] thank Thanks. [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+on Wednesday. [date] wednesday [date] the 8th [date] wednesday [event] lab appointment [greeting] thank Thanks. [event] lab appointment [greeting] thank
+[location] san francisco [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Francisco [greeting] thank
+on 8th. [location] atmonday [greeting] thank Okay, thank you [weather_attribute] rain [date] next 7 days [location] San Francisco [greeting] thank
+man it is not going to rain in San Francisco this week. [location] san francisco [greeting] thank Okay great. Thanks. [weather_attribute] rain [date] next week
+? [location] seattle [greeting] thank Thanks. [weather_attribute] snow [date] today and tomorrow [location] Seattle [greeting] thank
+? [location] seattle [greeting] thank Okay, thank you [weather_attribute] snow [date] today and tomorrow [location] Seattle [greeting] thank
+manhattan [location] manhattan [monday] foggy, low of 70F, high of 90F [sunday] clear skies, low of 70F, high of 90F [tuesday] raining, low of 70F, high of 90F [date] today and tomorrow
+[location] compton [greeting] thank Thanks. [weather_attribute] temperature [date] next 7 days [location] San Jose [greeting] thank
+on Tuesday. [location] compton [greeting] thank Thanks. [weather_attribute] temperature [date] next 7 days [location] San Jose [greeting] thank
+car collision [location] compton [greeting] thank Okay great, thank you [weather_attribute] temperature [date] next 7 days [location] Fresno [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+and he's not feeling well so i should be there soon. [greeting] no problem [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San
+[greeting] thank Great, thanks [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] today [location] Grand Rapids [greeting] thank
+[greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] Grand Rapids [greeting] thank
+. [location] chicago [friday] hot set, low of 70F, high of 80F [tuesday] raining, low of 70F, high of 80F [sunday] raining, low of 70F, high of 80F [wednesday] raining, low of 70F, high of 80F
+[location] alhambra [date] Thursday [location] Alhambra [greeting] thank [date] Thursday
+manhattan [location] alhambra [wednesday] foggy, low of 20F, high of 30F [monday] overcast, low of 20F, high of 30F [tuesday] raining, low of 20F, high of 30F [sunday] foggy, low of 20F, high of 30
+tooth pulled out [date] thursday [event] dentist appointment [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[location] durham [weather_attribute] blizzard [date] next week [location] Durham [greeting] thank [weather_attribute] blizzard
+[location] durham [greeting] thank Okay, thank you [weather_attribute] snow [date] next week [location] Durham [greeting] thank
+car collision [location] durham [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+car collision. [location] durham [date] today [weather_attribute] frost [date] today [location] Durham [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] New York [greeting] thank
+on Friday. [location] new york [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Manhattan [greeting] thank
+man on Friday. [location] new york [friday] dry, low of 30F, high of 50F [monday] overcast, low of 30F, high of 50F [friday] dry, low of 30F, high of 50F [wednesday] overcast, low of 30F, high of 50
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+and he is calling for a car collision today. [traffic_info] car collision nearby [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location]
+Where is the closest hospital?
+Is there a place I can go to the hospital?
+Where is the closest hospital?
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+on Sunday. [date] sunday [date] monday [party] brother [event] football activity [greeting] thank Thanks. [weather_attribute] rain [date] next week
+Please pick a route with no traffic and let's go there, thank you!
+Yes, thank you car assistant
+well. [traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway [greeting] thank [greeting] thank Thanks. [weather_attribute]
+and the op alvay 4 miles away. [distance] 4 miles [traffic_info] moderate traffic [poi_type] grocery store [poi] whole foods [greeting] thank [greeting] thank [distance] nearest
+directions to the nearest grocery store
+man [greeting] thank [poi_type] grocery store [greeting] thank [distance] nearest [poi_type] grocery store [traffic_info] no traffic [poi] sigona farmers market
+[location] manhattan [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+manhattan. [greeting] monday [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+supposed to be cloudy on Thursday. [location] compton [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Saturday. [location] boston [greeting] thank Thanks. [weather_attribute] rain [date] this week [location] San Jose [greeting] thank
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+[location] new york [weather_attribute] temperature [date] current [weather_attribute] temperature [date] current [location] New York [greeting] thank
+[location] new york [greeting] thank Thanks. [weather_attribute] temperature [date] today [location] Manhattan [greeting] thank
+alve is low of 50F, high of 70F [location] new york [wednesday] cloudy, low of 50F, high of 70F [monday] overcast, low of 50F, high of 70F [friday] overcast, low of 50F, high of 70F [tuesday] raining,
+[location] manhattan [greeting] thank Thank you. [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+manhattan [greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+manhattan uesday [location] manhattan [friday] dry, low of 20F, high of 100F [wednesday] overcast, low of 20F, high of 100F [monday] overcast, low of 20F, high of 100F [tuesday] raining, low of 20F, high of 100F
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+on Monday. [date] monday [party] boss [party] sales team [event] conference [greeting] thank Thanks. [event] meeting [greeting] thank
+man [greeting] thank [party] boss [event] conference [greeting] thank Okay great, thank you [event] meeting [greeting] thank
+what is the agenda of the conference
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+anything else else? [traffic_info] no traffic [address] 864 Almanor Ln [greeting] thank That's ok, thank you car! [event] doctor's appointment
+[greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+or not. [poi] Starbucks [poi] Philz [distance] nearest [poi] starbucks [greeting] thank Okay, thank you [distance] nearest
+tuesday [traffic_info] no traffic [greeting] thank Ok thanks. [distance] nearest [poi_type] coffee shop [distance] fastest route [greeting] thank
+take me to the nearest starbucks
+[greeting] thank Thanks. [distance] nearest [poi_type] parking garage [distance] nearest [traffic_info] fastest route [poi_type] parking garage [poi] Palo Alto Garage R
+[poi] palo alto garage r [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose
+ingoing. [traffic_info] heavy traffic [address] 481 Ames ct [greeting] thank [greeting] thank Thanks so much. [weather_attribute] rain
+What time is my appointment and who is attending?
+[location] fresno [greeting] thank Thanks. [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+car, will it be cloudy on wednesday. [location] fresno [greeting] thank Okay great. Thanks. [weather_attribute] snow [date] next week [location] San Jose
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+[traffic_info] car collision nearby [poi] whole foods [poi] whole foods [greeting] thank Okay, thank you [distance] nearest [poi_type] grocery store [distance] fastest route
+view. [traffic_info] car collision nearby [greeting] thank Okay great, thank you [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+[greeting] thank Great, thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+on 8th or the one on the 15th. [date] the 15th [date] the 15th [date] the 15th [party] Jon [event] dinner [greeting] thank Thanks.
+hevay [location] san mateo [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Mateo [greeting] thank
+on Monday. [today] monday [location] san mateo [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Mateo
+man it will not snow this week. [location] san mateo [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Mateo
+[location] alameda [greeting] thank Thanks. [weather_attribute] temperature [date] current [location] San Francisco [greeting] thank
+[greeting] thank Yes, thank you [weather_attribute] temperature [date] current [date] current [location] Alameda [greeting] thank
+manhattan [location] manhattan [wednesday] overcast, low of 60F, high of 80F [monday] overcast, low of 60F, high of 80F [tuesday] overcast, low of 60F, high of 80F [wednesday] overcast, low of 60F, high of 80F
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+man on Friday. [location] san francisco [friday] foggy, low of 80F, high of 90F [sunday] clear skies, low of 80F, high of 90F [monday] clear skies, low of 80F, high of 90F [tuesday] clear skies, low of 80F,
+[poi] the clement hotel [greeting] thank [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting]
+Is there a place that serves chinese?
+well. [traffic_info] moderate traffic [greeting] thank Okay, thank you car! [event] meeting
+[location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] today and tomorrow [location] San Jose [greeting] thank
+? [location] los angeles [greeting] thank Okay, thank you [weather_attribute] rain [date] today and tomorrow [location] Fresno [greeting] thank
+man on Monday. [today] monday [location] los angeles [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] today and tomorrow
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+on Saturday. [location] seattle [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+car. [monday] overcast, low of 20F, high of 30F [tuesday] overcast, low of 20F, high of 30F [wednesday] raining, low of 20F, high of 30F [sunday] overcast, low of 20F, high of 30F
+hevay snow on tuesday and hope to not snow any day this week [location] alameda [greeting] thank Okay, thank you [weather_attribute] snow [date] this week
+[greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+car collision on Saturday in alameda [location] alameda [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting]
+[greeting] thank Thanks. [distance] nearest [poi_type] coffee shop [distance] fastest route [greeting] thank
+. [distance] 2 miles [address] 9981 Archuleta Ave [poi] Peets Coffee [greeting] thank Thanks. [weather_attribute] temperature [date] this week
+and tai pan [distance] closest [poi_type] place to get a cup of hot tea [distance] closest place [poi_type] tea [poi] Philz [traffic_info] avoid all heavy traffic [greeting] thank
+well, but the way is set. [greeting] monday [distance] closest [poi_type] coffee shop [distance] closest [poi_type] coffee shop [poi] Starbucks [greeting] thank
+[greeting] thank [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+well. [traffic_info] no traffic [address] 329 El Camino Real [poi] The Westin [distance] nearest [poi_type] coffee shop [distance] fastest route [greeting] thank
+well. [greeting] thank [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+on Saturday. [party] Jon [party] Jeff [event] tennis activity [date] Saturday [date] sunday [greeting] thank Thanks. [weather_attribute] rain [date] next
+set the time on Saturday. [time] 1pm [time] 1pm [date] saturday [date] sunday [party] Jeff [event] tennis activity [greeting] thank [event] tennis [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+on Friday. [location] inglewood [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Inglewood [greeting] thank
+. Tell me if it will be foggy on Friday. [location] compton [greeting] thank Okay thank you [weather_attribute] rain [date] next week [location] San Jose
+[greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+and he will be there on Sunday. [today] monday [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+but I sent the agenda on your screen. [agenda] discuss the merger [agenda] clear agenda [time] 3pm [date] the 3rd [event] meeting [greeting] thank Thanks.
+what time is my meeting
+[location] inglewood [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Inglewood [greeting] thank
+car collision nearby [location] inglewood [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] temperature [date] current [date] current [location] San Francisco [greeting] thank
+tuesday [time] 4pm [time] 4pm [date] wednesday [date] the 5th [date] the 5th [date] the 5th [event] swimming activity [greeting] thank Okay, thank you.
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Ok thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+and I sent on your screen another route. [traffic_info] heavy traffic [greeting] thank Ok thanks. [distance] nearest [poi_type] grocery store [distance] fastest route
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+and the executive team [distance] 3 miles [distance] 3 miles [poi] The Westin [party] Jon [event] optometrist appointment [greeting] thank Yes thank you.
+tuesday [traffic_info] no traffic [distance] nearest [poi_type] hotel [distance] nearest [traffic_info] traffic status [poi_type] rest stop [address] 329 El Camino Real [poi] The Westin [greeting]
+and you should be able to reach fast anyway [greeting] monday [distance] nearest [poi_type] hotel [distance] nearest [traffic_info] fastest route [poi_type] rest stop [poi] the westin [greeting] thank
+[poi] home [poi_type] home [poi] home [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids
+[traffic_info] heavy traffic [distance] 1 miles [poi_type] home [poi] home [greeting] thank Ok thanks. [distance] nearest
+[greeting] monday [greeting] thank Thanks for all your help. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] Manhattan
+[location] grand rapids [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+on Monday. [today] monday [location] grand rapids [greeting] thank Okay, thank you [weather_attribute] cloudy [date] next week [location] Grand Rapids
+car. [location] grand rapids [greeting] thank Okay great. Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+What is the address?
+Is that the quickest route?
+and the road block is the same. [distance] 2 miles [traffic_info] moderate traffic [distance] nearby [poi_type] parking garage [poi] dish parking [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] monday [party] Tom [party] aunt [event] doctor appointment [greeting] thank Okay great, thank you [event] doctor's appointment [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank Great, thank you [distance] nearest [poi_type] coffee shop [distance] quickest [poi] starbucks [greeting] thank
+tio [distance] 5 miles [traffic_info] no traffic [poi] Cafe Venetia [greeting] thank Ok thanks for the help. [date] today
+and I sent the directions on your screen. [traffic_info] moderate traffic [poi] Teavana [greeting] thank Ok thanks for the help. [event] meeting
+. [greeting] monday [poi_type] tea [distance] quickest [poi] teavana [greeting] thank
+anything else? [address] 145 Amherst St [poi] Teavana [greeting] thank [greeting] thank Okay, thank you car! [event] meeting
+[location] alhambra [weather_attribute] blizzard [date] Tuesday [location] Alhambra [greeting] thank [weather_attribute]
+[location] alhambra [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+[location] exeter [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+[location] exeter [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] coffee shop [distance] quickest route [greeting] thank
+other day [poi] Starbucks [greeting] thank Yes please. Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+anything else? [distance] 6 miles [traffic_info] moderate traffic [address] 394 Van Ness Ave [poi] Coupa [greeting] thank [distance] nearest [poi_type] coffee shop [distance] quickest
+[greeting] thank Thank you. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[location] cleveland [greeting] thank Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] thank Okay, thank you [distance] nearest [poi_type] shopping mall [distance] fastest route [greeting] thank
+Okay, where is it located?
+and he will not be there anytime soon. [poi_type] shopping center [poi] stanford shopping center [greeting] thank [greeting] thank Okay great, thank you.
+well. [greeting] monday [distance] nearest [poi_type] shopping mall [distance] fastest route [greeting] thank
+What time is my optometrist appointment and who is attending?
+What time is my optometrist appointment and who is attending?
+or tea place [poi] philz [poi] coupa [greeting] thank [distance] nearest [poi_type] coffee or tea place [poi] starbucks [greeting] thank Please pick the nearest starbucks
+or tea place [distance] 5 miles [traffic_info] no traffic [address] 583 Alester Ave [poi] Philz [greeting] thank Thanks. [distance] nearest
+well, let's go there. [traffic_info] no traffic [poi] Philz [greeting] thank [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] New York [greeting] thank
+tuesday [today] monday [location] new york [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] New York [greeting] thank
+Which is the quickest route to a pizza place around me?
+is the quickest one that's just 2 miles away. [distance] 2 miles [traffic_info] no traffic [poi] Pizza My Heart [greeting] thank Okay great, thank you car!
+[greeting] thank Great, thanks. [distance] nearest [poi_type] chinese restaurant [distance] fastest [poi] mandarin roots [greeting] thank
+Find me a chinese restaurant around here.
+. [poi] tai pan [poi] tai pan [greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature
+well. [poi] tai pan [greeting] thank [greeting] thank Okay great, thanks. [weather_attribute] rain [date] next week [location] San Jose
+[traffic_info] no traffic [address] 578 Arbol Dr [poi] The Westin [greeting] thank Thanks. [distance] nearest [poi_type] hotel
+well. [traffic_info] car collision nearby [distance] 3 miles [poi_type] rest stop [address] 578 Arbol Dr [poi] Four Seasons [greeting] thank [distance] nearest [poi_type] rest stop [distance] quickest
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+well and the rest stop [distance] 3 miles [traffic_info] quick route [poi_type] rest stop [poi] the westin [greeting] thank [greeting] thank Thank you car!
+anything else you need to do? [greeting] monday [distance] nearby [poi_type] hotel [distance] quickest [poi] hotel keen [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next 7 days [location] San Jose [greeting] thank
+on Saturday. [location] manhattan [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+manhattan [location] manhattan [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+[greeting] thank Great, thank you [distance] nearest [poi_type] chinese restaurant [distance] nearest [traffic_info] no traffic [poi_type] chinese restaurant [poi] tai pan
+the fact that is the only pizza place I can find [poi_type] pizza restaurant [traffic_info] no traffic [address] 113 Anton Ct [poi] Round Table [distance] nearest [poi_type] pizza restaurant [distance] nearest [traffic_info]
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[location] los angeles [greeting] thank [greeting] thank Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+[greeting] thank Great, thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[traffic_info] heavy traffic [poi_type] hospital [address] 899 Ames Ct [poi] Stanford Express Care [traffic_info] avoid all heavy traffic OK, please direct me there via a route that avoids all heavy traffic
+anything else around me [distance] 4 miles [traffic_info] no traffic [address] 611 Ames Ave [poi] Stanford Oval [greeting] thank [greeting] thank Thanks so much.
+[date] monday [event] lab appointment [greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location]
+tio [greeting] thank [date] the 5th [party] aunt [event] lab appointment [greeting] thank Thanks. [event] lab appointment [greeting] thank
+well. [party] sister [party] HR [event] lab appointment [date] the 5th [greeting] thank [event] lab appointment [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+Okay, where is it located?
+[poi] Valero [greeting] thank Ok thanks for the information. [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+well. [greeting] thank [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] Manhattan
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Cleveland [greeting] thank
+and on Thursday. [today] monday [location] cleveland [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Cleveland [greeting] thank
+[poi_type] home [poi] home [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank [traffic_info] heavy traffic [poi_type] home [poi] home [greeting] thank Thanks so much. [weather_attribute] temperature
+take me to my friends house
+[location] hot [location] boston [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+tuesday [location] seattle [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+manhattan [location] manhattan [greeting] thank Okay great. Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+find me a nearby shopping mall shopping center
+t hevaytaytaytaytaytaytay [greeting] thank [distance] nearby [poi_type] shopping mall find me a nearby shopping mall shopping center
+well. [distance] 4 miles [traffic_info] no traffic [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center [greeting] thank [distance] nearby [poi_type]
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[greeting] thank Okay, thank you. [event] conference [greeting] thank [event] conference
+anything else? [time] 2pm [time] conference [date] sunday [date] the 6th [date] the 12th [event] conference [greeting] thank Okay, thank you.
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+[location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[distance] 2 miles [poi_type] rest stop [address] 753 University Ave [poi] The Clement Hotel [greeting] thank Thanks. [distance] nearest
+on 830F on 830F [poi] Travelers Lodge [distance] within 2 miles [poi_type] rest stop [poi] travelers lodge [greeting] thank Thank you car!
+Ok thanks. Set the GPS for there please.
+[greeting] thank [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+tooth pulled out You are scheduled to have it set to your GPS. [greeting] thank Thanks. [weather_attribute] snow [date] this week
+what is the weather like today and tomorrow
+[greeting] thank Great, thank you [weather_attribute] temperature [date] current [weather_attribute] temperature [date] current [location] Exeter [greeting] thank
+tuesday [date] monday [date] the 17th [date] the 17th [date] sunday [date] monday [party] Martha [party] Alex [event] yoga [greeting] thank Thanks.
+[location] fresno [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+on Saturday. [location] astv [greeting] thank Okay, thank you [weather_attribute] cloudy [date] today [location] San Jose [greeting] thank
+car collision. [greeting] no clouds [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+tai pan [greeting] thank Great, thank you [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+is the nearest one that is 3 miles away. [poi] Philz [poi] Starbucks [distance] nearest [traffic_info] fastest [poi] starbucks Yes, please give me an address and directions via the fastest available route.
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+and the other day is up in no traffic. [traffic_info] no traffic [time] 4 miles [date] sunday [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route [poi_type] coffee shop
+take me to the nearest starbucks
+and I Philz [distance] 3 miles [poi] Philz [poi] Starbucks [distance] quickest [poi] starbucks [greeting] thank Then let's go there, thank you car!
+and the other directions astagram the same day [traffic_info] no traffic [address] 269 Alger Dr [greeting] thank [greeting] thank Ok thanks for the help.
+anything else I can do this week. [greeting] monday [distance] nearest [poi_type] coffee shop [distance] quickest [poi] starbucks [greeting] thank
+[location] corona [greeting] thank Thanks. [weather_attribute] snow [date] today [location] Manhattan [greeting] thank
+. [location] corona [greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] Manhattan [greeting] thank
+manhattan. [location] corona [monday] overcast, low of 70F, high of 90F [tuesday] snow, low of 70F, high of 90F [sunday] clear skies, low of 70F, high of 90F [date] today and
+Give me the address.
+Pick the fastest one please
+car collision. [greeting] thank [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+tai pan [greeting] thank Great, thank you [distance] nearest [poi_type] chinese restaurant [distance] nearest [traffic_info] fastest route [poi_type] chinese restaurant [poi] p
+tai pan [greeting] thank Ok thanks. [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+and you thursday [greeting] p.f. changs [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] next week [location]
+well. [traffic_info] heavy traffic [address] 669 El Camino Real [distance] local area [poi_type] chinese restaurant [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] today [location] San Jose [greeting] thank
+[location] rain [greeting] thank Okay, thank you [weather_attribute] rain [date] today [location] San Francisco [greeting] thank
+false, no rain [location] oakland [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] today [location] San Francisco [greeting]
+OK, please give me the address and directions via the shortest distance.
+Okay, where is it located?
+Ok well let's go there then.
+well. [distance] 783 Arcadia Pl [greeting] thank [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date]
+well. [greeting] monday [greeting] thank [poi_type] gas station [distance] quickest [poi] shell [greeting] thank
+tai pan [greeting] thank Great, thanks. [distance] nearest [poi_type] chinese restaurant [distance] fastest [poi] chef chu's [greeting] thank
+tai pan [greeting] thank [distance] 3 miles [poi] Mandarin Roots [poi_type] chinese restaurant [distance] fastest [poi] mandarin roots [greeting] thank Please pick the fastest route and let
+but tai pan [greeting] thank [poi] tai pan [greeting] thank Great, thank you [weather_attribute] snow [date] this week [location] Grand Rapids
+tuesday [time] 593] [date] tuesday [date] sunday [date] monday [location] atherton [greeting] thank [distance] nearby [poi_type] chinese restaurant [distance] fastest
+3 miles away. [distance] 3 miles [traffic_info] moderate traffic [distance] nearby [poi_type] chinese restaurants [poi_type] chinese restaurants [distance] fastest [poi] chef chu's [greeting] thank
+[poi_type] hospital [poi] stanford express care [greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature
+well. [traffic_info] car collision nearby [poi_type] hospital [address] 753 University Ave [poi] Stanford Express Care [greeting] thank Thanks so much.
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+but I sent the fastest route [distance] 4 miles [poi] Cafe Venetia [greeting] thank Ok thanks for the help. [weather_attribute] temperature [date] today
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[greeting] thank [room] conference room 102 [event] meeting [greeting] thank Thanks. [event] meeting [greeting] thank
+I need to know when my next meeting is and what is the agenda.
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Francisco [greeting] thank
+. [location] san francisco [friday] snow, low of 20F, high of 30F [wednesday] snow, low of 20F, high of 30F [monday] foggy, low of 20F, high of 30F [greeting] thank
+What time is my doctor appointment and who is attending?
+on 8 day [party] Tom [party] father [date] the 9th [date] the 8th [date] the 8th [event] doctor appointment [greeting] thank Okay, thank you.
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+and your father is attending your next activity. [party] Jon [party] father [event] tennis activity [date] 11 am [date] the 16th [greeting] thank Thanks.
+[location] san jose [greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose
+on Thursday. [location] san jose [greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+sunday [location] san jose [today] monday [greeting] thank [date] this week [date] this week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Mateo [greeting] thank
+man [location] san mateo [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Mateo [greeting] thank
+[location] los angeles [greeting] thank Thank you. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+on the one on Saturday. [location] manhattan [date] saturday [greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [location] San Jose
+what's the weather going to be like this week
+What is the date, time, and agenda of my next conference?
+[location] carson [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+on Saturday. [location] compton [greeting] thank Thanks. [weather_attribute] rain [date] this week [location] San Jose [greeting] thank
+car collision. [greeting] monday [greeting] thank Thanks. [weather_attribute] rain [date] this week [location] San Jose [greeting] thank
+tuesday and a chance of drizzle on Sunday. [location] atherton [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose
+tuesday [location] atherton [greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Jose [greeting] thank
+Pick the one with the shortest distance please
+Set GPS for a route with no traffic please.
+well. [greeting] [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] Manhattan
+jacks house [greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+[distance] 864 Almanor Ln [poi] jacks house [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose
+[greeting] jacks house [greeting] thank Okay, thank you car! [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+well, anything else?! [greeting] thank [greeting] thank Okay, thank you car! [event] swimming activity [greeting] thank
+What time is my optometrist appointment and who is attending?
+on sunday [time] 4pm [time] 5pm [date] sunday [date] the 12th [date] the 4th [date] the 5th [event] optometrist appointment [greeting] thank Thanks.
+[traffic_info] no traffic [poi_type] shopping center [address] 338 Alester Ave [poi] Ravenswood Shopping Center [greeting] thank Thank you car! [distance] nearest
+[traffic_info] no traffic [poi_type] shopping center [poi] Stanford Shopping Center [distance] fastest [poi] stanford shopping center [greeting] thank Yes, please set the GPS and let's go there
+great, great, great, thank you. [poi_type] shopping center [poi] Ravenswood Shopping Center [greeting] thank [distance] fastest route [greeting] thank Thank you car!
+the way said. [poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [greeting] thank [distance] quickest [poi_type] shopping center [greeting] thank
+[greeting] thank Okay, thank you [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+within 3 miles (2 miles) [traffic_info] heavy traffic [poi_type] grocery store [address] 819 Almanor Ln [poi] sigona farmers market [greeting] thank [distance] within 3 miles
+and you car assistant. [traffic_info] heavy traffic [greeting] thank [greeting] thank Okay great, thank you car assistant. [event] meeting [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] Redwood City [greeting] thank
+on Saturday. [location] saturday [greeting] thank Okay, thank you [weather_attribute] rain [date] next week [location] Redwood City [greeting] thank
+what's the weather like today and tomorrow
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+would you like me to set the GPS to go there? [traffic_info] no traffic [poi_type] hospital [address] 214 El Camino Real [poi] Stanford Express Care [distance] nearby [traffic_info] fastest route [poi_type] hospital
+Thanks so much.
+anything else that is nearby [traffic_info] heavy traffic [poi_type] hospital [poi] Stanford Express Care [distance] nearby [poi_type] hospital [traffic_info] heavy [poi_type] hospital [poi] stanford express care
+anything else i could do? [traffic_info] no traffic [address] 214 El Camino Real [poi] Stanford Childrens Health [greeting] thank [greeting] thank [distance] nearby [poi_type] hospital
+anything else i could do for the weekend. [greeting] monday [distance] nearby [poi_type] hospital [poi] stanford childrens health [greeting] thank
+[greeting] thank Great, thank you [distance] nearest [poi_type] coffee shop [distance] within 4 miles [traffic_info] quickest route [poi_type] coffee or tea place [poi] starbucks
+find me a place within 4 miles
+car collision nearby [traffic_info] road block nearby [distance] within 4 miles [poi_type] coffee shop [distance] within 4 miles [poi_type] coffee shop [poi] Starbucks [greeting] thank
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+tiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftiofftio
+well sent the whole day. [greeting] monday [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids [greeting] thank
+well. [address] 329 El Camino's [greeting] thank [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+What is the address?
+fasted. [traffic_info] no traffic [poi_type] grocery store [address] 452 Arcadia Pl [poi] Safeway [greeting] thank Thanks.
+well and the way through the whole week [greeting] monday [greeting] thank Thanks. [weather_attribute] snow [date] this week [location] Grand Rapids
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+[location] fresno [greeting] thank Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+on Monday and on Sunday. [today] monday [location] fresno [greeting] thank Okay, thank you [weather_attribute] temperature [date] this week [location] San Jose
+man on Friday. [location] fresno [friday] misty, low of 60F, high of 100F [wednesday] overcast, low of 60F, high of 100F [monday] overcast, low of 60F, high of 100F [tuesday] overcast, low of 60F, high of
+if you want to know if it will be hot today or tomorrow. [location] seattle [greeting] thank [date] today and tomorrow [weather_attribute] hot [date] today and tomorrow [location] Seattle [greeting] thank
+? [location] seattle [greeting] thank Okay, thank you [weather_attribute] temperature [date] today and tomorrow [location] San Francisco [greeting] thank
+. [location] seattle [greeting] thank Okay great. Thanks. [weather_attribute] snow [date] today and tomorrow [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+or tea place [greeting] thank Okay, thank you [distance] nearest [poi_type] coffee or tea place [poi] starbucks [greeting] thank
+well and let's go! [traffic_info] heavy traffic [address] 394 Van Ness Ave [poi] Coupa [greeting] thank [greeting] thank Thanks so much.
+next few days [location] durham [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] San Jose [greeting] thank
+tuesday [location] redwood city [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+car collision [location] redwood city [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+[greeting] thank Thank you. [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+man on Monday. [today] monday [location] fresno [greeting] thank Thanks. [weather_attribute] temperature [date] this week [location] San Jose [greeting]
+[traffic_info] no traffic [greeting] thank Please pick a route with no traffic and let's go there, thank you! [distance] nearest [poi_type] shopping mall [traffic_info] no traffic
+[traffic_info] no traffic [poi_type] shopping center [greeting] thank Yes, please set directions via a route with no traffic. Thank you. [distance] nearest [poi_type] mall
+tiovay traffic set the GPS to go back in the beginning of the day [traffic_info] heavy traffic [distance] 2 miles [poi_type] shopping center [address] 338 Alester Ave [poi] opanga Mall [greeting] thank Okay, thank
+I need to find a shopping center.
+[greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+Is there a way around the traffic?
+well. [greeting] thank [greeting] thank Okay, thank you car! [event] meeting
+[traffic_info] no traffic [poi_type] tea or tea place [address] 864 Almanor Ln [poi] starbucks [traffic_info] no traffic [poi] starbucks [greeting] thank
+but there is a car collision nearby on the 8th if you prefer. [traffic_info] car collision nearby [distance] 4 miles [address] 269 Alger Dr [poi] Cafe Venetia [distance] quickest way [poi] philz [greeting] thank
+view. [traffic_info] no traffic [traffic_info] no traffic [address] 269 Alger Dr [poi] Cafe Venetia [greeting] thank [distance] nearest [poi_type] coffee shop [distance]
+[time] 10 am [date] wednesday [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+false tuesday [time] 10am [time] 4pm [date] wednesday [date] wednesday [date] the 8th [event] football game [greeting] thank Thanks.
+[location] durham [weather_attribute] temperature [date] today [location] Durham [greeting] thank [weather_attribute] temperature [date]
+on Thursday. [location] compton [greeting] thank Okay, thank you [weather_attribute] temperature [date] next week [location] Durham [greeting] thank
+man [location] durham [greeting] thank Thanks. [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+Set GPS for a route with no traffic if possible.
+car [traffic_info] quick route [poi_type] home [poi] home [greeting] thank Thanks so much. [weather_attribute] snow [date] this week
+[poi] Pizza Chicago [distance] nearest [poi_type] fast food restaurant [distance] nearest [traffic_info] shortest distance [poi_type] fast food restaurant [poi] Pizza Chicago [greeting] thank
+[distance] 2 miles [poi] Pizza Chicago [distance] nearest [poi_type] fast food restaurant [distance] shortest possible distance [poi_type] pizza restaurant [poi] pizza chicago [greeting] thank
+no traffic noted. [greeting] thank [greeting] thank Okay, thanks. Set the GPS for there please. [distance] nearest [poi_type] grocery store [distance] shortest
+find the nearest shopping mall on the map
+[greeting] thank [distance] nearest [poi_type] shopping mall [greeting] thank [distance] nearest [poi_type] shopping
+and your brother. [distance] 4 miles [traffic_info] no traffic [address] 434 Arastradero Rd [distance] nearest [poi_type] shopping mall [distance] nearest [traffic_info] fastest route [poi_type] shopping center
+Is it within 3 miles of my location?
+[distance] 4 miles [poi] Whole Foods [greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+well noted that the items on the way noted. [traffic_info] no traffic [poi] whole foods [greeting] thank [greeting] thank Okay, thank you
+[greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+Ok, find me the nearest one.
+well. [address] 792 Bedoin Street [poi] Starbucks [greeting] thank [poi_type] coffee place [poi] starbucks [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Francisco [greeting] thank
+which is 3 miles away but there is a car collision nearby [traffic_info] car collision nearby [traffic_info] car collision nearby [poi] Starbucks [poi] Coupa [distance] quickest Ok let's go there then.
+but I sent on your screen another route on your screen, it shouldn't take too long to reach there [traffic_info] moderate traffic [greeting] thank Okay, thank you car!
+anything else I can find out if the traffic is the fastest route [traffic_info] no traffic [address] 394 Van Ness Ave [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route [poi_type] coffee shop
+great, that's fine. [traffic_info] no traffic [poi] palo alto cafe [greeting] thank [greeting] thank [distance] nearest [poi_type] coffee shop [distance] nearest
+[greeting] thank Great, thank you [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] no traffic [poi_type] coffee shop [poi] Starbucks [greeting]
+or the one that is 3 miles away. [traffic_info] no traffic [traffic_info] car collision nearby [traffic_info] car collision nearby [poi] Starbucks [poi] Cafe Venetia [distance] nearest (2 miles away)
+view [traffic_info] no traffic [poi] Cafe Venetia [greeting] thank [greeting] thank Okay, thank you car! [event] meeting
+[today] monday [location] manhattan [greeting] thank [weather_attribute] cloudy [date] next week [location] Manhattan [greeting] thank
+on Monday? [today] monday [location] compton [greeting] thank Okay, thank you [weather_attribute] cloudy [date] next week [location] San Jose
+on Monday and low of 30F, high of 40F [today] monday [location] compton [greeting] thank Okay, thank you. [weather_attribute] rain [date] next
+[location] atherton [greeting] thank Thanks. [weather_attribute] temperature [date] tomorrow [location] Brentwood [greeting] thank
+on Tuesday. [today] monday [location] atherton [greeting] thank Okay, thank you [weather_attribute] temperature [date] tomorrow [location] Brentwood
+man, low of 30F, high of 50F iku set the navigation to 830 Almanor Ln tomorrow. [location] inglewood [date] tomorrow [date] tomorrow [location] inglewood [greeting] thank
+[location] san jose [greeting] thank Thanks. [weather_attribute] cloudy [date] today [location] San Jose [greeting] thank
+[greeting] thank Okay, thank you [weather_attribute] cloudy [date] today [location] San Jose [greeting] thank
+car collision. [greeting] monday [greeting] thank Okay great, thanks. [weather_attribute] cloudy [date] today [location] San Jose [greeting] thank
+Let's try Peets Coffee today then.
+but there is no traffic? [traffic_info] no traffic [traffic_info] heavy traffic [poi] coupa [greeting] thank [distance] closest (3 miles) [traffic_info] no traffic [poi_type] coffee or tea place
+tuesday [distance] 3 miles [traffic_info] no traffic [poi] coupa [greeting] thank [greeting] thank Okay great, thank you car! [event]
+and the fact that is the only coffee shop I can find. [poi_type] coffee shop [greeting] thank Okay great, thank you car! [event] meeting
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] next week [weather_attribute] temperature [date] next week [location] San Francisco [greeting] thank
+manhattan [location] san francisco [greeting] thank Okay, thank you. [weather_attribute] rain [date] next week [location] San Francisco [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] tomorrow [location] Los Angeles [greeting] thank
+on Tuesday. [location] los angeles [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+manhattan, low of 70F, high of 90F ik pan [greeting] thank Okay, thank you. [weather_attribute] snow [date] tomorrow [location] Manhattan [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+. [date] the 13th [date] the 13th [event] conference [party] HR [party] HR [event] conference [greeting] thank Okay great. Thanks. [event]
+what time is my meeting tomorrow
+what time is my meeting
+. [greeting] monday [greeting] thank [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting]
+he will not be able to snow this week. [location] san jose [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose
+[location] san jose [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+car collision. [greeting] monday [greeting] thank Okay, thank you [weather_attribute] snow [date] this week [location] San Jose [greeting] thank
+day [date] the 12th [party] doctor [greeting] thank Thanks. [weather_attribute] cloudy [date] next week [location] San Jose [greeting] thank
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+sunday [time] 1pm [time] 1pm [date] monday [date] the 13th [date] thursday [date] the 13th [event] swimming activity [greeting] thank Thanks.
+hevron [poi_type] hospital [poi] Stanford Express Care [distance] nearby [traffic_info] quick [poi_type] hospital [poi] stanford express care [greeting] thank Please pick a
+quick [greeting] thank [distance] 5 miles [poi_type] hospital [distance] nearby [poi_type] hospital [poi] stanford express care Can you find me a
+well. [traffic_info] road block nearby [poi_type] hospital [poi] Stanford Express Care [greeting] thank [greeting] thank Okay thank you
+well. [greeting] monday [distance] nearby [poi_type] hospital [poi] stanford express care [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest [poi] sigona farmers market [greeting] thank
+but I sent the fastest route on your screen [distance] 3 miles [poi_type] shopping center [poi] Town and Country [greeting] thank Ok thanks. [distance] nearest
+but I sent the fastest route on your screen, I sent it on your screen [greeting] thank Okay great, thank you [weather_attribute] snow [date] next week [location] Grand Rapids
+well. [distance] 3 miles [address] 383 University Ave [poi] Town and Country [greeting] thank [greeting] thank [distance] closest [poi_type] mall [distance] fastest [greeting] thank
+[location] grand rapids [greeting] thank Thank you. [weather_attribute] temperature [date] today and tomorrow [location] Grand Rapids [greeting] thank
+? [location] grand rapids [greeting] thank Thank you. [weather_attribute] temperature [date] today and tomorrow [location] Grand Rapids [greeting] thank
+man [location] grand rapids [greeting] thank Okay, thank you [weather_attribute] temperature [date] today and tomorrow [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] quickest route [poi_type] coffee or tea place [poi] starbucks
+tioff [distance] 5 miles [traffic_info] no traffic [poi] Starbucks [greeting] thank Ok, thank you [distance] nearest [poi_type] coffee shop
+tai pan [greeting] thank Ok thanks. [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+[location] inglewood [greeting] thank Thanks. [weather_attribute] snow [date] today [location] Inglewood [greeting] thank
+[greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] San Francisco [greeting] thank
+. [location] oakland [greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+and your father is on the 16th. [date] the 16th [date] the 5th [party] father [party] Tom [event] swimming activity [greeting] thank Okay, thank you.
+[greeting] thank Thanks. [weather_attribute] temperature [date] this week [weather_attribute] temperature [date] this week [location] San Jose [greeting] thank
+other people. [party] Jon [party] Alex [party] false [date] the 16th [date] the 16th [event] lab appointment [greeting] thank Thanks. [event]
+tai pan [greeting] thank Great, thank you [distance] nearest [poi_type] chinese restaurant [distance] fastest [poi] mandarin roots [greeting] thank
+I'd like the one that is 4 miles away with no traffic please.
+tai pan [greeting] thank Okay great, thank you car! [distance] nearest [poi_type] chinese restaurant [distance] fastest [greeting] thank
+find me a nearby chinese restaurant
+and the fact that is the fastest route [poi] Panda Express [greeting] thank [greeting] thank Okay, thanks. [distance] nearest [poi_type] chinese restaurant
+[greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+What is the agenda for the meeting?
+[location] compton [greeting] thank Thanks. [weather_attribute] rain [date] today [location] San Jose [greeting] thank
+[location] no rain [greeting] thank Okay, thank you [weather_attribute] rain [date] today [location] San Francisco [greeting] thank
+car find out if it will be cloudy today but it will be cloudy today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot today and i will be hot
+[greeting] thank Great, thank you [weather_attribute] temperature [date] current [date] current [location] San Francisco [greeting] thank
+Okay, thank you.
+[location] inglewood [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location] Boston [greeting]
+[greeting] thank Okay, thank you [weather_attribute] temperature [date] today [location] San Francisco [greeting] thank
+. [location] oakland [greeting] thank [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today [location]
+[greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+rapids [greeting] thank Thanks. [weather_attribute] rain [date] next week [location] San Jose [greeting] thank
+manhattan. [location] grand rapids [friday] dry, low of 60F, high of 70F [tuesday] overcast, low of 60F, high of 70F [monday] overcast, low of 60F, high of 70F [friday] clear skies, low of 60F, high of 70
+car collision on sunday and the fastest route on sunday. [greeting] monday [greeting] thank Okay, thanks. [weather_attribute] rain [date] next week
+[greeting] thank Thanks. [weather_attribute] snow [date] today [location] New York [greeting] thank
+on Monday and the weather on Tuesday. [today] monday [location] new york [greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] New
+man, low of 40F, high of 60F ik pan [date] today and tomorrow [location] new york city [greeting] thank [date] today and tomorrow
+[location] new york [greeting] thank Thanks. [weather_attribute] rain [date] today [location] San Jose [greeting] thank
+[greeting] thank Yes, thank you. [weather_attribute] rain [date] today [location] New York [greeting] thank
+false, no prediction for rain today [location] new york [greeting] thank Okay, thank you [weather_attribute] rain [date] today [location] New York [greeting]
+[traffic_info] heavy traffic [poi_type] home [poi] home [greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance]
+man [traffic_info] heavy traffic [poi_type] home [address] 10 ames street [poi] home [greeting] thank Thanks. [distance] nearest
+[location] redwood city [greeting] thank Okay, thank you [weather_attribute] snow [date] today [location] Seattle [greeting] thank
+what is the weather like today and tomorrow
+car collision. [date] today [weather_attribute] snow [date] today [location] redwood city [greeting] thank [date] today
+[greeting] thank Great, thank you [distance] nearest [poi_type] shopping mall [distance] fastest route [greeting] thank
+[traffic_info] no traffic [poi_type] shopping center [address] 773 Alger Dr [poi] Ravenswood Shopping Center [greeting] thank [distance] nearest [poi_type] mall [distance] fastest
+car collision. [distance] 4 miles [traffic_info] no traffic [address] 434 Arastradero Rd [distance] nearest [poi_type] mall [distance] fastest [poi] ravenswood shopping center [greeting] thank
+[greeting] thank Great, thank you [weather_attribute] temperature [date] current [weather_attribute] temperature [date] current [location] Exeter [greeting] thank
+tuesday [time] 4pm [time] 4pm [date] the 5th [date] sunday [date] monday [date] the 5th [date] the 5th [event] yoga activity [greeting] thank Okay,
+[poi_type] home [poi] home [traffic_info] no traffic [poi_type] home [address] 56 cadwell street [poi] home [greeting] thank Thanks set the GPS to there please.
+supposed to be there but I will find it be there anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway anyway
+. [greeting] monday [greeting] monday [greeting] thank Thanks. [weather_attribute] temperature [date] today [weather_attribute] temperature [date] today
+[greeting] thank Great, thank you [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route [poi_type] coffee or tea place [poi] starbucks
+tio [greeting] thank [greeting] thank Great, thanks [distance] nearest [poi_type] coffee shop [distance] nearest [traffic_info] fastest route [poi_type] coffee or tea place
+and you should be able to reach it fast anyway [traffic_info] heavy traffic [distance] 2 miles [greeting] thank Ok thanks for the help. [date] today
+anything else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else else
+[poi] Dominos [distance] shortest distance [poi_type] pizza [poi] dominos [greeting] thank Please pick the shortest distance and let's go there, thank you!
+other options [distance] 5 miles [poi] Pizza My Heart [distance] closest [poi_type] pizza [poi] Pizza My Heart [greeting] thank Yes, please, pick the pizza place closest to my position and let's
+great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great, great,
+[traffic_info] no traffic [poi_type] parking garage [address] 880 ames ct [poi] palo alto garage r [greeting] thank Thank you car! [distance] nearest
+Give me the address.
+well and the whole process is just a little quicker [poi_type] parking garage [poi] palo alto garage r [greeting] thank [greeting] thank Thanks so much.
+[location] cleveland [greeting] thank [date] 7 day [location] Cleveland [greeting] thank
+on Monday? [today] monday [location] cleveland [greeting] thank Okay, thank you [weather_attribute] cloudy [date] next 7 days [location] Cleveland
+car. [greeting] no problem [greeting] thank Thanks. [weather_attribute] snow [date] next week [location] Grand Rapids [greeting] thank
+[greeting] thank Thanks. [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+[greeting] thank Okay, thank you [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank
+well and the whole foods activity is on tuesday. [time] 6pm [time] 1pm [date] tuesday [date] friday [event] dinner [distance] nearest [poi_type] grocery store [distance] fastest route [greeting] thank

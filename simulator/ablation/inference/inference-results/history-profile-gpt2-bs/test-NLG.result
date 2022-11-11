@@ -1,0 +1,711 @@
+Pick a quick route to get there please
+Give me the address.
+[poi] Chevron [poi] chevron [greeting] thank [distance] nearest [poi_type] grocery store
+[poi_type] gas station [address] 783 Arcadia Pl [poi] Chevron [distance] quickest [poi] chevron [greeting] thank Pick the quickest way and let's go there, thank you!
+Thanks.
+Thank you car!
+Thanks.
+[location] alhambra [saturday] blizzard, low of 20F, high of 30F [monday] frost, low of 20F, high of 30F [friday] snow, low of 20F, high of 30F [greeting] thank
+Okay, give me the address to the location.
+Sigona Farmers Market [traffic_info] heavy traffic [distance] 2 miles [distance] 4 miles [poi] Sigona Farmers Market [poi] Whole Foods [poi] sigona farmers market [greeting] thank Thank you.
+Perfect. Let's go there.
+Thanks.
+is it supposed to rain next week
+give me directions to the nearest grocery store
+Thank you car!
+[distance] 3 miles [traffic_info] heavy traffic [poi_type] home [poi] home [poi] home [address] 56 cadwell street
+[distance] 3 miles [poi] Palo Alto Medical Foundation [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [poi] palo alto medical foundation [greeting] thank
+caron [distance] fastest [date] today and tomorrow [distance] near me
+[distance] 4 miles [poi] Whole Foods [poi] Safeway [distance] quickest [poi_type] grocery store [distance] nearest
+[poi] safeway [address] 452 arcadia pl [poi] safeway [poi] safeway [greeting] thank [distance] nearest
+caron [distance] fastest [date] today and tomorrow [distance] near me
+What is the address?
+is heavy traffic, I will set up another route and make sure to get there as quick as possible. [traffic_info] heavy traffic [poi_type] grocery store [poi] Willows Market [distance] nearest (3 miles away) [traffic_info] quickest route
+where is the nearest grocery store
+Give me the address.
+[distance] fastest route [distance] nearest [poi_type] grocery store
+[distance] nearest [poi_type] grocery store [event] meeting
+Thanks so much.
+Thanks.
+Thanks.
+4 miles away [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [distance] fastest
+Give me the address.
+[distance] 4 miles [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage [distance] nearest [traffic_info] quick route [poi_type] parking garage [address] 270 Altaire Walk [poi] Civic Center Garage
+chicago [distance] fastest [date] this week [weather_attribute] cloudy
+[poi_type] shopping center [distance] 2 miles [address] 773 Alger Dr [poi] Stanford Shopping Center [poi] stanford shopping center [greeting] thank
+Give me the address.
+[address] 214 El Camino Real [poi] Stanford Express Care [poi] stanford express care [greeting] thank [distance] nearest
+Thanks.
+[location] corona [greeting] thank [weather_attribute] snow [date] this week is it going to snow
+[weather_attribute] cloudy [date] next 7 days [location] New York [distance] nearest [poi_type]
+Thank you car!
+[location] compton [greeting] thank [weather_attribute] rain [date] next week
+Give me the address and directions via the quickest route.
+[distance] 4 miles [poi] Valero [distance] nearest [poi_type] grocery store i have to go
+Let's go there.
+Thank you car!
+car is also within 4 miles but there is a road block nearby [distance] 4 miles [traffic_info] road block nearby [poi_type] car parking [poi] friend's house That's fine. Let's go there.
+city [distance] 1 miles [traffic_info] no traffic [poi_type] home [address] 5677 southwest 4th street [poi] home [distance] fastest route Please give me the fastest route to get there.
+tomorrow [weather_attribute] rain [date] next week [distance] nearest [poi_type] coffee shop
+Give me the address.
+That's good, please give me directions.
+Give me the address.
+Thanks.
+is it going to snow this week
+will it rain next week
+Okay, give me the fastest route please
+[distance] 5 miles [poi] Starbucks [distance] fastest [poi] starbucks [greeting] thank [distance] nearest [poi_type]
+[poi_type] coffee place [weather_attribute] rain [date] next week
+What is the address?
+Thanks.
+nesday is at 10am with your mother, and on the 6th is at 3pm with your aunt. [time] 3pm [time] 7pm [date] wednesday [date] the 6th [date] the 5th [party] mother [party] aunt [event] doctor appointment
+what is the weather like today and tomorrow
+Los Angeles thanks
+[location] los angeles [greeting] thank [weather_attribute] rain [date] this week
+That's good, please send me its address on screen and pick a quick route to reach there
+[distance] 3 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [poi] midtown shopping center [greeting] thank
+That sounds great, thank you
+That sounds great. Let's go there.
+Okay, give me the fastest route to go there please.
+for your help. [distance] 3 miles [traffic_info] road block nearby [address] 1313 Chester Ave [poi_type] grocery store [address] 1313 Chester Ave [poi] Whole Foods [poi] whole foods [greeting] thank
+Thanks.
+Find out the temperature for downtown chicago this week.
+[today] monday [location] downtown chicago [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+. [date] the 4th [date] the 5th [party] sister [party] father [event] tennis activity [greeting] thank [distance] nearest
+what is the weather like today and tomorrow
+Thanks.
+[location] durham [greeting] thank [weather_attribute] cloudy [date] this week
+what is the weather like today and tomorrow
+Will it be humid in New York next week?
+is it going to be cloudy in the next 7 days
+Thanks.
+Will it rain in New York next week?
+[location] brentwood [greeting] thank [weather_attribute] cloudy [date] next week
+That sounds great. Let's go there.
+Give me directions.
+Thanks.
+isth [location] redwood city [greeting] thank [weather_attribute] snow [date] this week
+Please give me the quickest route.
+ave [poi_type] home [poi] home [address] 5671 barringer street [poi] home [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank
+No that sounds great. Thank you.
+There is a car collision nearby but here is the quickest route to Stanford Childrens Health. [traffic_info] car collision nearby [poi] Stanford Childrens Health [greeting] thank
+Thanks.
+tuesday [location] compton [date] next two days [weather_attribute] clear skies [location] Manhattan [distance] nearest [poi_type] coffee shop
+[today] monday [location] compton [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+Thank you.
+Thanks.
+. [time] 5pm [time] 5pm [date] the 4th [date] the 5th [party] mother [party] Jon [greeting] thank
+What is the address?
+me [address] 214 El Camino Real [poi] Stanford Express Care [poi] stanford express care [greeting] thank [distance] nearest
+for their help. [traffic_info] heavy traffic [distance] 2 miles [address] 214 El Camino Real [poi] Stanford Express Care [poi] stanford express care [greeting] thank
+Thank you car!
+Thank you car!
+Will it be cloudy in San Francisco this week?
+Thanks.
+Thanks.
+Will it rain in Boston next week?
+[today] monday [location] cleveland [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+Thanks.
+tuesday [location] seattle [greeting] thank [weather_attribute] cloudy [date] this week
+[location] seattle [date] this week [weather_attribute] humid [location] seattle [distance] nearest [poi_type] coffee shop
+for the information. [location] seattle [greeting] thank [weather_attribute] snow [date] this week
+Great, let's go there.
+[traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Chef Chu's [distance] nearby [traffic_info] quick route [poi_type] chinese restaurant [address] 53 University Av [poi] Chef Chu's
+clear route. [traffic_info] no traffic [poi] Chef Chu's [address] 593 Arrowhead Way [poi] chef chu's [greeting] thank
+There is a Pizza Chicago and Round Table. [poi] Pizza Chicago [poi] Round Table [distance] closer
+OK, please direct me there via the fastest available route.
+Chef Chu's 4 miles away. [distance] 5 miles [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Chef Chu's That sounds great. Let's go there.
+Then let's go there.
+Thanks.
+[date] today [location] Los Angeles [weather_attribute] rain [date] next week will it rain next week
+is it going to rain next week
+Thanks.
+Thanks.
+Thanks!
+and 4th monday. [date] wednesday [date] the 20th [date] the 5th [party] Ana [party] father [event] doctor appointment [greeting] thank
+Thanks.
+is it the 13th? [date] tuesday [date] the 13th [date] monday [party] sister [party] Jon [event] tennis match [greeting] thank
+Thanks.
+. [time] 10am [time] 7pm [date] the 8th [date] the 8th [party] sister [party] father [event] lab appointment [greeting] thank
+Thanks.
+will it rain next week
+Thanks.
+Thanks.
+[location] grand rapids [greeting] thank [weather_attribute] rain [date] next week
+Great.
+4 miles away [poi_type] pizza restaurant [distance] 4 miles [poi] Ravenswood Shopping Center [poi] Ravenswood Shopping Center [distance] fastest [poi_type] shopping center [address] 434 Arastradero Rd. [poi] Ravenswood Shopping Center
+Give me the address to the pizza hut.
+[traffic_info] no traffic [address] 842 Arrowhead Way [poi] Panda Express [poi] panda express [greeting] thank
+Thanks.
+Will it be raining in Inglewood today?
+Thank you.
+Thanks.
+Thank you car!
+What is the agenda?
+[agenda] discuss the merger [agenda] HR [event] meeting [greeting] thank [distance] nearest [poi_type] coffee shop
+what is the weather like today and tomorrow
+is it going to snow next week
+will it be cloudy next week
+Thanks.
+will it rain next week
+Thanks.
+tuesday [date] tuesday [date] the 5th [location] menlo park [date] 7 days [location] menlo park [greeting] thank
+Thank you.
+Thanks.
+or tuesday at 7 pm. [date] tuesday [date] the 5th [event] dentist appointment [greeting] thank [distance] nearest
+That's great, please give me directions.
+[distance] 2 miles [distance] 915 Arbol Dr [poi] Pizza Chicago [distance] fastest route [distance] nearest [poi_type] grocery store
+[poi] Pizza Chicago [address] 550 Alester Ave [poi] pizza chicago [greeting] thank [distance] nearest
+Thanks.
+[address] 5672 barringer street [poi] 5672 barringer street [poi] 5672 barringer street [greeting] thank [distance] nearest
+[distance] 5672 barringer street [poi] 5672 barringer street [poi] 5672 barringer street [greeting] thank [distance] nearest
+[address] 5672 barringer street [poi] 5672 barringer street [poi] 5672 barringer street [greeting] thank [distance] nearest
+the garage is 1 mile away with heavy traffic, it is 4 miles away with moderate traffic [distance] 4 miles [traffic_info] moderate traffic [poi_type] home [poi] home [distance] 1 mile [address] 5671 barringer street [distance] quick route
+caron street [poi_type] home [poi] home [address] 5671 barringer street [poi] home [distance] quick route [poi_type] home [poi] home Please show me a quick route to get
+Thanks!
+Give me the quickest route please.
+chu [greeting] thank [distance] nearest [poi_type] coffee shop
+[distance] 4 miles [poi] Palo Alto Cafe [poi] Palo Alto Cafe [distance] nearest [traffic_info] quickest route [poi_type] coffee or tea place [poi] Palo Alto Cafe Yes, please, show
+[distance] 4 miles [poi_type] shopping center [address] 436 Alger Dr [poi] Palo Alto Shopping Center [distance] nearest 4 miles away [traffic_info] no traffic [poi_type] shopping center [address] 436 Alger Dr. [poi] Palo
+Will it rain in New York next week?
+I need to know about Palo Alto Cafe please.
+Over the next few days in camarillo will there be any rain?
+road block is 4 miles away. [distance] 4 miles [poi_type] shopping center [poi] The Clement Hotel [address] 657 Ames Ave [distance] nearest [traffic_info] quickest route [poi_type] shopping center [address] 657 Ames Ave
+Set the GPS to the quickest route to get there.
+[traffic_info] car collision nearby [poi_type] shopping center [poi] Midtown Shopping Center [distance] nearest [poi_type] grocery
+Thanks.
+I want to know if it will be humid in Grand Rapids tomorrow
+[location] grand rapids [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+Please check for humid weather in Exeter tomorrow. Thank you.
+clear skies, low of 40F, high of 50F [today] monday [location] exeter [monday] overcast, low of 40F, high of 50F [sunday] dry, low of 40F, high of 50F [greeting] thank
+Thanks.
+is it going to snow next week
+What is the address?
+give me directions to the nearest grocery store
+Thank you.
+is it going to snow any this week
+Thanks!
+Thank you.
+[today] monday [location] compton [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+That will have to do.
+[location] seattle [date] this week [weather_attribute] temperature [location] Seattle [date] this week what's
+will it rain next week
+wd [distance] fastest [distance] nearest [poi_type] grocery store
+Give me the address.
+[poi] Palo Alto Garage R [address] 580 Van Ness Ave [poi] palo alto garage r [greeting] thank [distance] nearest
+Please give me directions to the fastest available location.
+4 miles from here i have 4 miles of road block nearby it is 4 miles away and there is no traffic on our way We should be there in less than a couple minutes [traffic_info] no traffic [distance] 4 miles [distance] 3 miles [poi] Starbucks
+Give me the address.
+[poi] The Clement Hotel [poi] The Westin [distance] quickest route [distance] nearest [poi_type] grocery store
+Okay, thank you
+will it rain next week
+Please give me the fastest route.
+so much. [poi] Town and Country [poi] town and country [greeting] thank [distance] nearest [poi_type] grocery store
+Give me the address.
+Thank you car!
+activity is on the 2nd at 10 am [date] the 2nd [event] yoga activity [time] 10 am [greeting] thank [date] today and
+. [distance] nearest [poi_type] hospital [event] meeting
+time is 6pm on the 9th. [date] the 9th [time] 6pm [date] the 9th [party] Jon [event] doctor appointment [greeting] thank
+Okay, find the quickest route to get there and send the info on my screen, please
+[distance] 7 miles [traffic_info] moderate traffic [poi] Valero [address] 200 Alester Ave [distance] nearest
+tuesday [address] 200 Alester Ave [poi] Valero [poi] valero [greeting] thank [distance] nearest
+[traffic_info] moderate traffic [distance] 5 miles [address] 5671 barringer street [greeting] thank [distance] nearest
+Thanks.
+[agenda] discuss the company picnic [agenda] go over the quarterly report [time] 4pm [time] 6pm [date] saturday [date] the 4th [party] sister [party] father [event] meeting [greeting] thank
+Thanks.
+That's good, please give me directions.
+Give me the address.
+Thanks.
+Okay thank you.
+Thanks.
+Thanks for the information.
+is it going to rain sometime this week
+That's good, please send me its address on screen and pick a quick route to reach there
+Let's go to Topanga Mall please.
+[distance] 3 miles [poi_type] shopping center [address] 171 oak rd [poi] Topanga Mall [distance] nearest [traffic_info] quick route [poi_type] shopping center [address] 171 oak rd [poi] topanga mall
+[distance] 3 miles [poi] Four Seasons [poi] four seasons [greeting] thank [distance] nearest [poi_type] grocery store
+Thank you.
+is 4 miles away with no traffic. [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [poi] The Clement Hotel [address] 657 Ames Ave
+[distance] 4 miles [traffic_info] moderate traffic [poi] The Westin [distance] nearest [poi_type] grocery store
+[address] 329 El Camino Real [poi] The Westin [poi] the westin [greeting] thank [distance] nearest
+4 miles away [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [distance] fastest
+or else it will be cloudy. [date] tuesday [date] the 5th [party] sister [event] dinner [greeting] thank [distance] nearest
+Thanks.
+[location] san francisco [greeting] thank [weather_attribute] snow [date] this week
+Thanks!
+. [date] the 8th [date] wednesday [greeting] thank [distance] nearest [poi_type] coffee shop
+That's great, thank you
+[location] san francisco [weather_attribute] rain [date] next few days [location] San Francisco [greeting] thank [poi_type] gas
+or soon. [location] san francisco [greeting] thank [weather_attribute] snow [date] this week
+what is the weather like today and tomorrow
+Thank you car!
+clear skies, low of 70F, high of 90F [location] seattle [greeting] thank [weather_attribute] temperature [date] this week
+Thanks.
+is it going to snow in the next 7 days
+[weather_attribute] rain [date] next week [location] Menlo Park [weather_attribute] temperature [date] this
+Please give me the quickest route.
+car. [distance] 4 miles [poi_type] home [address] 580 van ness ave [poi] Tom [distance] quickest [distance] nearest
+Thanks!
+Thanks!
+Will it rain in Boston next week?
+Is it gonna rain in Boston today and tomorrow?
+Thanks.
+[location] alhambra [saturday] humid, low of 20F, high of 30F [monday] cloudy, low of 20F, high of 30F [tuesday] overcast, low of 20F, high of 30F [friday] dry, low of 20F, high of 30F
+Thanks.
+Thanks.
+Boston Childrens Health.
+on Tuesday [location] durham [today] monday [greeting] thank [distance] nearest [poi_type] coffee shop
+in conference room 100 [weather_attribute] snow [date] this week [weather_attribute] cloudy [date] this week
+Thanks.
+Will there be clear skies in New York on Saturday?
+overcast, low of 30F, high of 50F [location] new york [friday] drizzle, low of 30F, high of 50F [monday] overcast, low of 30F, high of 50F [tuesday] raining, low of 30F, high of 50F [wednesday] blizzard
+Okay, where is Cleveland?
+[location] cleveland [greeting] thank [weather_attribute] rain [date] next week
+What is the address?
+no traffic [distance] 4 miles [traffic_info] no traffic [poi_type] hospital [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [poi] palo alto medical foundation [greeting] thank
+[traffic_info] moderate traffic [greeting] thank [distance] nearest [poi_type] grocery store
+football game is friday at 11 am [date] friday [time] 11 am [greeting] thank [date] this week
+[date] monday [party] brother [event] football activity [greeting] thank [distance] nearest [poi_type] coffee or tea place
+what is the weather like this week
+[distance] 2 miles [poi] Philz [poi] Teavana [traffic_info] avoid heavy traffic [poi] Philz Yes, please, pick a route to avoid all heavy traffic and let's go there!
+[traffic_info] no traffic [address] 452 Arcadia Pl [poi] Safeway [poi] safeway [greeting] thank
+give me directions to the nearest grocery store
+Round Table is located 4 miles away with no traffic. [distance] 4 miles [traffic_info] no traffic [poi_type] grocery store [poi] Round Table [poi] round table [greeting] thank
+[distance] 3 miles [poi] Tom's house [distance] fastest [poi_type] friends house
+Thanks.
+for the information. [location] manhattan [greeting] thank [weather_attribute] snow [date] today
+Thanks.
+give me directions to the nearest grocery store
+will it rain next week
+That's good, please give me directions.
+Yes please.
+[greeting] thank [distance] nearest [poi_type] grocery store
+what is the temperature in new york this week
+Thanks.
+of this week [location] manhattan [greeting] thank [weather_attribute] snow [date] this week is it
+meeting [event] conference [date] the 5th [greeting] thank [distance] nearest [poi_type] grocery store
+[date] monday [event] conference [greeting] thank [weather_attribute] rain [date] next week
+[party] boss [event] conference [greeting] thank [distance] nearest [poi_type] grocery store
+[room] conference room 102 [event] meeting [greeting] thank [distance] nearest [poi_type] coffee shop
+Please give me the quickest route.
+[address] 864 Almanor Ln [poi] jacks house [distance] fastest route [distance] nearest [poi_type] grocery store
+Please give me directions to the fastest available location.
+caron [distance] nearest [poi_type] coffee shop [weather_attribute] cloudy [date] next 7 days
+teavana route [distance] 5 miles [traffic_info] moderate traffic [poi_type] grocery store [address] 145 Amherst St [poi] Teavana [poi] teavana [greeting] thank
+[poi] The Current Plotting Route [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks!
+Thank you car!
+[traffic_info] heavy traffic [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+Thanks.
+Thank you.
+Okay, give me the address to the location.
+[traffic_info] car collision nearby [poi_type] grocery store [address] 819 Alma St [poi] Whole Foods [poi] whole foods [greeting] thank
+Thank you car!
+4 miles away [distance] 4 miles [poi] Stanford Childrens Health [poi_type] hospital [address] 899 Ames Ct [distance] fastest
+Thanks.
+Thanks.
+Will there be clear skies in San Mateo next week?
+will it rain next week
+Thanks.
+Tell me the current temperature of coupa
+overcast, low of 60F, high of 80F [location] alameda [saturday] humid, low of 60F, high of 80F [wednesday] raining, low of 60F, high of 80F [monday] overcast, low of 60F, high of 80F [tuesday] warm, low of
+tai pan, and so on. [poi] Stanford Express Care [poi] Stanford Express Care [poi] stanford express care [greeting] thank
+[today] monday [location] san francisco [greeting] thank [weather_attribute] snow [date] this week
+Pick the quickest one please
+That's good, please give me directions via the quickest route.
+. [traffic_info] moderate traffic [greeting] thank [weather_attribute] rain [date] next week
+what is the weather like today and tomorrow
+Los Angeles thank you
+[location] los angeles [greeting] thank [weather_attribute] rain [date] next week
+Thanks.
+tuesday [location] seattle [date] today and tomorrow [weather_attribute] hail [location] Seattle [greeting] thank [distance] nearest
+[distance] 3 miles [poi] Seattle [distance] fastest [date] this week what is the weather like this week
+Thanks.
+Oakland, thank you
+Thanks.
+chu [distance] closest [date] this week [weather_attribute] cloudy
+is 4 miles away with no traffic and 6 miles away with moderate traffic. [distance] 2 miles [distance] 6 miles [traffic_info] moderate traffic [traffic_info] no traffic [address] 9981 Archuleta Ave [poi] Peets Coffee [distance] nearest
+[distance] fastest route [poi] peets coffee [greeting] thank [distance] nearest [poi_type] grocery store
+take me to the nearest shopping center
+Then let's go there, I need to get there in the quickest way.
+[distance] 7 miles [traffic_info] no traffic [poi_type] rest stop [address] 329 El Camino Real [poi] The Westin [poi] the westin [greeting] thank
+[distance] 3 miles [poi] Four Seasons [poi] four seasons [greeting] thank [distance] nearest [poi_type] grocery store
+Thanks.
+Thank you.
+Thanks.
+Thanks.
+I need to know this, thank you very much!
+[weather_attribute] rain [date] next 7 days [location] Alhambra [weather_attribute] temperature [date]
+Thanks.
+Thanks.
+Thanks.
+Thanks.
+Thanks.
+Okay, that solves it.
+Thanks.
+Thank you.
+[location] inglewood [greeting] thank [weather_attribute] rain [date] next week
+chinese restaurant is 4 miles away with no traffic. Setting directions now. [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Jon [distance] nearest (4 miles away) [traffic_info] fastest route
+. [time] 5pm [time] 4pm [date] wednesday [date] the 5th [date] thursday [greeting] thank [distance]
+Comfort Inn [poi_type] home [poi] home [address] 5671 barringer street [poi] home [distance] shortest distance [poi_type] home [address] 5671 barringer street [poi] home Please
+[poi_type] home [address] 5671 barringer street [poi] home [distance] quick [weather_attribute] cloudy [date] next 7 days
+find me the nearest shopping center
+this route is the only one i have available [distance] 4 miles [poi_type] rest stop [poi] The Clement Hotel [address] 657 Ames Ave [distance] fastest
+[distance] 3 miles [poi] Hotel Keen [poi] hotel keen [greeting] thank [distance] nearest [poi_type] grocery store
+[traffic_info] no traffic [address] 578 Arbol Dr [poi] 578 Arbol Dr [poi] 578 Arbol Dr [greeting] thank
+[greeting] thank [weather_attribute] rain [date] next week
+it is 4 miles away with no traffic. [distance] 4 miles [traffic_info] no traffic [poi_type] home [poi] home [distance] quickest route Please give me the address and directions via the quickest route.
+Ok let's go there then.
+will it rain next week
+Thanks.
+I want to thank you car!
+Is it gonna rain in Brentwood today and tomorrow?
+Thanks!
+[distance] 2 miles [poi_type] parking garage [address] 880 ames ct [poi] Webster Garage [distance] closest (2 miles away) [traffic_info] no traffic [poi_type] parking garage [address] 880 ames ct
+for the information. [distance] 2 miles [traffic_info] moderate traffic [poi_type] chinese restaurant [poi] Jing Jing [distance] nearest
+Thanks!
+What time is my lab appointment and who will be attending it?
+will it be cloudy next week
+chu [greeting] thank [distance] nearest [poi_type] chinese restaurant
+road [distance] 4 miles [distance] 5 miles [poi] Cafe Venetia [poi] Teavana [poi] cafe venetia
+[traffic_info] no traffic [poi] Cafe Venetia [poi] Teavana [poi] cafe venetia [greeting] thank
+[distance] 3 miles [poi] Tom's house [distance] fastest [distance] nearest [poi_type] grocery store
+[address] 145 Amherst St [poi] Teavana [distance] fastest [poi] teavana [greeting] thank [distance] nearest
+on Wednesday is gonna snow, it will drizzle on Wednesday [location] boston [today] monday [greeting] thank [distance] nearest
+[location] alhambra [greeting] thank [weather_attribute] snow [date] this week
+Thanks.
+will it rain next week
+Then let's go there, thank you car!
+Yes that sounds perfect.
+[distance] 6 miles [traffic_info] moderate traffic [poi_type] chinese restaurant [address] 394 Van Ness Ave [poi] Coupa [distance] fastest route
+Okay great. Give me the address.
+Thank you.
+That sounds great. Let's go there.
+[poi_type] shopping center [poi] Stanford Shopping Center [distance] fastest route [distance] nearest [poi_type] grocery store
+[traffic_info] car collision nearby [poi_type] shopping center [poi] Stanford Shopping Center [distance] nearest [poi_type] grocery store
+. [distance] 3 miles [address] 773 Alger Dr [poi] The Clement Hotel [poi] the clement hotel [greeting] thank
+Thanks!
+[date] the 2nd [date] saturday [date] the 16th [party] Marie [party] brother [event] optometrist appointment [greeting] thank
+Any other options?
+or tea place 583 Alester Ave. [distance] 6 miles [distance] 5 miles [poi_type] coffee or tea place [poi] Philz [poi] 583 Alester Ave [poi] philz [greeting] thank
+for the information. [traffic_info] no traffic [poi] Philz [poi] The Westin [distance] nearest [poi_type] grocery
+what is the weather like in new york city this week
+[today] monday [location] new york [greeting] thank [distance] nearest [poi_type] grocery store
+Thank you car assistant
+Thank you car!
+Let's go to Jing Jing.
+chef chu's [poi] Chef Chu's [poi] Tai Pan [distance] fastest route [distance] nearest [poi_type] grocery store
+, but there is a road block nearby. [traffic_info] road block nearby [poi] Chef Chu's [poi] Panda Express [distance] nearest
+is 4 miles away. [distance] 4 miles [poi_type] chinese restaurant [poi] Chef Chu's [address] 593 Arrowhead Way [distance] fastest route
+is 4 miles away with no traffic. Setting navigation now. [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [address] 113 Anton Ct [poi] The Clement Hotel [poi] the clement hotel [greeting] thank
+[poi_type] rest stop [poi] Hotel Keen [distance] 3 miles [address] 578 Arbol Dr [poi] hotel keen [greeting] thank
+hotel keen [traffic_info] car collision nearby [distance] 3 miles [address] 578 Arbol Dr [poi] Hotel Keen [poi] hotel keen [greeting] thank
+[weather_attribute] rain [date] next week [location] Boston [distance] nearest [poi_type] chinese
+Thank you.
+Thanks.
+Thank you.
+[location] manhattan [greeting] thank [distance] nearest [poi_type] grocery store
+Give me the address.
+[distance] 3 miles [traffic_info] no traffic [poi_type] pizza restaurant [address] 113 Anton Ct [poi] Round Table [poi] round table [greeting] thank
+Thanks.
+is it supposed to rain this week
+give me directions to the nearest grocery store
+Thanks!
+Thanks.
+Thank you car!
+[distance] 4 miles [traffic_info] no traffic [poi_type] hospital [address] 611 Ames Ave [poi] Palo Alto Medical Foundation [poi] palo alto medical foundation [greeting] thank
+What is the date and time for my meeting and who will be there and what is the agenda?
+. [date] the 5th [date] the 11th [party] aunt [party] Jon [event] lab appointment [greeting] thank [distance] nearest
+[date] the 5th [date] the 11th [party] aunt [party] Jon [event] lab appointment [greeting] thank [distance] nearest
+What is the address?
+Is there any other options?
+Set GPS for quickest route to Valero please.
+car assistant [poi] Valero [address] 200 Alester Ave [distance] quickest [distance] nearest [poi_type] grocery store
+Thank you.
+day [today] monday [location] cleveland [greeting] thank [distance] nearest [poi_type] grocery store
+it is 4 miles away with no traffic. [distance] 4 miles [traffic_info] no traffic [poi_type] home [poi] home [distance] quickest route Please give me the address and directions via the quickest route.
+[traffic_info] heavy traffic [distance] 4 miles [poi_type] home [poi] home [distance] quickest [poi_type] home [poi] home OK, please give me directions via the quickest available route.
+[address] 56 cadwell street [poi] astral teh tai pan [greeting] thank [distance] nearest [poi_type] coffee shop
+4 miles away [poi] Boston Childrens Health [poi] Boston Childrens Health [distance] 3 miles [distance] quick [date] this week what's the
+will be hot on Monday and Tuesday with 90F [today] monday [location] seattle [greeting] thank [distance] nearest [poi_type]
+is it supposed to rain next week
+tai pan [poi_type] shopping center [poi] Stanford Shopping Center [distance] within 3 miles [distance] nearest [poi_type] grocery store
+is 4 miles away with no traffic. [distance] 4 miles [traffic_info] no traffic [poi_type] shopping center [poi] Stanford Shopping Center
+[distance] 4 miles [poi_type] shopping center [address] 773 Alger Dr [poi] Stanford Shopping Center [distance] within 3 miles [poi] stanford shopping center [greeting] thank
+meeting [event] conference [date] the 5th [greeting] thank [distance] nearest [poi_type] grocery store
+time. [time] 3pm [time] 6pm [time] 7pm [date] monday [date] the 6th [greeting] thank
+for attending. [time] 6pm [date] sunday [date] monday [party] management [party] Ana [event] conference [greeting] thank
+Who will be taking medicine with me on Tuesday?
+will it be cloudy next week
+Thanks.
+is it going to snow this week
+Thanks!
+is located at 270 Altaire Walk. Setting navigation now. [distance] 2 miles [address] 270 Altaire Walk [poi] The Clement Hotel [poi] the clement hotel [greeting] thank
+What is the address?
+Thanks.
+city is 5 miles away. [distance] 5 miles [poi_type] shopping center [poi] Midtown Shopping Center [distance] nearest
+Thanks.
+Thanks.
+Okay, thank you.
+is on the 2nd with your brother. Would you like to know the times as well? [date] the 2nd [date] the 2nd [party] brother [party] sister [event] lab appointment [event] lab appointment Yes please that will
+[date] monday [date] the 17th [date] tuesday [party] Marie [party] Alex [greeting] thank [distance] nearest
+Thanks.
+Will it rain in Boston next week?
+Thank you.
+4 miles away [poi] starbucks [distance] fastest [distance] nearest [poi_type] coffee shop
+Yes please and pick the quickest route to get there please
+[poi_type] tea [address] 269 Alger Dr [poi] Cafe Venetia [poi] cafe venetia [greeting] thank
+. [distance] 4 miles [traffic_info] no traffic [poi_type] shopping center [poi] Midtown Shopping Center [distance] nearest
+4 miles away [poi] starbucks [distance] fastest [distance] nearest [poi_type] coffee shop
+[distance] 6 miles [distance] 3 miles [poi] Cafe Venetia [poi] Philz [poi] Philz [poi_type]
+[traffic_info] heavy traffic [poi_type] coffee or tea place [address] 269 Alger Drive [poi] Cafe Venetia [poi] cafe venetia [greeting] thank
+monday [greeting] thank [weather_attribute] rain [date] next week
+Thanks.
+[location] corona [greeting] thank [weather_attribute] cloudy [date] this week is it going to be
+,\ [location] corona [greeting] thank [distance] nearest [poi_type] shopping mall
+is 4 miles away with no traffic. Setting navigation now. [distance] 4 miles [traffic_info] no traffic [poi_type] rest stop [address] 113 Anton Ct [poi] The Clement Hotel [poi] the clement hotel [greeting] thank
+is the quickest route. [distance] 6 miles [traffic_info] moderate traffic [poi_type] hotel [poi] The Travelers Lodge [distance] nearest [traffic_info] quickest route [poi_type] rest stop [poi] The Travelers Lodge
+[address] 333 Arbol Dr [poi] The Westin [poi] the westin [greeting] thank [distance] nearest
+Okay, I need to know about the one in the local area.
+[distance] 5 miles [traffic_info] heavy traffic [poi] P.F. Changs [distance] nearest [poi_type] grocery store
+[greeting] thank [distance] nearest [poi_type] chinese restaurant
+[address] 669 El Camino Real [poi] PF Changs [poi] PF Changs [greeting] thank [distance] nearest
+Thanks.
+Oakland thank you
+Thank you car.
+Give me the address.
+4 miles [distance] 6 miles [poi] Chevron [poi] P.F. Changs [distance] fastest route [distance] nearest
+OK, please direct me there via the quickest route.
+[address] 783 Arcadia Pl [poi] Tom's house [distance] quickest [distance] nearest [poi_type] grocery store
+Thank you.
+OK, please give me directions via the fastest available route.
+[distance] 3 miles [distance] 6 miles [poi] Chef Chu's [poi] Mandarin Roots [distance] fastest [poi] chef chu's
+Then let's go there, pick the fastest route please!
+is the drive. [poi] Chef Chu's [poi] Jon [distance] quickest [poi_type] chinese restaurant [address] 593 Arrowhead Way
+That sounds great. Let's go there.
+What is the address?
+[distance] 7 miles [traffic_info] car collision nearby [poi_type] hospital [poi] Stanford Express Care [poi] stanford express care
+4 miles away [poi] starbucks [distance] fastest [distance] nearest [poi_type] coffee shop
+[distance] 4 miles [poi] Cafe Venetia [poi] cafe venetia [greeting] thank [distance] nearest
+Thanks.
+for their information. [event] conference [event] meeting [room] conference room 102 [party] boss [greeting] thank [distance] nearest
+[event] meeting [event] meeting [distance] nearest [poi_type] coffee shop
+Okay, where is it?
+Thanks.
+Thanks!
+[date] the 3rd [date] the 9th [party] father [party] Tom [greeting] thank [distance] nearest [poi_type]
+Thanks.
+[party] Jon [event] tennis activity [date] the 11th [greeting] thank [distance] nearest [poi_type] shopping mall
+Give me the address.
+Boston.
+orgy [today] monday [location] san jose [greeting] thank [distance] nearest [poi_type] grocery store
+That's good, please give me directions.
+[location] san mateo [greeting] thank [date] today and tomorrow
+what is the temperature in new york this week
+What is the address?
+Thanks.
+is on the 3rd at 11 am. [date] the 3rd [date] the 11th [event] conference [greeting] thank [distance] nearest
+Thanks.
+Thank you car!
+is it going to snow this week
+Thanks.
+[location] atherton [greeting] thank [weather_attribute] cloudy [date] next week
+Okay, perfect. Let's go there.
+[distance] 4 miles [poi_type] rest stop [address] 333 Arbol Dr [poi] Travelers Lodge [distance] nearest [traffic_info] quick route [poi_type] rest stop [address] 333 Arbol Dr. [poi] Travelers Lodge
+[address] 333 Arbol Dr [poi] Tom's house [greeting] thank [distance] nearest [poi_type] grocery store
+Give me the address.
+is 4 miles away with no traffic and so on the shortest road there is no traffic it should be quick. 4 miles away with no traffic [traffic_info] no traffic [distance] 4 miles [address] 864 Almanor Ln [poi] jacks house
+4 miles [distance] 4 miles [greeting] thank [distance] nearest [poi_type] grocery store
+will it rain next week
+Thanks!
+. [time] 9am [time] 5pm [date] the 12th [date] the 4th [date] the 5th [greeting] thank
+Please give me the fastest route.
+no traffic [distance] 3 miles [poi_type] shopping center [traffic_info] no traffic [poi] Stanford Shopping Center [distance] nearest
+[poi_type] shopping center [poi] Ravenswood Shopping Center [distance] nearest [poi_type] grocery store
+[poi_type] shopping center [address] 434 Arastradero Rd [poi] Ravenswood Shopping Center [distance] fastest route [distance] nearest
+grocery store is 4 miles away [distance] 4 miles [poi_type] grocery store [poi] Whole Foods [distance] nearest [traffic_info] quickest route [poi_type] grocery store [poi] Whole Foods OK,
+4 miles (3 miles) [traffic_info] heavy traffic [poi_type] grocery store [address] 408 University Ave [poi] Trader Joes [distance] nearest [traffic_info] fastest route [poi_type] grocery store [address] 408 University Ave [poi] trader joes
+[traffic_info] heavy traffic [greeting] thank [weather_attribute] rain [date] next week
+Thanks.
+I need to know this for Redwood City.
+is on tuesday. [location] redwood city [greeting] thank [distance] nearest [poi_type] grocery store
+That's good, please give me directions.
+[poi] Stanford Express Care [address] 214 El Camino Real [greeting] thank [distance] nearest [poi_type] hospital
+Give me the address.
+meadow hospital is there a road block nearby but it is 3 miles away. can you still go there? [distance] 3 miles [traffic_info] road block nearby [poi_type] hospital [poi] Stanford Express Care
+we will get there quickly. [traffic_info] no traffic [address] 214 El Camino Real [poi] Stanford Childrens Health [poi] stanford childrens health [greeting] thank
+Okay, give me the address to it.
+Please give me an address and directions via the fastest route.
+or 269 Alger Dr 4 miles away with no traffic [traffic_info] no traffic [distance] 2 miles [address] 269 Alger Dr [poi] Webster Garage [poi] Webster Garage [greeting] thank Thank you
+[traffic_info] road block nearby [greeting] thank [distance] nearest [poi_type] grocery store
+the oakland saturday [location] oakland [sunday] cloudy, low of 60F, high of 70F [wednesday] hail, low of 60F, high of 70F [monday] overcast, low of 60F, high of 70F [greeting]
+any other quick route [distance] 6 miles [distance] 3 miles [poi] The Westin [address] 329 El Camino Real [distance] quick [poi] the westin [greeting] thank
+of [poi] The Westin [address] 329 El Camino Real [poi] the westin [greeting] thank [distance] nearest
+take me to the nearest shopping center
+Where is the closest one?
+[poi_type] grocery store [poi] Whole Foods [distance] within 3 miles [poi_type] grocery store [address] 819 Alma St. [poi] Whole Foods Ok, give me the directions to the grocery store within 3 miles and pick the shortest distance please.
+[traffic_info] road block nearby [address] 452 Arcadia Pl [poi] Safeway [distance] nearest (3 miles away) [traffic_info] quick route [poi_type] grocery store [address] 452 arcadia pl [poi] safeway
+is it raining next week
+Thanks.
+what is the temperature in new york this week
+Fresno please tell me the temperature for this week
+Okay, thank you
+what is the weather like today and tomorrow
+tuesday is the weather supposed to be cloudy [location] seattle [greeting] thank [weather_attribute] rain [date] this week
+will it rain next week
+show me the locations of all of the nearby coffee or tea place
+Give me directions to those coffee or tea places.
+car, is there anything else you need? [traffic_info] heavy traffic [distance] 1 mile [address] 394 Van Ness Ave [poi] Coupa [poi] coupa [greeting] thank
+Thanks.
+will it be cloudy next week
+is next week. [location] redwood city [greeting] thank [weather_attribute] rain [date] next week
+Thanks.
+Thanks.
+road block is 4 miles away. [distance] 4 miles [poi_type] shopping center [poi] The Clement Hotel [address] 657 Ames Ave [distance] nearest [traffic_info] quickest route [poi_type] shopping center [address] 657 Ames Ave
+[poi_type] shopping center [poi] Midtown Shopping Center [poi] midtown shopping center [greeting] thank [distance] nearest
+[distance] 2 miles [traffic_info] heavy traffic [address] 338 Alester Ave [poi] We're going to 338 Alester Ave, there is heavy traffic but it's just 2 miles away [distance] quickest route
+[poi_type] shopping center [address] 338 Alester Ave [poi] Midtown Shopping Center [poi] midtown shopping center [greeting] thank
+is 4 miles away with heavy traffic. We should reach there in less than 2 minutes [distance] 4 miles [traffic_info] heavy traffic [poi_type] chinese restaurant [poi] Jon's house [distance] quick route
+Give me the address.
+[traffic_info] car collision nearby [greeting] thank [distance] nearest [poi_type] shopping mall
+Thanks.
+chevron quick way [distance] 4 miles [poi_type] chinese restaurant [address] 269 Alger Dr [poi] Cafe Venetia [poi] cafe venetia [greeting] thank
+. [traffic_info] no traffic [poi] Tom's house [distance] fastest route [distance] nearest [poi_type] grocery store
+Thanks.
+for the information. [date] wednesday [date] the 5th [party] Jon [event] football game [greeting] thank [distance] nearest
+Thanks.
+Will it be warm in Durham this week?
+Okay, thanks
+Thanks.
+[poi_type] home [address] 56 cadwell street [poi] home [distance] shortest distance [poi_type] home [poi] home Please pick the shortest distance to get there, I need bathroom!!
+[poi_type] home [poi] home [address] 5671 barringer street [poi] home [distance] fastest [poi_type] home [address] 5671 barringer street [poi] home [greeting] thank
+4 miles, there is no traffic. The address is 528 Anton Ct. [traffic_info] no traffic [distance] 4 miles [address] 528 Anton Ct [poi] Pizza My Heart [greeting] thank
+[distance] 2 miles [poi] Pizza Chicago [distance] nearest [poi_type] grocery store
+no traffic [address] 915 Arbol Dr [poi] Tom's house [distance] nearest [traffic_info] fastest route [poi_type] friends house [address] 915 Arbol Dr. [poi] Tom's house
+That's good, please send me its address on screen and pick a quick route to reach there
+4 miles away [distance] 2 miles [traffic_info] road block nearby [poi_type] shopping center [poi] Midtown Shopping Center [distance]
+[distance] 4 miles [address] 434 Arastradero Rd [poi] Tom's house [distance] nearest (3 miles away) [traffic_info] quickest route [poi_type] friends house [address] 434 Arastradero Rd. [poi]
+Where is the closest one?
+Give me the address.
+[address] 819 Alma St [poi] Whole Foods [poi] whole foods [greeting] thank [distance] nearest [poi_type] grocery
+chu [greeting] thank [distance] nearest [poi_type] chinese restaurant
+is it good for me to get there? [distance] 5 miles [poi] Starbucks [poi] We're 5 miles away from Starbucks [traffic_info] avoid all heavy traffic
+find me the nearest coffee shop
+Thanks!
+Is there a heavy traffic to reach Coupa?
+[distance] quickest route [distance] nearest [poi_type] grocery store
+there is no traffic. [traffic_info] no traffic [address] 394 Van Ness Ave [poi] Coupa [poi] coupa [greeting] thank
+[traffic_info] no traffic [poi_type] tea or coffee shop [poi] Palo Alto Cafe [distance] nearest [poi_type] shopping
+Set the GPS for the quickest route to palo alto cafe please.
+tea place with no traffic nearby [traffic_info] no traffic [distance] 2 miles [poi_type] tea or coffee shop [poi] Cafe Venetia [poi] Cafe Venetia Sounds good. Let's go there.
+[poi_type] chinese restaurant [poi] Cafe Venetia [distance] quickest [poi] cafe venetia [greeting] thank
+Thanks.
+Menlo Park, thank you.
+for the help. [today] monday [location] menlo park [greeting] thank [distance] nearest [poi_type] grocery store
+What is the address?
+Thank you car!
+clear skies, low of 30F, high of 50F [today] monday [location] atherton [greeting] thank [distance] nearest
+does the local forecasts say it'll be cloudy today
+Will there be clear skies in San Jose next week?
+Thank you.
+Okay, where is the Westin?
+Yes, I need the address please.
+4 miles away with no traffic [distance] 3 miles [traffic_info] no traffic [poi_type] coffee shop [address] 792 Bedoin Street [poi] Starbucks [distance] within 3 miles (3 miles away) [traffic_info] quickest route
+[distance] 3 miles [poi] Teavana [distance] quick route [poi] teavana [greeting] thank [distance] nearest
+Thanks.
+[weather_attribute] rain [date] next few days [location] Camarillo [weather_attribute] temperature [date]
+What is the address?
+Los angeles thank you
+for the information. [location] los angeles [greeting] thank [distance] nearest [poi_type] grocery store
+meeting [event] conference [date] the 5th [greeting] thank [distance] nearest [poi_type] grocery store
+[date] the 13th [date] the 19th [party] executive team [party] vice president [event] conference [greeting] thank [distance] nearest
+will it be cloudy next week
+[agenda] discuss the merger [date] sunday [date] monday [event] meeting [greeting] thank [distance] nearest
+Thanks once again
+Thanks.
+is 6 miles away with moderate traffic. [distance] 6 miles [traffic_info] moderate traffic [poi] Boston [distance] fastest route [distance] nearest
+[location] san jose [greeting] thank [weather_attribute] rain [date] this week
+What is the date of my next doctor appointment and who will be attending it with me?
+football activity is scheduled for the 2nd at 10 am [date] the 2nd [date] the 10th [party] Jon [event] football activity [greeting] thank
+[party] Alex [party] Jeff [time] 6pm [time] 9am [time] 1pm [date] monday [date] the 13th [date] thursday [date] the 4th [greeting] thank
+That's good, please give me directions.
+[distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [poi] stanford express care [greeting] thank
+76 [traffic_info] road block nearby [distance] 5 miles [poi_type] hospital [poi] Stanford Express Care [poi] stanford express care [greeting] thank
+[address] 214 El Camino Real [poi] Stanford Express Care [poi] stanford express care [greeting] thank [distance] nearest
+Thank you.
+[distance] 3 miles [poi_type] shopping center [poi] Town and Country [distance] nearest [poi_type] grocery store
+find the nearest chinese restaurant
+car. [poi] Town and Country [address] 383 University Ave [poi] town and country [greeting] thank [distance] nearest
+That will have to do.
+I need to know the 2 day temperature for Grand Rapids.
+[location] grand rapids [greeting] thank [weather_attribute] rain [date] next week
+Any other options?
+Okay, give me the address to Coupa and set the GPS to go there.
+is it supposed to rain next week
+Thanks.
+[location] oakland [weather_attribute] snow [date] today [location] Oakland [greeting] thank [weather_attribute] rain [date] this week
+Will it rain in Manhattan today and tomorrow?
+is 4 miles away with no traffic. The address is 899 Ames Ct. [distance] 4 miles [traffic_info] no traffic [address] 899 Ames Ct [poi] swimming party [greeting] thank
+the 5th. [date] the 5th [date] the 7th [party] father [event] swimming activity [greeting] thank [distance] nearest
+Thanks!
+reminder [party] Jon [party] Alex [event] lab appointment [time] 2 pm [date] saturday [greeting] thank [distance] nearest
+and 4 miles away there is a road block nearby. [distance] 4 miles [traffic_info] road block nearby [poi_type] chinese restaurant [poi] The Clement Hotel That's okay, please give me directions.
+Pick the fastest route to reach there please!
+4 miles 4 miles 6 miles 7 miles 8 miles 9 miles 10 miles 11 miles 12 miles 13 miles 14 miles 15 miles 16 miles 17 miles 18 miles 19 miles 20 miles 21 miles 2 miles 3 miles 4 miles 5 miles 6 miles 7 miles 8 miles 9 miles 10 miles 11 miles 12 miles 19 miles 20 miles 3 miles 4 miles 7 miles 9 miles 12 miles 19 miles 20 miles 4 miles 8 miles
+[poi] Panda Express [address] 842 Arrowhead Way [poi] panda express [greeting] thank [distance] nearest
+[address] 842 Arrowhead Way [poi] Panda Express [poi] panda express [greeting] thank [distance] nearest
+Thanks.
+. [time] 2pm [time] 11am [date] the 5th [date] the 11th [party] boss [event] meeting [greeting] thank
+Thanks!
+will it rain next week
+is it going to snow next week
+chinese restaurant is 4 miles away with no traffic. Setting directions now. [distance] 4 miles [traffic_info] no traffic [poi_type] chinese restaurant [poi] Jon [distance] nearest (4 miles away) [traffic_info] fastest route
+. [time] 6pm [time] 7pm [date] the 12th [date] the 14th [date] the 19th [greeting] thank
+what is the weather like today
+Is it gonna rain in Compton today and tomorrow?
+Will it rain in Manhattan today and tomorrow?
+Thanks.
+is it going to be cloudy this week
+overcast [location] grand rapids [monday] cloudy, low of 60F, high of 70F [friday] overcast, low of 60F, high of 70F [wednesday] dry, low of 60F, high of 70F [thursday] drizzle, low of 60F, high of 70F
+Thanks once again
+That's good, please give me directions.
+Will it be humid in Manhattan tomorrow?
+overcast, low of 40F, high of 60F [today] monday [location] manhattan [greeting] thank [distance] nearest
+Thanks!
+I want to know if it will be humid in New York over the next few days
+or else it will be cloudy. [location] new york [greeting] thank [distance] nearest [poi_type] grocery store
+Please pick a quick route to go there, I need bathroom!!
+will it rain next week
+Thanks.
+ing hot 3 miles away. 4 miles away. 5 miles away. 6 miles away. 7 miles away. 8 miles. 9 miles. 10 miles. 11 miles. 12 miles. 13 miles. 14 miles. 15 miles. 16 miles. 17 miles. 18 miles. 19 miles. 20 miles. [distance] [distance] [distance]
+will it rain next week
+Please give me the fastest route.
+That's good, please give me directions.
+[address] 434 Arastradero Rd [poi] Four Seasons [distance] quickest [distance] nearest [poi_type] grocery store
+is on the 2nd with your brother. Would you like to know the times as well? [date] the 2nd [date] the 2nd [party] brother [party] sister [event] lab appointment [event] lab appointment Yes please that will
+. [time] 5pm [time] 4pm [date] monday [date] the 5th [date] thursday [date] the 8th [greeting] thank
+give me directions to the nearest grocery store
+Thanks!
+conversation]
+Give me the address.
+any traffic [poi_type] chinese restaurant [poi] Cafe Venetia [poi] cafe venetia [greeting] thank [distance]
+[traffic_info] heavy traffic [distance] 2 miles [distance] 3 miles [greeting] thank [weather_attribute] rain [date] next week
+[poi_type] tea or coffee place [address] 269 Alger Dr [poi] Cafe Venetia [poi] cafe venetia [greeting] thank
+Okay, give me the address to the restaurant and the details on the map, please.
+[distance] 5 miles [poi] Pizza Chicago [address] 915 Arbol Dr [distance] quick route [poi] pizza chicago [greeting] thank
+is it cloudy in the next 7 days
+ct [greeting] thank [weather_attribute] rain [date] next week
+Yes, please, pick the quickest route to go there and send it on my screen!
+[poi] Palo Alto Garage R [poi] palo alto garage r [greeting] thank [distance] nearest [poi_type] grocery store
+Please give me the quickest route.
+I want to know if it will be humid in grand rapids during the next week
+will it rain next week
+caron [distance] fastest [poi_type] grocery store [poi] shopping center [date] today and tomorrow
+road [distance] 6 miles [distance] 4 miles [poi_type] grocery store [address] 452 Arcadia Pl [poi] Whole Foods [traffic_info] quickest route
+car assistant [poi] Safeway [address] 452 Arcadia Pl [poi] Tom's house [poi] safeway [greeting] thank
