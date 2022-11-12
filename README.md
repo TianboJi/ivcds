@@ -15,8 +15,8 @@
 ## IvCDS
 - Files for training, inference and ablation study are available  in directory `simulator`. 
 - `run_clm.py` is the file for training, while `0-train-gpt-2.sh` is the running script.
-- `inference/0-infer-gpt2.sh` is the script for interence.
-- `inference/eval.ipynb` is a jupyter file for the evaluation after IvCDS's training&interence.
+- `inference/0-infer-gpt2.sh` is the script for inference.
+- `inference/eval.ipynb` is a jupyter file for the evaluation after IvCDS's training&inference.
 - Directory `ablation` includes all scripts for ablation study. We provide three example scripts, please check any of them. 
 
 
