@@ -30,7 +30,8 @@
 ## Notes
 1. Before running a bash script, please modify the paths in it to the paths of your own enviroment.
 2. The training of IvCDS takes about two hours on a single RTX 3090. 
-3. Due to the file size, we cannot include the trained checkpoints. If you would like to use them, please contact us.
+3. Checkpoints for models in our paper are availble in this [link](https://drive.google.com/drive/folders/1xZYvE3sX59aOgB_9bj_yt5SnfNtzFcgV?usp=sharing).
+
 4. The paper is still under review and this repository is at an early stage. The instructions may not be as clear as expected, and we will update it in the future.
 5. If you encounter any problem, please email jitianbo@gmail.com
 
