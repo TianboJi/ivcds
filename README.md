@@ -21,7 +21,7 @@
 
 
 
-## Baseslines
+## Baselines
 - Files For baselines is under directory `baselines`
 - We use T5-large as an example, where `0-train-ALL-t5-large.sh` and `1-eval-ALL-t5-large.sh` are the files for training and inference, respectively.
 - The evaluation of baselines uses the exact same file as IvCDS, see `inference/eval.ipynb`.
